@@ -3,7 +3,7 @@ title: Connects (Upwork)
 category: Concepts
 summary: Платная "валюта" Upwork, необходимая для отклика на заказы — 10 бесплатных в месяц или 80 при подписке Plus
 tags: [connects, upwork, billing]
-sources: [kak-zaregistrirovatsya-na-upwork, obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, skolko-nuzhno-konnektov, kak-nastroit-profil-upwork-polnoe-rukovodstvo]
+sources: [kak-zaregistrirovatsya-na-upwork, obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, skolko-nuzhno-konnektov, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-zarabatyvat-na-upwork-v-2025]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -37,6 +37,12 @@ Connects на вакансии, где нет соответствующей р�
 которому нужно минимум ~20 откликов.[^7] Отдельная функция **Boost** (доплата за
 поднятие видимости отклика) не рекомендуется — стоимость обычно не оправдывает эффект.[^8]
 
+**Конкретная цена и предупреждение о рисках (независимый источник, топ-3% фрилансер):**
+1 Connect ≈ $0.15; пример — отклик за 18 Connects обходится в $2.70. При плохо
+оформленном, неоптимизированном профиле фрилансер рискует потратить сотни долларов
+(~$500) на Connects, так и не получив первую работу на $20 — прямое предупреждение
+инвестировать сначала в качество профиля, а не в объём откликов.[^10]
+
 ## Appearances in Sources
 
 - [[kak-zaregistrirovatsya-na-upwork](pages/kak-zaregistrirovatsya-na-upwork.md)] — механика Connects, лимиты бесплатного и платного тарифа, привязка способа оплаты
@@ -44,6 +50,7 @@ Connects на вакансии, где нет соответствующей р�
 - [[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)] — докупка Connects на практике при активном отклике
 - [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] — рост стоимости отклика со временем, цена покупки, невыгодность Boost
 - [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] — подтверждение цены Plus ($15/мес за 80 Connects)
+- [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] — точная цена Connect и предупреждение о риске потратить сотни долларов впустую
 
 ## Related Concepts
 
@@ -64,3 +71,4 @@ Connects на вакансии, где нет соответствующей р�
 [^7]: [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] [02:00-04:00] [synthesis] — рост стоимости откликов, цена покупки Connects, недостаточность бесплатного и даже платного тарифа
 [^8]: [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] [08:02-09:02] — "я не рекомендую [Boost] пользоваться, потому что ... 12 коннекто - это дорого для того чтобы участвовать, а бусту просто перебить"
 [^9]: [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] [04:00-05:03] — "плюс стоит 15 долларов в месяц ... за 15 долларов мы получаем 80 коннекто"
+[^10]: [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] [14:00-15:01] [synthesis] — цена Connect ~$0.15, пример расчёта, предупреждение о потенциальных сотнях долларов расходов при плохом профиле

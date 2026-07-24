@@ -3,7 +3,7 @@ title: Портфолио
 category: Concepts
 summary: Раздел профиля, который сильнее всего влияет на решение клиента; можно стартовать без реальных клиентов через демо-проект
 tags: [portfolio, upwork]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, pochemu-ne-doveryayut-proekty, kak-nastroit-profil-upwork-polnoe-rukovodstvo]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, pochemu-ne-doveryayut-proekty, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-zarabatyvat-na-upwork-v-2025]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -60,7 +60,10 @@ updated: 2026-07-24
 источника, портфолио важнее для прохождения автоматического одобрения профиля (одного из
 компонентов 100%-заполненности), чем для реального выбора клиентом — заказчики чаще
 смотрят на историю выполненных работ и отзывы. Наблюдение автора: опытные фрилансеры
-годами не обновляют портфолио после первичного заполнения.[^10]
+годами не обновляют портфолио после первичного заполнения.[^10] **Независимое
+подтверждение более авторитетным источником:** фрилансер топ-3% с 340+ выполненными
+контрактами (почти все на 5 звёзд) прямо говорит, что портфолио у него "отходит на
+второй план" — живая история заказов продаёт лучше, чем примеры работ.[^11]
 
 ## Appearances in Sources
 
@@ -69,6 +72,7 @@ updated: 2026-07-24
 - [[kak-zaregistrirovatsya-na-upwork](pages/kak-zaregistrirovatsya-na-upwork.md)] — механика загрузки: лимит работ, шаблоны презентации, отношение площадки к внешним ссылкам
 - [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] — постепенная замена демо-работ реальными выполненными заказами
 - [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] — портфолио важнее для одобрения профиля, чем для выбора клиентом
+- [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] — независимое подтверждение от фрилансера топ-3% с 340+ контрактами
 - [[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)] — техника компиляции описания, требование английского языка и аккуратного оформления работ
 - [[pochemu-ne-doveryayut-proekty](pages/pochemu-ne-doveryayut-proekty.md)] — мета-аргумент о согласованности профиля и специализации для дизайн-ниш
 
@@ -90,3 +94,4 @@ updated: 2026-07-24
 [^8]: [[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)] [04:00-05:00] [synthesis] — требование английского языка для работ в портфолио и аккуратного визуального оформления
 [^9]: [[pochemu-ne-doveryayut-proekty](pages/pochemu-ne-doveryayut-proekty.md)] [03:01] — "когда вы работаете в сфере дизайна ... вы не можете и не имеете права иметь профиль, который с точки зрения дизайна выглядит плохо ... для заказчика это уже знак того, что вы не сможете хорошо выполнить свою работу"
 [^10]: [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] [25:00-26:00] [synthesis] — портфолио важнее для автоматического одобрения, чем для выбора заказчиком; заказчики смотрят в первую очередь на work history и отзывы
+[^11]: [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] [10:00-11:01] — "у меня уже там выполнено работ на опорке там плюс-минус 340 работ ... в таком случае портфолио уже отходит на второй план"

@@ -3,7 +3,7 @@ title: Выбор заказчика
 category: Concepts
 summary: На что смотреть в истории заказчика перед откликом (Kwork) или в самом объявлении (Upwork) — бейдж, число откликов, свежесть, бюджет, локация
 tags: [client-selection, strategy]
-sources: [kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, luchshiy-sposob-poluchat-zakazy, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-vzyat-pervyy-zakaz-freelance-upwork]
+sources: [kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, luchshiy-sposob-poluchat-zakazy, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -53,6 +53,15 @@ Connects.[^6]
 нулём засчитанных часов работы). Высокий бюджет заказчика сам по себе не гарантирует его
 надёжность — важен именно паттерн отзывов и историю выполнения, а не только сумма трат.[^7]
 
+**Обратная сторона — клиентские фильтры вакансий:** заказчик тоже может фильтровать
+исполнителей по заработку, ставке, геолокации, языкам и статусу (Top Rated и т.д.). Если
+профиль фрилансера не проходит фильтр конкретной вакансии, это визуально помечается для
+заказчика — независимый источник (топ-3% фрилансер) не рекомендует откликаться на такие
+вакансии вообще, особенно на старте, чтобы не тратить Connects на заведомо низкий шанс
+быть замеченным.[^8] Дополняет [[segmentatsiya-klientov-upwork](pages/segmentatsiya-klientov-upwork.md)] —
+эти фильтры фактически один из механизмов, которым заказчики "золотого" сегмента
+отсеивают неподходящих исполнителей.
+
 ## Appearances in Sources
 
 - [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] — критерии оценки заказчика: бейдж, покупки, размещённые проекты, процент найма
@@ -61,6 +70,7 @@ Connects.[^6]
 - [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] — конкретный ориентир: заказчики решают в первые ~3 часа
 - [[5-oshibok-upwork-frilans-s-nulya](pages/5-oshibok-upwork-frilans-s-nulya.md)] — детальный чек-лист: процент найма, страна, история трат, верификация
 - [[kak-vzyat-pervyy-zakaz-freelance-upwork](pages/kak-vzyat-pervyy-zakaz-freelance-upwork.md)] — рабочий пример: высокий бюджет заказчика при плохом паттерне отзывов
+- [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] — клиентские фильтры вакансий и визуальная отметка несоответствия профиля
 
 ## Related Concepts
 
@@ -68,6 +78,7 @@ Connects.[^6]
 - [[proposals-cover-letters](pages/proposals-cover-letters.md)] — отклик тратится впустую на непредсказуемого заказчика
 - [[bezopasnost-sdelki](pages/bezopasnost-sdelki.md)] — вторая сторона защиты фрилансера от рискованных сделок
 - [[connects-upwork](pages/connects-upwork.md)] — ограниченный ресурс, который защищает этот фильтр на Upwork
+- [[segmentatsiya-klientov-upwork](pages/segmentatsiya-klientov-upwork.md)] — стратегический уровень выбора клиента, дополняющий тактический чек-лист этой страницы
 
 ## Footnotes
 
@@ -78,3 +89,4 @@ Connects.[^6]
 [^5]: [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] [14:02] — "заказчики всегда в течение первых 3 часов реагируют, если они не среагировали в течение 3 часов, то скорее всего всё это ушло в историю"
 [^6]: [[5-oshibok-upwork-frilans-s-nulya](pages/5-oshibok-upwork-frilans-s-nulya.md)] [04:00-05:00] [synthesis] — критерии оценки заказчика: процент найма, страна, история трат/найма, верификация оплаты и телефона
 [^7]: [[kak-vzyat-pervyy-zakaz-freelance-upwork](pages/kak-vzyat-pervyy-zakaz-freelance-upwork.md)] [02:03-03:01] [synthesis] — разбор реального заказчика с высоким бюджетом, но плохими отзывами и подозрительным паттерном часов
+[^8]: [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] [16:00-17:01] [synthesis] — клиентские фильтры вакансий и визуальная отметка несоответствия профиля

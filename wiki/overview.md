@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025]
 updated: 2026-07-24
 ---
 
@@ -139,6 +139,13 @@ VPN прямым риском бана, тогда как несколько д�
 называет комиссию Upwork 10% против 20% у Fiverr — расходится с ранее записанными ~20%,
 возможно отражая переход на плоскую комиссию (см. Open Questions).
 
+Восемнадцатый источник — один из самых насыщенных в вики: фрилансер топ-3% ($61k/год,
+5 лет опыта). Вводит [[segmentatsiya-klientov-upwork](pages/segmentatsiya-klientov-upwork.md)]
+(три сегмента заказчиков по готовности платить), существенно детализирует пороги бейджей
+в [[job-success-score](pages/job-success-score.md)] (конкретные цифры для Top Rated / Top
+Rated Plus / Expert-Vetted), даёт SEO-логику ранжирования профиля по ключевым словам и
+независимо подтверждает, что портфолио теряет значимость с ростом истории заказов.
+
 Про Fiverr источников пока не добавлено.
 
 ## Open Questions
@@ -189,4 +196,5 @@ VPN прямым риском бана, тогда как несколько д�
 - [[lestnitsa-frilans-nish](pages/lestnitsa-frilans-nish.md)]
 - [[pochasovaya-vs-fiksirovannaya-oplata](pages/pochasovaya-vs-fiksirovannaya-oplata.md)]
 - [[nakrutka-otzyvov](pages/nakrutka-otzyvov.md)]
+- [[segmentatsiya-klientov-upwork](pages/segmentatsiya-klientov-upwork.md)]
 - [[personalizatsiya-lenty-zakazov](pages/personalizatsiya-lenty-zakazov.md)]
