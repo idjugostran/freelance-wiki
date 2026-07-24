@@ -3,7 +3,7 @@ title: Выплаты и налоги на Fiverr
 category: Concepts
 summary: Флэт-комиссия 20%, 14 дней "зависания" средств, вывод через Payoneer, налоговая форма W-9 (в отличие от W-8BEN на Upwork)
 tags: [payments, taxes, fiverr, payoneer, commission]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, rabota-na-fiverr-i-upwork-iz-rf-rb, chestnoe-mnenie-o-fiverr-2-goda]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, rabota-na-fiverr-i-upwork-iz-rf-rb, chestnoe-mnenie-o-fiverr-2-goda, polnyy-gayd-po-nastroyke-giga-fiverr]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -25,7 +25,9 @@ Fiverr источник не упоминает никаких иных став
 сделки.[^7]
 
 **Задержка вывода:** заработанная сумма "зависает" (pending) 14 дней после приёмки работы
-клиентом, прежде чем её можно вывести.[^2]
+клиентом, прежде чем её можно вывести.[^2] **Уточнение от независимого источника:** для
+фрилансеров уровня Top Rated (см. [[urovni-fiverr](pages/urovni-fiverr.md)]) эта задержка
+сокращается до 7 дней.[^9]
 
 **Вывод средств:** через Payoneer — тот же сервис, что используется и на Upwork.
 Реферальная регистрация даёт бонус $25 за первую заработанную $1000.[^3]
@@ -61,6 +63,7 @@ PayPal → банковская карта другой юрисдикции (в
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — комиссия, задержка вывода, механика Payoneer, форма W-9, статус ФОП
 - [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] — альтернативная цепочка вывода через казахскую карту и криптовалюту
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — уточнение комиссии с покупателя (~5.5%) и оценка суммарных потерь (~30%)
+- [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] — сокращённая до 7 дней задержка вывода для Top Rated фрилансеров
 
 ## Related Concepts
 
@@ -79,3 +82,4 @@ PayPal → банковская карта другой юрисдикции (в
 [^6]: [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] [03:01-04:01] [synthesis] — цепочка вывода Fiverr → PayPal → казахская карта → крипта → российская карта, ~10 минут на процесс
 [^7]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [15:00-17:02] [synthesis] — комиссия ~5.5% с покупателя дополнительно к 20% с фрилансера
 [^8]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [15:00-17:02] [synthesis] — оценка суммарных потерь ~30% при многослойном выводе для российских резидентов
+[^9]: raw/Z3tG15_rNPk.description [synthesis] — "После успешно выполненного заказа вы сможете снять деньги только спустя 14 дней. Для Top Rated фрилансеров это период сокращен до 7 дней"

@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -72,11 +72,35 @@ Basic €24 (1 концепт, PNG на прозрачном фоне, 3 рев�
 printable-файл) → Premium €145 (+ 3D-мокап) — конкретная иллюстрация механики Basic/Standard/
 Premium, описанной выше в общем виде.[^14]
 
+**Сужение ключевых слов резко снижает конкуренцию (независимый источник, экранная
+демонстрация):** заголовок "I will build a website blog" — 92 000 конкурирующих gig;
+добавление одного уточняющего слова ("WordPress") снижает число вдвое, до 42 000.
+Минимум 4 слова в заголовке — требование площадки. Дополнительный приём — включение срока
+выполнения прямо в заголовок (например "within 48 hrs") дополнительно снижает
+конкуренцию.[^15]
+
+**Поле "Type" разблокирует основной объём настроек:** без выбора типа услуги (подкатегории)
+доступно всего 4 дополнительных поля; выбор конкретного типа резко расширяет число
+настраиваемых параметров пакетов. Смена типа после заполнения остальных полей сбрасывает
+их — рекомендуется выбирать тип в самом начале настройки.[^16] Максимум 5 тегов, с
+ограничением по числу слов в каждом.[^17]
+
+**Видео повышает шанс выбора на 40% — официальная статистика Fiverr:** платформа прямо
+сообщает продавцам эту цифру. Разрешено до 2 PDF-документов вложением к gig.[^18]
+
+**Requirements и предупреждение в описании (независимый источник):** requirements — что
+нужно получить от заказчика для старта работы, важно явно расшифровывать термины
+("design preferences" = цвета и шрифты, а не просто "макет"). Отдельная рекомендация —
+прямо в описании попросить клиента написать перед покупкой, а не оформлять заказ сразу;
+размещать это предупреждение ближе к началу текста, а не в самом низу — не все клиенты
+дочитывают описание полностью.[^19]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — полная структура gig, правила написания описания, оформление обложки
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — система ревизий, платное продвижение gig
 - [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — метрика "in queue", реальный пример трёхуровневого ценообразования
+- [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] — SEO-эффект сужения ключевых слов, роль поля Type, лимит тегов, эффект видео, requirements
 
 ## Related Concepts
 
@@ -101,3 +125,8 @@ Premium, описанной выше в общем виде.[^14]
 [^12]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [17:02-18:00] [synthesis] — платное продвижение gig, pay-to-win динамика, работа без рекламы в первый год
 [^13]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [05:00-06:01] [synthesis] — метрика "in queue", пример расчёта текущей загрузки продавца
 [^14]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [06:01-07:01] [synthesis] — трёхуровневое ценообразование gig на примере услуги по разработке логотипа
+[^15]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [02:03-03:01] [synthesis] — снижение конкуренции с 92 000 до 42 000 gig при уточнении заголовка, минимум 4 слова, приём со сроком выполнения в заголовке
+[^16]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [04:00-05:01] [synthesis] — поле Type разблокирует дополнительные настройки, сброс при смене типа
+[^17]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [06:02-07:02] [synthesis] — лимит 5 тегов
+[^18]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [15:02-16:03] — "сам fiver пишет что видео увеличивает ваш шанс что выберут именно вас на 40 процентов"
+[^19]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [12:01-14:00] [synthesis] — requirements, расшифровка терминов, предупреждение написать перед заказом

@@ -3,7 +3,7 @@ title: Уровни / бейджи Fiverr
 category: Concepts
 summary: Система уровней New Seller → Level 1 → Level 2 → Top Rated, по критериям заметно прозрачнее механики JSS на Upwork
 tags: [levels, badges, fiverr, rating]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -45,11 +45,18 @@ updated: 2026-07-24
 пересчитывается — независимое подтверждение существования и видимости этой механики
 изнутри реального аккаунта продавца.[^6]
 
+**Точное число уровней и лимит gig для новичков (независимый источник):** четыре уровня —
+без уровня (New Seller) → Level 1 → Level 2 → Top Rated (самый строгий). Лимит в 7
+активных gig для продавцов без уровня подтверждён как официальное правило площадки, а не
+случайное совпадение (тот же лимит независимо упоминался в
+[[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)]).[^7]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — описание системы уровней, критериев и личный кейс влияния скорости ответа
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — анонимный пост-проектный опросник и его влияние на скрытый алгоритм выдачи
 - [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — подтверждение механики уровней через дашборд продавца
+- [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] — точное число уровней, официальный лимит 7 gig для новичков
 
 ## Related Concepts
 
@@ -66,3 +73,4 @@ updated: 2026-07-24
 [^4]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [26:00] [synthesis] — личный опыт автора: несвоевременный ответ повлиял на видимость профиля
 [^5]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [18:00-20:02] [synthesis] — анонимный пост-проектный опросник клиента, влияние на скрытый алгоритм выдачи, нестабильность потока заказов
 [^6]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [21:02-22:00] [synthesis] — раздел "My Levels" в дашборде продавца, периодический пересчёт уровня
+[^7]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [00:00-01:00] — "у меня было опубликовано около 7 гигов это максимум для новичков для тех кто не имеет уровень аккаунта то есть всего существует получается четыре уровня"

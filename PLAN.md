@@ -49,7 +49,7 @@ slug итоговой страницы-источника. Ничего боль
 | 4 | ✅ | КАК ЗАРАБОТАТЬ НА FIVERR: ЧАСТЬ 1 | URelocate | [ссылка](https://www.youtube.com/watch?v=Hknq3wZCAGM) | [[kak-zaregistrirovatsya-na-fiverr](wiki/pages/kak-zaregistrirovatsya-na-fiverr.md)] |
 | 5 | ✅ | Честное мнение о Fiverr спустя 2 года работы | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=9G731MRrIPc) | [[chestnoe-mnenie-o-fiverr-2-goda](wiki/pages/chestnoe-mnenie-o-fiverr-2-goda.md)] |
 | 6 | ✅ | Как Заработать на Fiverr? С чего нужно начать? | МЕНТОР ДЕМЕНТОР | [ссылка](https://www.youtube.com/watch?v=ZQDRTJ_yu7o) | [[s-chego-nachat-na-fiverr-mentor-dementor](wiki/pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] |
-| 7 | ⬜ | ПОЛНЫЙ ГАЙД ПО НАСТРОЙКЕ ГИГА НА FIVERR | moek | [ссылка](https://www.youtube.com/watch?v=Z3tG15_rNPk) | |
+| 7 | ✅ | ПОЛНЫЙ ГАЙД ПО НАСТРОЙКЕ ГИГА НА FIVERR | moek | [ссылка](https://www.youtube.com/watch?v=Z3tG15_rNPk) | [[polnyy-gayd-po-nastroyke-giga-fiverr](wiki/pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] |
 | 8 | ⬜ | How to Create a Selling Gig on Fiverr in 10 Minutes? (Part 2) | URelocate | [ссылка](https://www.youtube.com/watch?v=eNIlRFesgk0) | |
 | 9 | ⬜ | Мой первый заказ на фрилансе на $650 (Fiverr) | САША ГОРНАГО | [ссылка](https://www.youtube.com/watch?v=gA73-J8kkDo) | |
 | 10 | ⬜ | Мошенники на фрилансе / Fiverr для новичков | САША ГОРНАГО | [ссылка](https://www.youtube.com/watch?v=GHopqwuclJ8) | |
@@ -69,5 +69,5 @@ slug итоговой страницы-источника. Ничего боль
 ## Прогресс
 
 - Upwork: 20 / 20 обработано
-- Fiverr: 6 / 20 обработано
-- **Всего: 26 / 40**
+- Fiverr: 7 / 20 обработано
+- **Всего: 27 / 40**
