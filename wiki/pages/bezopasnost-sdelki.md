@@ -2,8 +2,8 @@
 title: Безопасность сделки (эскроу)
 category: Concepts
 summary: Деньги заказчика замораживаются биржей до приёмки работы и не возвращаются ему напрямую — уход в личные мессенджеры лишает этой защиты
-tags: [escrow, safety, kwork, upwork]
-sources: [kak-vzyat-pervyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, opyt-na-upwork-plyusy-minusy]
+tags: [escrow, safety, kwork, upwork, fiverr]
+sources: [kak-vzyat-pervyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, opyt-na-upwork-plyusy-minusy, kak-nachat-na-fiverr-polnyy-gayd]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -33,17 +33,27 @@ updated: 2026-07-24
 вариантов — он лишает защиты эскроу/площадки за пределами учтённой части, но негативные
 последствия (отзыв, падение рейтинга) всё равно фиксируются в профиле целиком.[^4]
 
+**Подтверждение на Fiverr:** клиент оплачивает всю сумму заказа платформе сразу при
+заказе — та же логика предоплаты, что и в описанных выше эскроу-механиках Kwork/Upwork.
+Платформа так же прямо рекомендует никогда не выходить за её пределы (не переходить в
+Telegram/WhatsApp/почту, не передавать контактные данные, обмениваться файлами только
+через платформу). Дополнительная деталь, не встречавшаяся в других источниках: функция
+Activate Watermark — автоматически ставит водяной знак на файлы, присылаемые клиенту на
+проверку, защищая фрилансера от использования клиентом неоплаченной работы.[^5]
+
 ## Appearances in Sources
 
 - [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] — механика заморозки денег на Kwork и риски ухода в личные мессенджеры
 - [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] — аналогичный именованный эскроу-фонд на Upwork
 - [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] — конкретный кейс обвала JSS из-за смешанного (частично вне площадки) формата работы
+- [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — предоплата клиента на Fiverr, запрет ухода с площадки, функция водяного знака
 
 ## Related Concepts
 
 - [[mestnye-birzhi-frilansa](pages/mestnye-birzhi-frilansa.md)] — площадка, на примере которой описана эта механика
 - [[vybor-zakazchika](pages/vybor-zakazchika.md)] — вторая сторона защиты фрилансера от рискованных сделок
 - [[upwork](pages/upwork.md)] — площадка, где действует аналогичный эскроу-фонд
+- [[fiverr](pages/fiverr.md)] — площадка, где действует аналогичная механика предоплаты
 
 ## Footnotes
 
@@ -51,3 +61,4 @@ updated: 2026-07-24
 [^2]: [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] [14:00-15:01] — "если же вы вывели заказчика в Telegram или WhatsApp, здесь уже как бы пеняйте на себя ... здесь уже никакой безопасной сделки нет"
 [^3]: [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] [03:00] — "upwork выступает надёжным посредником, который хранит у себя деньги в фонде, он называется upwork escrow, и выплачивает их вам после выполнения работы"
 [^4]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [11:01-11:14] [synthesis] — смешанный формат работы (частично вне площадки), конфликт с клиентом, обвал JSS со 100% до 67%
+[^5]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [33:00-39:02] [synthesis] — предоплата клиента Fiverr, запрет ухода с площадки, функция Activate Watermark

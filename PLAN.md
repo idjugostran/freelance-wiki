@@ -43,7 +43,7 @@ slug итоговой страницы-источника. Ничего боль
 
 | № | Статус | Название | Канал | Ссылка | Wiki-страница |
 |---|---|---|---|---|---|
-| 1 | ⬜ | Як почати заробляти на Fiverr: ПОВНИЙ ГАЙД | Креативна Фрілансерка | [ссылка](https://www.youtube.com/watch?v=SNYlyEOd2A4) | |
+| 1 | ✅ | Як почати заробляти на Fiverr: ПОВНИЙ ГАЙД | Креативна Фрілансерка | [ссылка](https://www.youtube.com/watch?v=SNYlyEOd2A4) | [[kak-nachat-na-fiverr-polnyy-gayd](wiki/pages/kak-nachat-na-fiverr-polnyy-gayd.md)] |
 | 2 | ⬜ | Как заработать на FIVERR (За 10 минут!) | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=cHhSvz2dScc) | |
 | 3 | ⬜ | Как работать на Fiverr и UpWork из России и Беларуси | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=0b1NOZi-EOw) | |
 | 4 | ⬜ | КАК ЗАРАБОТАТЬ НА FIVERR: ЧАСТЬ 1 | URelocate | [ссылка](https://www.youtube.com/watch?v=Hknq3wZCAGM) | |
@@ -69,5 +69,5 @@ slug итоговой страницы-источника. Ничего боль
 ## Прогресс
 
 - Upwork: 20 / 20 обработано
-- Fiverr: 0 / 20 обработано
-- **Всего: 20 / 40**
+- Fiverr: 1 / 20 обработано
+- **Всего: 21 / 40**

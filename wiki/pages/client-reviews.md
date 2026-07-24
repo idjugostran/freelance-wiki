@@ -2,8 +2,8 @@
 title: Отзывы клиентов
 category: Concepts
 summary: Отзывы клиентов формируют JSS и историю проектов; важно активно просить отзыв в конце работы
-tags: [reviews, upwork]
-sources: [kak-zarabotat-na-upwork-10-minut, vse-pro-frilans-na-upwork-za-12-minut, kak-nastroit-profil-upwork-polnoe-rukovodstvo, formula-idealnoy-zayavki-upwork]
+tags: [reviews, upwork, fiverr]
+sources: [kak-zarabotat-na-upwork-10-minut, vse-pro-frilans-na-upwork-za-12-minut, kak-nastroit-profil-upwork-polnoe-rukovodstvo, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -43,18 +43,25 @@ LinkedIn), с которым работали до или помимо площ�
 импорта отзывов в профиль выше — работает на уровне самой заявки, ещё до того, как клиент
 решит открыть профиль.[^6]
 
+**Отзывы на Fiverr не гарантированы (параллель с Upwork):** независимый источник по Fiverr
+прямо отмечает, что платформа не обязывает клиента оставлять отзыв — если фрилансер хочет
+получить отзыв, нужно прямо попросить об этом клиента. Тот же практический совет, что и на
+Upwork выше ("просить отзыв нужно всегда"), просто подтверждённый на другой платформе.[^7]
+
 ## Appearances in Sources
 
 - [[kak-zarabotat-na-upwork-10-minut](pages/kak-zarabotat-na-upwork-10-minut.md)] — важность отзывов и практика активного запроса отзыва в конце проекта
 - [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] — отбор клиентов по поведению в диалоге до принятия заказа
 - [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] — механика импорта отзывов от клиентов вне Upwork
 - [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] — техника вставки коротких отзывов прямо в текст заявки
+- [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — параллельное наблюдение: отзыв на Fiverr тоже не гарантирован автоматически
 
 ## Related Concepts
 
 - [[job-success-score](pages/job-success-score.md)] — отзывы — прямой источник данных для расчёта JSS
 - [[upwork](pages/upwork.md)] — платформа, на которой действует система отзывов
 - [[vybor-zakazchika](pages/vybor-zakazchika.md)] — аналогичный принцип отбора заказчика перед откликом
+- [[fiverr](pages/fiverr.md)] — платформа, где действует аналогичное правило
 
 ## Footnotes
 
@@ -64,3 +71,4 @@ LinkedIn), с которым работали до или помимо площ�
 [^4]: [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] [10:01] — "если клиент торгуется за каждую копейку, показывает своё неуважительное отношение к вам ... я бы не советовал связываться с таким человеком"
 [^5]: [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] [28:02-29:00] [synthesis] — механика запроса отзыва у клиентов, с которыми работали вне Upwork
 [^6]: [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] [07:01-08:01] — "я готов целовать руки тому, кто придумал вставлять отзывы прямо в заявку на Upwork"
+[^7]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [35:00-36:00] [synthesis] — отзыв на Fiverr не гарантирован, нужно прямо просить клиента его оставить

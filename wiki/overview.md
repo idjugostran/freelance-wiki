@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd]
 updated: 2026-07-24
 ---
 
@@ -164,8 +164,19 @@ Rated Plus / Expert-Vetted), даёт SEO-логику ранжирования 
 альтернативу демо-проекту в [[portfolio](pages/portfolio.md)] — реальную бесплатную работу для
 целевого рынка напрямую, минуя площадку (кейс: 3 из 3 бесплатных клиентов из Y Combinator
 конвертировались в платных), и новую технику для [[client-reviews](pages/client-reviews.md)] —
-вставку коротких отзывов прямо в текст заявки. Этим закрывается блок Upwork (20/20); Fiverr
-пока не начат.
+вставку коротких отзывов прямо в текст заявки. Этим закрывается блок Upwork (20/20).
+
+Первый источник по Fiverr (того же автора, что и парный гайд по Upwork выше) открывает
+новый раздел вики. Ключевое структурное отличие сразу заявлено источником: на
+[[fiverr](pages/fiverr.md)] клиент находит фрилансера сам через [[gig-fiverr](pages/gig-fiverr.md)]
+(опубликованную услугу), а не фрилансер рассылает отклики, как на
+[[upwork](pages/upwork.md)] — личный опыт автора: первый заказ на Fiverr пришёл быстрее.
+Вводит [[urovni-fiverr](pages/urovni-fiverr.md)] (система уровней, по независимой оценке
+прозрачнее JSS) и [[vyplaty-i-nalogi-na-fiverr](pages/vyplaty-i-nalogi-na-fiverr.md)]
+(флэт-комиссия 20%, форма W-9 вместо W-8BEN на Upwork). Подтверждает на новой площадке уже
+известные из Upwork/Kwork принципы — эскроу-подобная предоплата
+([[bezopasnost-sdelki](pages/bezopasnost-sdelki.md)]) и негарантированность отзыва
+([[client-reviews](pages/client-reviews.md)]).
 
 ## Open Questions
 
@@ -202,6 +213,8 @@ Rated Plus / Expert-Vetted), даёт SEO-логику ранжирования 
   одного конфликта) — по неподтверждённым сведениям (со слов ChatGPT, не проверено на
   практике) просадка снижает эффективность откликов примерно на 60%, а путь восстановления
   — набор новых мелких контрактов; ни один источник пока не подтверждает это на личном опыте.
+- Почему Fiverr использует налоговую форму W-9, а Upwork — W-8BEN (обе из линейки форм IRS
+  для расчётов с нерезидентами США)? Ни один источник пока не объясняет разницу напрямую.
 
 ## Key Entities / Concepts
 
@@ -224,3 +237,7 @@ Rated Plus / Expert-Vetted), даёт SEO-логику ранжирования 
 - [[nakrutka-otzyvov](pages/nakrutka-otzyvov.md)]
 - [[segmentatsiya-klientov-upwork](pages/segmentatsiya-klientov-upwork.md)]
 - [[personalizatsiya-lenty-zakazov](pages/personalizatsiya-lenty-zakazov.md)]
+- [[fiverr](pages/fiverr.md)] — платформа
+- [[gig-fiverr](pages/gig-fiverr.md)]
+- [[urovni-fiverr](pages/urovni-fiverr.md)]
+- [[vyplaty-i-nalogi-na-fiverr](pages/vyplaty-i-nalogi-na-fiverr.md)]
