@@ -56,7 +56,7 @@ slug итоговой страницы-источника. Ничего боль
 | 11 | ✅ | Як почати заробляти на Fiverr у 2026 / Повний гайд | Креативна Фрілансерка | [ссылка](https://www.youtube.com/watch?v=PKUDFAZeIk0) | [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](wiki/pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] |
 | 12 | ✅ | How to make money on Fiverr from scratch with no experience | Brocli — зарубежный фриланс | [ссылка](https://www.youtube.com/watch?v=xvf4WaMmZAI) | [[zarabotok-na-fiverr-bez-navykov](wiki/pages/zarabotok-na-fiverr-bez-navykov.md)] |
 | 13 | ✅ | Как заработать на Fiverr в 2026 / Полное руководство | Быть Программистом | [ссылка](https://www.youtube.com/watch?v=gvxhInxlfvg) | [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](wiki/pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] |
-| 14 | ⬜ | Как зарабатывать на Fiverr - полный туториал для новичка | Людмила Холина | [ссылка](https://www.youtube.com/watch?v=l5MLhozA7AE) | |
+| 14 | ✅ | Как зарабатывать на Fiverr - полный туториал для новичка | Людмила Холина | [ссылка](https://www.youtube.com/watch?v=l5MLhozA7AE) | [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](wiki/pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] |
 | 15 | ⬜ | HOW TO MAKE MONEY ON FIVERR IN 2024: PART 4 | URelocate | [ссылка](https://www.youtube.com/watch?v=oYn9Zntx3AI) | |
 | 16 | ⬜ | Fiverr для начинающих - Урок 1 | Магический Маркетинг | [ссылка](https://www.youtube.com/watch?v=Zboj5yIXBGE) | |
 | 17 | ⬜ | Как начать развиваться на FIVERR c полного нуля? | FSCR / Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=GIWfHp3ktMQ) | |
@@ -69,5 +69,5 @@ slug итоговой страницы-источника. Ничего боль
 ## Прогресс
 
 - Upwork: 20 / 20 обработано
-- Fiverr: 13 / 20 обработано
-- **Всего: 33 / 40**
+- Fiverr: 14 / 20 обработано
+- **Всего: 34 / 40**

@@ -3,7 +3,7 @@ title: Мошенничество на Fiverr
 category: Concepts
 summary: Две основные схемы обмана новичков на Fiverr — фишинг за личные данные и QR-коды/поддельные сайты для кражи денег с карты, с конкретными признаками и защитным скриптом
 tags: [fraud, phishing, fiverr, safety]
-sources: [moshenniki-na-fiverr-dlya-novichkov]
+sources: [moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -51,9 +51,17 @@ email — только добровольно и только внутри оф�
 **Признаки настоящего заказа:** официальное push-уведомление "New Order" в приложении +
 подтверждающий email с официального домена Fiverr с деталями и суммой заказа.[^10]
 
+**Второе независимое подтверждение, с уточнением последствия (независимый источник):**
+та же схема "перехода в Telegram/WhatsApp" описана независимо вторым источником, с прямым
+уточнением: последствие — перманентная блокировка аккаунта без права восстановления, а не
+временная санкция. Также независимо подтверждён второй вариант мошенничества: поддельный
+скриншот "оплаты" от Fiverr с просьбой прислать email/данные карты для "подтверждения" —
+реальная покупка не требует от продавца никаких данных вообще.[^11]
+
 ## Appearances in Sources
 
 - [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] — единственный источник вики, целиком посвящённый теме мошенничества на Fiverr
+- [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] — независимое подтверждение обеих схем, уточнение о перманентном бане
 
 ## Related Concepts
 
@@ -74,3 +82,4 @@ email — только добровольно и только внутри оф�
 [^8]: [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] [08:00-10:00] — "Это запрещено правилами площадки. Я не имею права отправлять вам свои личные данные. Если вы планируете заказать у меня что-либо, пожалуйста давайте продолжим диалог в этом чате"
 [^9]: [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] [11:00-12:00] [synthesis] — географическая разница риска: SWIFT-подключённые карты в зоне риска
 [^10]: [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] [13:00-14:00] [synthesis] — признаки настоящего заказа: push-уведомление New Order и email с официального домена
+[^11]: [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] [09:01-11:02] [synthesis] — два вида мошенничества, перманентный бан за переход в Telegram/WhatsApp

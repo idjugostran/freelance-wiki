@@ -3,7 +3,7 @@ title: Выплаты и налоги на Fiverr
 category: Concepts
 summary: Флэт-комиссия 20%, 14 дней "зависания" средств, вывод через Payoneer, налоговая форма W-9 (в отличие от W-8BEN на Upwork)
 tags: [payments, taxes, fiverr, payoneer, commission]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, rabota-na-fiverr-i-upwork-iz-rf-rb, chestnoe-mnenie-o-fiverr-2-goda, polnyy-gayd-po-nastroyke-giga-fiverr]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, rabota-na-fiverr-i-upwork-iz-rf-rb, chestnoe-mnenie-o-fiverr-2-goda, polnyy-gayd-po-nastroyke-giga-fiverr, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -58,12 +58,22 @@ PayPal → банковская карта другой юрисдикции (в
 базовую комиссию 20% — источник явно отмечает, что это именно оценка "в лучшем случае", а
 не точный расчёт.[^8]
 
+**3-дневный автоматический выпуск оплаты — защита фрилансера от молчащего клиента
+(независимый источник):** если после сдачи заказа клиент 3 дня не даёт обратной связи
+(не подтверждает и не запрашивает правки), Fiverr автоматически закрывает заказ как
+успешно выполненный и переводит оплату фрилансеру без явного подтверждения клиента.[^10]
+**Уточнение цепочки вывода на банковский счёт через Payoneer:** можно подключить только
+один банковский счёт или один аккаунт PayPal одновременно; смена банковского счёта
+требует сначала удалить его на Fiverr, затем поменять в Payoneer, затем добавить заново;
+деньги обычно приходят на следующий рабочий день, точная скорость зависит от банка.[^11]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — комиссия, задержка вывода, механика Payoneer, форма W-9, статус ФОП
 - [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] — альтернативная цепочка вывода через казахскую карту и криптовалюту
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — уточнение комиссии с покупателя (~5.5%) и оценка суммарных потерь (~30%)
 - [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] — сокращённая до 7 дней задержка вывода для Top Rated фрилансеров
+- [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] — 3-дневный автовыпуск оплаты, детали цепочки вывода через Payoneer
 
 ## Related Concepts
 
@@ -83,3 +93,5 @@ PayPal → банковская карта другой юрисдикции (в
 [^7]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [15:00-17:02] [synthesis] — комиссия ~5.5% с покупателя дополнительно к 20% с фрилансера
 [^8]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [15:00-17:02] [synthesis] — оценка суммарных потерь ~30% при многослойном выводе для российских резидентов
 [^9]: raw/Z3tG15_rNPk.description [synthesis] — "После успешно выполненного заказа вы сможете снять деньги только спустя 14 дней. Для Top Rated фрилансеров это период сокращен до 7 дней"
+[^10]: [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] [11:02-12:01] [synthesis] — автоматическое закрытие заказа и выпуск оплаты через 3 дня молчания клиента
+[^11]: [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] [14:01-15:00] [synthesis] — вывод через Payoneer, ограничение на один банковский счёт/PayPal
