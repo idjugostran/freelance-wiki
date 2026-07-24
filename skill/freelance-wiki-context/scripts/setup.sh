@@ -45,6 +45,14 @@
 #      effort text patch, skipped with a manual instruction if the config's
 #      current shape isn't one of the forms this script knows how to patch
 #      safely - never guesses past that). Skipped entirely with --no-register.
+#   4. Restarts the Hermes gateway (`hermes gateway restart`) so a running
+#      instance picks up the new/updated wiki content and skill right away,
+#      instead of waiting for its own next restart. Only runs when step 0
+#      actually changed something (fresh clone or new commits pulled) - a
+#      no-op run never touches the gateway. Also skipped if no gateway is
+#      installed/running here (e.g. CLI-only use) or with --no-register;
+#      a failed restart is a warning, not a fatal error - the wiki/skill
+#      files are already updated on disk regardless.
 
 set -euo pipefail
 
@@ -62,6 +70,7 @@ while [[ $# -gt 0 ]]; do
 done
 
 echo "== 0. Sparse clone/update (wiki/, bin/, skill/ only — no raw/) =="
+CHANGED=0
 if [[ -d "$INSTALL_DIR/.git" ]]; then
   echo "  Existing checkout found at $INSTALL_DIR - fetching updates..."
   BEFORE="$(git -C "$INSTALL_DIR" rev-parse HEAD)"
@@ -70,6 +79,7 @@ if [[ -d "$INSTALL_DIR/.git" ]]; then
   if [[ "$BEFORE" == "$AFTER" ]]; then
     echo "  OK: already up to date ($AFTER)"
   else
+    CHANGED=1
     N=$(git -C "$INSTALL_DIR" rev-list --count "$BEFORE..$AFTER")
     echo "  Updated: $N new commit(s), $BEFORE -> $AFTER"
     echo "  Changed files:"
@@ -86,6 +96,7 @@ else
   git -C "$INSTALL_DIR" sparse-checkout set wiki bin skill
   DEFAULT_BRANCH="$(git -C "$INSTALL_DIR" remote show origin | sed -n '/HEAD branch/s/.*: //p')"
   git -C "$INSTALL_DIR" checkout "$DEFAULT_BRANCH"
+  CHANGED=1
   echo "  OK: cloned at $(git -C "$INSTALL_DIR" rev-parse HEAD)"
 fi
 INSTALLED_SIZE="$(du -sh "$INSTALL_DIR" 2>/dev/null | cut -f1)"
@@ -192,6 +203,20 @@ print("  WARNING: could not find a recognizable 'external_dirs:' shape in")
 print(f"           {config_path} - add it manually under skills.external_dirs:")
 print(f'             - "{skill_parent_dir}"')
 PYEOF
+
+echo "== 4. Restart Hermes gateway (pick up new/updated skill content) =="
+if [[ "$CHANGED" -eq 0 ]]; then
+  echo "  Skipped: nothing changed this run, no need to restart"
+elif ! hermes gateway status >/dev/null 2>&1; then
+  echo "  Skipped: gateway not installed/running here (nothing to restart)"
+else
+  if hermes gateway restart; then
+    echo "  OK: gateway restarted"
+  else
+    echo "  WARNING: 'hermes gateway restart' failed - restart it yourself:"
+    echo "           hermes gateway restart"
+  fi
+fi
 
 echo "== Done =="
 echo "Installed/updated at: $INSTALL_DIR ($INSTALLED_SIZE on disk)"
