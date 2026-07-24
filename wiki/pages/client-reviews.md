@@ -3,7 +3,7 @@ title: Отзывы клиентов
 category: Concepts
 summary: Отзывы клиентов формируют JSS и историю проектов; важно активно просить отзыв в конце работы
 tags: [reviews, upwork, fiverr]
-sources: [kak-zarabotat-na-upwork-10-minut, vse-pro-frilans-na-upwork-za-12-minut, kak-nastroit-profil-upwork-polnoe-rukovodstvo, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd]
+sources: [kak-zarabotat-na-upwork-10-minut, vse-pro-frilans-na-upwork-za-12-minut, kak-nastroit-profil-upwork-polnoe-rukovodstvo, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -48,6 +48,13 @@ LinkedIn), с которым работали до или помимо площ�
 получить отзыв, нужно прямо попросить об этом клиента. Тот же практический совет, что и на
 Upwork выше ("просить отзыв нужно всегда"), просто подтверждённый на другой платформе.[^7]
 
+**Отзывы как ключевой фактор продвижения на маркетплейсах в целом (второй независимый
+источник по Fiverr):** проводит аналогию с Авито — на любом маркетплейсе отзывы играют
+ключевую роль для продвижения услуг. Именно отзывы позволяют начать получать органические
+заказы от новых клиентов и постепенно повышать цены — но получить самые первые отзывы
+структурно тяжело (см. проблему холодного старта в [[fiverr](pages/fiverr.md)] и
+[[job-success-score](pages/job-success-score.md)]).[^8]
+
 ## Appearances in Sources
 
 - [[kak-zarabotat-na-upwork-10-minut](pages/kak-zarabotat-na-upwork-10-minut.md)] — важность отзывов и практика активного запроса отзыва в конце проекта
@@ -55,6 +62,7 @@ Upwork выше ("просить отзыв нужно всегда"), прос�
 - [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] — механика импорта отзывов от клиентов вне Upwork
 - [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] — техника вставки коротких отзывов прямо в текст заявки
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — параллельное наблюдение: отзыв на Fiverr тоже не гарантирован автоматически
+- [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] — отзывы как ключевой фактор продвижения на любом маркетплейсе, аналогия с Авито
 
 ## Related Concepts
 
@@ -72,3 +80,4 @@ Upwork выше ("просить отзыв нужно всегда"), прос�
 [^5]: [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] [28:02-29:00] [synthesis] — механика запроса отзыва у клиентов, с которыми работали вне Upwork
 [^6]: [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] [07:01-08:01] — "я готов целовать руки тому, кто придумал вставлять отзывы прямо в заявку на Upwork"
 [^7]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [35:00-36:00] [synthesis] — отзыв на Fiverr не гарантирован, нужно прямо просить клиента его оставить
+[^8]: [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] [07:01-08:01] [synthesis] — отзывы как ключевой фактор продвижения на любом маркетплейсе, аналогия с Авито

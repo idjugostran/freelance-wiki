@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut]
 updated: 2026-07-24
 ---
 
@@ -178,6 +178,17 @@ Rated Plus / Expert-Vetted), даёт SEO-логику ранжирования 
 ([[bezopasnost-sdelki](pages/bezopasnost-sdelki.md)]) и негарантированность отзыва
 ([[client-reviews](pages/client-reviews.md)]).
 
+Второй источник по Fiverr (тот же автор, что и несколько источников по Upwork —
+[[obzor-upwork-luchshaya-birzha](pages/obzor-upwork-luchshaya-birzha.md)],
+[[montiruyu-realnyy-zakaz-na-frilanse](pages/montiruyu-realnyy-zakaz-na-frilanse.md)])
+даёт заметно более критический взгляд, чем первый Fiverr-источник — прямая внутренняя
+tension корпуса (см. Open Questions). Описывает Fiverr как международный аналог Kwork
+([[mestnye-birzhi-frilansa](pages/mestnye-birzhi-frilansa.md)]) с более платежеспособной
+аудиторией, но с почти нерабочей системой "брифов" для новичка без стартовой клиентской
+базы. Даёт второй независимый пример [[nakrutka-otzyvov](pages/nakrutka-otzyvov.md)] —
+теперь на Fiverr, а не только на Upwork, — и многослойные потери при выводе средств для
+российских резидентов.
+
 ## Open Questions
 
 - Насколько применима эта воронка (proposal → portfolio → review → JSS) к Fiverr, у которого
@@ -215,6 +226,11 @@ Rated Plus / Expert-Vetted), даёт SEO-логику ранжирования 
   — набор новых мелких контрактов; ни один источник пока не подтверждает это на личном опыте.
 - Почему Fiverr использует налоговую форму W-9, а Upwork — W-8BEN (обе из линейки форм IRS
   для расчётов с нерезидентами США)? Ни один источник пока не объясняет разницу напрямую.
+- Насколько легко получить первый заказ на Fiverr — быстро (1-й источник: заказ пришёл
+  менее чем за неделю) или практически невозможно без стартовой клиентской базы (2-й,
+  независимый источник: система брифов почти нерабочая, ни одного заказа через неё за два
+  года)? Возможно разница в нише, личном опыте или готовности использовать (рискованный)
+  обходной путь через знакомых; ни один источник не объясняет расхождение напрямую.
 
 ## Key Entities / Concepts
 

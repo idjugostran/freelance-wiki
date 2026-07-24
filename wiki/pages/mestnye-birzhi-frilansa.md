@@ -3,7 +3,7 @@ title: Локальные (русскоязычные) биржи фриланс
 category: Concepts
 summary: Workzilla, Kwork, FL.ru/Free-lance.ru, FreelanceHunt — стартовая точка для новичка, но с низким потолком оплаты и редким потоком заказов
 tags: [ru-platforms, workzilla, kwork]
-sources: [frilans-bez-opyta, kak-vzyat-pervyy-zakaz-na-frilanse, kak-zarabatyvat-na-frilanse-v-2026]
+sources: [frilans-bez-opyta, kak-vzyat-pervyy-zakaz-na-frilanse, kak-zarabatyvat-na-frilanse-v-2026, kak-zarabotat-na-fiverr-10-minut]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -42,15 +42,24 @@ FreelanceHunt.[^1]
 после созвона с клиентом часто закрываются на 75-118 тыс. руб. и выше — стартовая цена в
 объявлении не отражает итоговую стоимость проекта после переговоров.[^6]
 
+**Kwork как структурный прообраз Fiverr (независимый источник):** Fiverr описан как почти
+полная копия Kwork по механике (гиги, накопление отзывов для продвижения), но с заметно
+более платежеспособной международной аудиторией — тот же труд оплачивается в разы выше.
+Источник прямо рекомендует новичкам сначала наработать портфолио и клиентскую базу на
+Kwork/локальных биржах и только потом заходить на Fiverr — органический первый заказ на
+Fiverr для неподготовленного новичка описан как практически недостижимый.[^7]
+
 ## Appearances in Sources
 
 - [[frilans-bez-opyta](pages/frilans-bez-opyta.md)] — обзор Workzilla и Kwork, сравнение цен с международным рынком, тезис про редкий поток заказов
 - [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] — Kwork как площадка с низкой конкуренцией для первого заказа, механика откликов и эскроу
 - [[kak-zarabatyvat-na-frilanse-v-2026](pages/kak-zarabatyvat-na-frilanse-v-2026.md)] — разница между ценой в объявлении и итоговой суммой после переговоров
+- [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] — Kwork как структурный прообраз Fiverr, рекомендация начинать здесь перед выходом на Fiverr
 
 ## Related Concepts
 
 - [[upwork](pages/upwork.md)] — международная площадка, с которой идёт сравнение по деньгам и потоку заказов
+- [[fiverr](pages/fiverr.md)] — вторая международная площадка, структурно похожая на Kwork
 - [[vybor-specializacii](pages/vybor-specializacii.md)] — метод, который использует данные по локальным биржам как один из двух ориентиров при выборе ниши
 - [[vybor-zakazchika](pages/vybor-zakazchika.md)] — критерии оценки заказчика на Kwork перед откликом
 - [[bezopasnost-sdelki](pages/bezopasnost-sdelki.md)] — механика эскроу на Kwork
@@ -64,3 +73,4 @@ FreelanceHunt.[^1]
 [^4]: [[frilans-bez-opyta](pages/frilans-bez-opyta.md)] [06:04-06:11] — "новые там могут не появляться даже сутки а на американском фрилансе вы через полчаса нажмите обновить и там будет несколько новых заявок"
 [^5]: [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] [01:00-02:01] — "выбери биржу, которая соответствует твоему региону. Я рекомендую биржу Кворк ... на ней можно легко стартануть, и там все говорят на русском"
 [^6]: [[kak-zarabatyvat-na-frilanse-v-2026](pages/kak-zarabatyvat-na-frilanse-v-2026.md)] [10:00] — "там как бы практически все заказы, на которые я откликаюсь, изначально там 5, 10-15 тыс. руб. Но после созвона я их закрываю на 75, там 118 и ещё суммы"
+[^7]: [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] [00:00-01:02,08:01-09:01] [synthesis] — Fiverr как структурный аналог Kwork с более платежеспособной аудиторией, рекомендация начинать с Kwork

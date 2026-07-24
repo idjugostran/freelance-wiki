@@ -1,9 +1,9 @@
 ---
 title: Накрутка отзывов и фиктивных контрактов
 category: Concepts
-summary: Практика создания фейковых контрактов/отзывов для преодоления холодного старта — нарушает правила Upwork и несёт риск бана
-tags: [reviews, tos-violation, risk, upwork]
-sources: [zarabotal-na-upwork-eksperiment-mesyats, skolko-nuzhno-konnektov]
+summary: Практика создания фейковых контрактов/отзывов для преодоления холодного старта — нарушает правила площадок (Upwork, Fiverr) и несёт риск бана
+tags: [reviews, tos-violation, risk, upwork, fiverr]
+sources: [zarabotal-na-upwork-eksperiment-mesyats, skolko-nuzhno-konnektov, kak-zarabotat-na-fiverr-10-minut]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -34,19 +34,31 @@ updated: 2026-07-24
 нарушением правил площадки; вики фиксирует оба варианта как факты с риском, не как
 рекомендации.
 
+**Третий, независимый пример — теперь на Fiverr, а не на Upwork:** независимый источник
+прямо называет один из немногих (по его опыту) рабочих способов получить первый заказ на
+Fiverr — попросить друзей/знакомых за рубежом зайти на платформу и оставить отзыв за
+оформленный "максимально реалистично", но фактически фиктивный заказ. Автор описывает это
+как то, чем лично пользовался на старте.[^4] **Явное предупреждение вики:** это тот же
+паттерн нарушения правил площадки, что и на Upwork выше — факт того, что практика
+распространена на нескольких независимых платформах, не делает её безопаснее или более
+рекомендуемой; вики фиксирует это как факт с риском, а не как совет к действию.
+
 ## Appearances in Sources
 
 - [[zarabotal-na-upwork-eksperiment-mesyats](pages/zarabotal-na-upwork-eksperiment-mesyats.md)] — открытое описание накрутки 2-3 отзывов на 7-й день эксперимента, объяснение мотивации
 - [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] — явное признание риска бана от самого источника, альтернатива через внешних клиентов
+- [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] — та же практика (фиктивный заказ+отзыв через знакомых за рубежом), независимо описанная теперь на Fiverr
 
 ## Related Concepts
 
 - [[job-success-score](pages/job-success-score.md)] — на что напрямую влияет накрутка (JSS и видимая история контрактов)
 - [[client-reviews](pages/client-reviews.md)] — легитимный способ получения отзывов, альтернативный этой практике
 - [[upwork](pages/upwork.md)] — площадка, чьи правила эта практика нарушает
+- [[fiverr](pages/fiverr.md)] — вторая площадка, на которой независимо описана та же практика
 
 ## Footnotes
 
 [^1]: [[zarabotal-na-upwork-eksperiment-mesyats](pages/zarabotal-na-upwork-eksperiment-mesyats.md)] [06:00-07:00] — "я принял решение что накручу два-три фейковых заказа, ну фейковых отзывов ... каждый из вас может делать то же самое с помощью нас"
 [^2]: [[zarabotal-na-upwork-eksperiment-mesyats](pages/zarabotal-na-upwork-eksperiment-mesyats.md)] [08:00-09:00] [synthesis] — реальные контракты пошли после появления первых (фиктивных) отзывов в профиле
 [^3]: [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] [17:02,19:01-20:00] — "большие площадки типа [Upwork] они очень это дело отслеживают и быстро за это банят, нужно подходить к этому моменту очень креативно ... мне проще своих клиентов западных попросить провести с ними какую-то фиктивную сделку через биржу"
+[^4]: [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] [05:03-06:00] [synthesis] — просьба к знакомым за рубежом оставить отзыв за фиктивный, но реалистично оформленный заказ на Fiverr
