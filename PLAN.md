@@ -61,13 +61,13 @@ slug итоговой страницы-источника. Ничего боль
 | 16 | ✅ | Fiverr для начинающих - Урок 1 | Магический Маркетинг | [ссылка](https://www.youtube.com/watch?v=Zboj5yIXBGE) | [[urok-1-fiverr-dlya-nachinayushchih](wiki/pages/urok-1-fiverr-dlya-nachinayushchih.md)] |
 | 17 | ✅ | Как начать развиваться на FIVERR c полного нуля? | FSCR / Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=GIWfHp3ktMQ) | [[kak-nachat-razvivatsya-na-fiverr-s-nulya](wiki/pages/kak-nachat-razvivatsya-na-fiverr-s-nulya.md)] |
 | 18 | ✅ | ФРИЛАНС глазами НОВИЧКА в 2025! | Dushnila | [ссылка](https://www.youtube.com/watch?v=TtLfscds7zA) | [[frilans-glazami-novichka-2025](wiki/pages/frilans-glazami-novichka-2025.md)] |
-| 19 | ⬜ | Как взять первый заказ на фрилансе? / Фриланс с нуля | Kreas | [ссылка](https://www.youtube.com/watch?v=i1E49bbzXts) | |
-| 20 | ⬜ | Как оформить заказ на Fiverr в качестве покупателя | AI Mastery | [ссылка](https://www.youtube.com/watch?v=6v_MmWEECwQ) | |
+| 19 | ⏭️ | Как взять первый заказ на фрилансе? / Фриланс с нуля | Kreas | [ссылка](https://www.youtube.com/watch?v=i1E49bbzXts) | Пропущено: субтитры не распознались (ASR вернул только 1 нецензурную строку, содержательной речи нет) |
+| 20 | ✅ | Как оформить заказ на Fiverr в качестве покупателя | AI Mastery | [ссылка](https://www.youtube.com/watch?v=6v_MmWEECwQ) | [[kak-oformit-zakaz-na-fiverr-kak-pokupatel](wiki/pages/kak-oformit-zakaz-na-fiverr-kak-pokupatel.md)] |
 
 ---
 
 ## Прогресс
 
 - Upwork: 20 / 20 обработано
-- Fiverr: 18 / 20 обработано
-- **Всего: 38 / 40**
+- Fiverr: 19 / 20 обработано (1 пропущено — видео 19, субтитры не распознались)
+- **Всего: 39 / 40**

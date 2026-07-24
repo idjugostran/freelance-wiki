@@ -3,7 +3,7 @@ title: Мошенничество на Fiverr
 category: Concepts
 summary: Две основные схемы обмана новичков на Fiverr — фишинг за личные данные и QR-коды/поддельные сайты для кражи денег с карты, с конкретными признаками и защитным скриптом
 tags: [fraud, phishing, fiverr, safety]
-sources: [moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka]
+sources: [moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-oformit-zakaz-na-fiverr-kak-pokupatel]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -62,6 +62,7 @@ email — только добровольно и только внутри оф�
 
 - [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] — единственный источник вики, целиком посвящённый теме мошенничества на Fiverr
 - [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] — независимое подтверждение обеих схем, уточнение о перманентном бане
+- [[kak-oformit-zakaz-na-fiverr-kak-pokupatel](pages/kak-oformit-zakaz-na-fiverr-kak-pokupatel.md)] — предупреждение клиенту проверять подлинность сайта перед оплатой
 
 ## Related Concepts
 

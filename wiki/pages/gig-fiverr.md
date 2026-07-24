@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, urok-1-fiverr-dlya-nachinayushchih]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, urok-1-fiverr-dlya-nachinayushchih, kak-oformit-zakaz-na-fiverr-kak-pokupatel]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -174,6 +174,7 @@ Impressions, Clicks, Orders, Cancellations; ориентир — около 10% 
 - [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] — механика Custom Offer, реальный пример пакетов Basic/Standard
 - [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] — постоянное тестирование gig, задержка реакции алгоритма
 - [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] — целевые пропорции конверсии, ChatGPT-метод создания gig, ordering-сигнал поиска ниши
+- [[kak-oformit-zakaz-na-fiverr-kak-pokupatel](pages/kak-oformit-zakaz-na-fiverr-kak-pokupatel.md)] — подтверждающий обзор структуры пакетов и requirements с позиции покупателя
 
 ## Related Concepts
 
