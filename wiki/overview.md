@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr]
 updated: 2026-07-24
 ---
 
@@ -199,6 +199,16 @@ Upwork/Fiverr-источниками этой вики, что усиливае�
 коммерческой мотивированности. Вводит третий метод обхода ограничения — физический
 переезд — и альтернативную цепочку вывода средств через казахскую карту и криптовалюту в
 [[vyplaty-i-nalogi-na-fiverr](pages/vyplaty-i-nalogi-na-fiverr.md)].
+
+Четвёртый источник по Fiverr — от команды **URelocate**, которая прямо самоидентифицируется
+как бренд, стоящий за несколькими Upwork-источниками вики (подтверждает связь, названную в
+3-м источнике), при участии Александры Горнаго — автора уже существующего Upwork-источника
+[[5-oshibok-upwork-frilans-s-nulya](pages/5-oshibok-upwork-frilans-s-nulya.md)]. Даёт
+ключевой исторический факт: Fiverr был похож на Upwork до 2022 года (с откликами на
+запросы), затем сместился к чистой маркетплейс-модели — объясняет, почему нынешняя
+система "брифов" выглядит урезанной. Независимо подтверждает VPN-запрет теперь и для
+Fiverr, с конкретным механизмом детекции, и добавляет деталь: Fiverr блокирует именно РФ,
+но не Беларусь (в отличие от Upwork).
 
 ## Open Questions
 

@@ -3,7 +3,7 @@ title: Верификация аккаунта на Upwork
 category: Concepts
 summary: Строгая проверка личности при регистрации — видеозвонок, привязка строго к паспорту, один аккаунт на паспорт
 tags: [verification, upwork, fiverr, registration, vpn, rf-access]
-sources: [obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, opyt-na-upwork-plyusy-minusy, rabota-na-fiverr-i-upwork-iz-rf-rb]
+sources: [obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, opyt-na-upwork-plyusy-minusy, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -73,6 +73,18 @@ URelocate — коммерческий бренд, стоящий за неск�
 в общем виде выше), но конкретизирует её: несколько формально независимых видео на канале
 вики оказываются рекламой одного и того же коммерческого продукта.[^7]
 
+**Четвёртый, независимый источник подтверждает VPN-запрет теперь и для Fiverr, с
+конкретным механизмом детекции:** видео от команды URelocate (с участием стороннего
+эксперта) прямо объясняет, почему регистрация из РФ на Fiverr с бесплатным VPN
+заканчивается баном: рано или поздно VPN отключается, площадка детектирует смену локации и
+банит за "обман". Источник сам коммерчески заинтересован в продаже обхода блокировок, но
+предупреждение о риске здесь работает против собственных коммерческих интересов источника
+(не "VPN не работает вообще", а "работает нестабильно и в итоге палится") — что несколько
+повышает доверие к этому конкретному заявлению по сравнению с чисто рекламными
+утверждениями.[^8] Также источник даёт новую деталь: Fiverr заблокирован для регистрации
+именно с территории РФ, но не для Беларуси — в отличие от Upwork, где ограничение
+затрагивает оба региона одинаково.[^9]
+
 ## Appearances in Sources
 
 - [[obzor-upwork-luchshaya-birzha](pages/obzor-upwork-luchshaya-birzha.md)] — личный опыт месячной верификации с видеозвонком, правило "один аккаунт на паспорт"
@@ -80,6 +92,7 @@ URelocate — коммерческий бренд, стоящий за неск�
 - [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] — прямое предупреждение о бане за VPN и подмену личности
 - [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] — альтернативный путь верификации через грузинские документы, без VPN
 - [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] — физический переезд как третий метод, долгосрочный опыт антидетект-браузера, связь с URelocate
+- [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] — независимое подтверждение VPN-запрета для Fiverr с механизмом детекции, деталь про Беларусь
 
 ## Related Concepts
 
@@ -96,3 +109,5 @@ URelocate — коммерческий бренд, стоящий за неск�
 [^5]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [02:02] [synthesis] — верификация аккаунта через грузинские права и банковскую выписку в Payoneer, без VPN
 [^6]: [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] [02:01-03:01] [synthesis] — физический переезд в Казахстан, переход на антидетект-браузер, более года без бана
 [^7]: [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] [05:01-08:01] [synthesis] — URelocate как коммерческий бренд, стоящий за несколькими источниками вики, цены на их услуги
+[^8]: [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] [06:00] — "если вы собираетесь регистрироваться из России, то бан неизбежен ... рано или поздно у вас может слететь VPN ... и площадка забанит вас, по сути, за обман"
+[^9]: [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] [02:00] — "биржа только на территории Российской Федерации. В Республике Беларусь он как работал, так и спокойно работает"
