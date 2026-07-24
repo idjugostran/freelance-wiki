@@ -36,6 +36,9 @@
 #   2. Register the skill with Hermes (skills.external_dirs).
 #   3. Restart the Hermes gateway, if running and something changed.
 #   4. Restart the Hermes desktop app, if running and something changed.
+#
+# To remove everything this script installs, see uninstall.sh in this same
+# directory.
 
 set -euo pipefail
 
