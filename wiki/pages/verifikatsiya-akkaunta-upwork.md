@@ -2,8 +2,8 @@
 title: Верификация аккаунта на Upwork
 category: Concepts
 summary: Строгая проверка личности при регистрации — видеозвонок, привязка строго к паспорту, один аккаунт на паспорт
-tags: [verification, upwork, registration]
-sources: [obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, opyt-na-upwork-plyusy-minusy]
+tags: [verification, upwork, fiverr, registration, vpn, rf-access]
+sources: [obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, opyt-na-upwork-plyusy-minusy, rabota-na-fiverr-i-upwork-iz-rf-rb]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -51,16 +51,40 @@ Upwork — самая сложная часть выхода на площадк
 местоположения, а про легитимную привязку аккаунта к другой юрисдикции — так что прямому
 предупреждению против VPN[^4] не противоречит.
 
+**Третий метод — физический переезд, с долгосрочным опытом использования антидетект-браузера
+(новый датапоинт в VPN-tension):** независимый источник (тот же автор, что и Fiverr-источники
+вики) физически выехал в Казахстан именно ради легального банковского счёта для чистого
+вывода средств (проблема не в разблокировке площадки, а в том, куда выводить заработанное —
+посреднические сервисы вывода забирают чрезмерную суммарную комиссию). После возвращения в
+РФ продолжил работу через антидетект-браузер с казахскими прокси — **более года без единого
+случая бана или блокировки** на Upwork и Fiverr.[^6] Это прямое долгосрочное личное
+опровержение категоричности предупреждения против VPN[^4] выше — хотя оба источника
+независимы, у одного нет бана, у другого — прямое утверждение о немедленном бане; вики не
+разрешает это противоречие, см. Open Questions в overview.md.
+
+**Связь URelocate с несколькими источниками вики:** тот же источник напрямую называет
+URelocate — коммерческий бренд, стоящий за несколькими Upwork/Fiverr-источниками этой вики
+([[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)],
+[[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)],
+[[zarabotal-na-upwork-eksperiment-mesyats](pages/zarabotal-na-upwork-eksperiment-mesyats.md)],
+[[pochemu-ne-doveryayut-proekty](pages/pochemu-ne-doveryayut-proekty.md)]) — платный сервис
+($89 единоразово или $49/мес за выделенный сервер) за разблокировку, документы и
+регистрацию. Это не новый факт коммерческой заинтересованности (вики уже фиксировала это
+в общем виде выше), но конкретизирует её: несколько формально независимых видео на канале
+вики оказываются рекламой одного и того же коммерческого продукта.[^7]
+
 ## Appearances in Sources
 
 - [[obzor-upwork-luchshaya-birzha](pages/obzor-upwork-luchshaya-birzha.md)] — личный опыт месячной верификации с видеозвонком, правило "один аккаунт на паспорт"
 - [[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)] — доступ через VPN/прокси и риск бана для РФ/РБ, требования к номеру телефона
 - [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] — прямое предупреждение о бане за VPN и подмену личности
 - [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] — альтернативный путь верификации через грузинские документы, без VPN
+- [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] — физический переезд как третий метод, долгосрочный опыт антидетект-браузера, связь с URelocate
 
 ## Related Concepts
 
 - [[upwork](pages/upwork.md)] — площадка
+- [[fiverr](pages/fiverr.md)] — вторая площадка, к которой применим тот же метод обхода
 - [[kak-zaregistrirovatsya-na-upwork](pages/kak-zaregistrirovatsya-na-upwork.md)] — пошаговый разбор регистрации без упоминания видеозвонка
 
 ## Footnotes
@@ -70,3 +94,5 @@ Upwork — самая сложная часть выхода на площадк
 [^3]: [[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)] [02:00-03:01] [synthesis] — доступ через VPN/прокси, риск бана после верификации, телефон не обязателен без 2FA
 [^4]: [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] [00:00-01:01] — "upwork не любит две вещи ... первое - это когда вы пытаетесь скрыть своё местоположение ... за использование VPN сразу бан"
 [^5]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [02:02] [synthesis] — верификация аккаунта через грузинские права и банковскую выписку в Payoneer, без VPN
+[^6]: [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] [02:01-03:01] [synthesis] — физический переезд в Казахстан, переход на антидетект-браузер, более года без бана
+[^7]: [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] [05:01-08:01] [synthesis] — URelocate как коммерческий бренд, стоящий за несколькими источниками вики, цены на их услуги

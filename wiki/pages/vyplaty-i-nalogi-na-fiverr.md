@@ -3,7 +3,7 @@ title: Выплаты и налоги на Fiverr
 category: Concepts
 summary: Флэт-комиссия 20%, 14 дней "зависания" средств, вывод через Payoneer, налоговая форма W-9 (в отличие от W-8BEN на Upwork)
 tags: [payments, taxes, fiverr, payoneer, commission]
-sources: [kak-nachat-na-fiverr-polnyy-gayd]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, rabota-na-fiverr-i-upwork-iz-rf-rb]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -40,15 +40,25 @@ Upwork — обе принадлежат линейке форм IRS для ра
 регистрации в Payoneer ФОП не обязателен — подходит как физическое, так и юридическое
 лицо; начинающему фрилансеру не обязательно сразу оформлять ФОП.[^5]
 
+**Альтернативная цепочка вывода для российских резидентов (независимый источник):** вместо
+прямого Payoneer — заработок на Fiverr (та же задержка 2 недели за вычетом комиссии) →
+PayPal → банковская карта другой юрисдикции (в конкретном случае источника — казахская,
+оформленная при легальном пребывании в стране) → криптовалюта → российская карта. Занимает
+около 10 минут после того, как отработано на практике. Источник явно связывает
+многослойность этой цепочки с необходимостью каждый раз терять на курсовых разницах при
+каждом переводе.[^6]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — комиссия, задержка вывода, механика Payoneer, форма W-9, статус ФОП
+- [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] — альтернативная цепочка вывода через казахскую карту и криптовалюту
 
 ## Related Concepts
 
 - [[fiverr](pages/fiverr.md)] — платформа
 - [[vyplaty-i-nalogi-na-upwork](pages/vyplaty-i-nalogi-na-upwork.md)] — аналогичный концепт на Upwork, с формой W-8BEN вместо W-9
 - [[bezopasnost-sdelki](pages/bezopasnost-sdelki.md)] — механика предоплаты клиентом как защита фрилансера
+- [[verifikatsiya-akkaunta-upwork](pages/verifikatsiya-akkaunta-upwork.md)] — методы обхода RF/RB-ограничения доступа к площадке
 
 ## Footnotes
 
@@ -57,3 +67,4 @@ Upwork — обе принадлежат линейке форм IRS для ра
 [^3]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [37:03] [synthesis] — вывод через Payoneer, реферальный бонус $25 за первую $1000
 [^4]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [37:03] — "вам потрібно буде заповнити податкову форму w9 це податкова форма саме для американської податкової системи"
 [^5]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [37:03-38:00] [synthesis] — украинская налоговая без прямого доступа к площадке, легальная работа через ФОП, ФОП не обязателен для Payoneer
+[^6]: [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] [03:01-04:01] [synthesis] — цепочка вывода Fiverr → PayPal → казахская карта → крипта → российская карта, ~10 минут на процесс

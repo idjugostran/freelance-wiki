@@ -45,7 +45,7 @@ slug итоговой страницы-источника. Ничего боль
 |---|---|---|---|---|---|
 | 1 | ✅ | Як почати заробляти на Fiverr: ПОВНИЙ ГАЙД | Креативна Фрілансерка | [ссылка](https://www.youtube.com/watch?v=SNYlyEOd2A4) | [[kak-nachat-na-fiverr-polnyy-gayd](wiki/pages/kak-nachat-na-fiverr-polnyy-gayd.md)] |
 | 2 | ✅ | Как заработать на FIVERR (За 10 минут!) | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=cHhSvz2dScc) | [[kak-zarabotat-na-fiverr-10-minut](wiki/pages/kak-zarabotat-na-fiverr-10-minut.md)] |
-| 3 | ⬜ | Как работать на Fiverr и UpWork из России и Беларуси | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=0b1NOZi-EOw) | |
+| 3 | ✅ | Как работать на Fiverr и UpWork из России и Беларуси | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=0b1NOZi-EOw) | [[rabota-na-fiverr-i-upwork-iz-rf-rb](wiki/pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] |
 | 4 | ⬜ | КАК ЗАРАБОТАТЬ НА FIVERR: ЧАСТЬ 1 | URelocate | [ссылка](https://www.youtube.com/watch?v=Hknq3wZCAGM) | |
 | 5 | ⬜ | Честное мнение о Fiverr спустя 2 года работы | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=9G731MRrIPc) | |
 | 6 | ⬜ | Как Заработать на Fiverr? С чего нужно начать? | МЕНТОР ДЕМЕНТОР | [ссылка](https://www.youtube.com/watch?v=ZQDRTJ_yu7o) | |
@@ -69,5 +69,5 @@ slug итоговой страницы-источника. Ничего боль
 ## Прогресс
 
 - Upwork: 20 / 20 обработано
-- Fiverr: 2 / 20 обработано
-- **Всего: 22 / 40**
+- Fiverr: 3 / 20 обработано
+- **Всего: 23 / 40**

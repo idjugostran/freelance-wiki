@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb]
 updated: 2026-07-24
 ---
 
@@ -189,6 +189,17 @@ tension корпуса (см. Open Questions). Описывает Fiverr как 
 теперь на Fiverr, а не только на Upwork, — и многослойные потери при выводе средств для
 российских резидентов.
 
+Третий источник по Fiverr (тот же автор, что и второй) переключается на тему RF/RB-доступа
+и даёт важный новый датапоинт в существующей VPN-tension
+([[verifikatsiya-akkaunta-upwork](pages/verifikatsiya-akkaunta-upwork.md)]): более года
+личного опыта работы через антидетект-браузер без единого случая бана — прямой контраргумент
+категоричному предупреждению против VPN из другого источника. Также напрямую называет
+URelocate коммерческим брендом, стоящим за несколькими формально независимыми
+Upwork/Fiverr-источниками этой вики, что усиливает уже сделанную оговорку об их
+коммерческой мотивированности. Вводит третий метод обхода ограничения — физический
+переезд — и альтернативную цепочку вывода средств через казахскую карту и криптовалюту в
+[[vyplaty-i-nalogi-na-fiverr](pages/vyplaty-i-nalogi-na-fiverr.md)].
+
 ## Open Questions
 
 - Насколько применима эта воронка (proposal → portfolio → review → JSS) к Fiverr, у которого
@@ -213,7 +224,10 @@ tension корпуса (см. Open Questions). Описывает Fiverr как 
   обхода блокировки при должной настройке (коммерческие сервисы из 8-го/14-го
   источников)? Источники прямо расходятся, и оба имеют основания для нейтральности —
   один независим, но категоричен без объяснения механизма детекции; другие коммерчески
-  заинтересованы, но описывают конкретную работающую у них схему.
+  заинтересованы, но описывают конкретную работающую у них схему. Третий источник по
+  Fiverr добавляет независимый (не коммерчески связанный с продажей VPN-услуг) контрпример:
+  более года работы через антидетект-браузер без единого бана — категоричность
+  предупреждения 16-го источника этим не опровергается, но и не подтверждается.
 - Комиссия Upwork — 10% (17-й источник) или ~20% (третий источник)? Возможно, отражает
   переход на плоскую комиссию взамен прежней ступенчатой шкалы, но ни один источник этого
   явно не поясняет.
