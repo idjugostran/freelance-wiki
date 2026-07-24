@@ -53,6 +53,12 @@
 #      installed/running here (e.g. CLI-only use) or with --no-register;
 #      a failed restart is a warning, not a fatal error - the wiki/skill
 #      files are already updated on disk regardless.
+#   5. Same idea for the Hermes desktop app, if it's running - it's a plain
+#      Electron app with no --stop/--restart flag, so this quits it (gracefully
+#      via `osascript` on macOS, `pkill` fallback otherwise) and relaunches
+#      with `hermes desktop --skip-build`. Same CHANGED/--no-register gating
+#      as the gateway step; won't relaunch if it's still shutting down after
+#      10s (avoids a duplicate instance - tells you to do it by hand instead).
 
 set -euo pipefail
 
@@ -215,6 +221,48 @@ else
   else
     echo "  WARNING: 'hermes gateway restart' failed - restart it yourself:"
     echo "           hermes gateway restart"
+  fi
+fi
+
+echo "== 5. Restart Hermes desktop app (pick up new/updated skill content) =="
+# Desktop is a plain Electron app (apps/desktop/release/...), not a service -
+# `hermes desktop` has no --stop/--restart flag, so detect it by process and
+# quit/relaunch by hand. Detection matches the whole desktop tree (main +
+# renderer/GPU/network/audio helper processes all live under the same
+# apps/desktop/release path), which is a fine enough "is it running" signal
+# even though it's broader than just the main process.
+if [[ "$CHANGED" -eq 0 ]]; then
+  echo "  Skipped: nothing changed this run, no need to restart"
+elif ! pgrep -f "hermes-agent/apps/desktop/release" >/dev/null 2>&1; then
+  echo "  Skipped: desktop app not running here"
+else
+  echo "  Desktop app is running - quitting..."
+  QUIT_OK=0
+  if command -v osascript >/dev/null 2>&1; then
+    # Graceful app-level quit (macOS) - lets it save state normally, unlike
+    # a bare kill. "Hermes" is the AppleScript-visible name of apps/desktop's
+    # Hermes.app bundle.
+    osascript -e 'tell application "Hermes" to quit' >/dev/null 2>&1 && QUIT_OK=1
+  fi
+  if [[ "$QUIT_OK" -eq 0 ]]; then
+    # No osascript (Linux) or the graceful quit didn't take - fall back to
+    # killing the whole process tree by the same pattern used to detect it.
+    pkill -f "hermes-agent/apps/desktop/release" 2>/dev/null || true
+  fi
+  # Give it a moment to actually exit before relaunching, so we don't race
+  # a still-shutting-down instance and end up with two.
+  for _ in 1 2 3 4 5 6 7 8 9 10; do
+    pgrep -f "hermes-agent/apps/desktop/release" >/dev/null 2>&1 || break
+    sleep 1
+  done
+  if pgrep -f "hermes-agent/apps/desktop/release" >/dev/null 2>&1; then
+    echo "  WARNING: desktop app still running after 10s - not relaunching to avoid a duplicate."
+    echo "           Close it yourself, then run: hermes desktop --skip-build"
+  else
+    # --skip-build: relaunch the already-built app instead of a full rebuild.
+    nohup hermes desktop --skip-build >/tmp/hermes-desktop-restart.log 2>&1 &
+    disown
+    echo "  OK: desktop app relaunching (log: /tmp/hermes-desktop-restart.log)"
   fi
 fi
 
