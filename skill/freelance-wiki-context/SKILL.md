@@ -67,8 +67,10 @@ are relevant, then `read_file` those specific pages.
 - Entity hubs (start here for broad/no-specific-question mentions):
   `wiki/pages/upwork.md`, `wiki/pages/fiverr.md`
 - Synthesis + known open disagreements: `wiki/overview.md`
-- Cross-reference / citation form (this wiki's `link_style: markdown`):
-  `[[slug](pages/slug.md)]`
+- Internal wiki links look like `[[slug](pages/slug.md)]` — that's the
+  wiki's own file-navigation syntax for following cross-references *while
+  reading pages*. Never put that syntax in the chat reply itself (see
+  Pitfalls) — cite pages in prose instead.
 
 ## Procedure
 
@@ -89,17 +91,26 @@ are relevant, then `read_file` those specific pages.
    `[[slug](pages/slug.md)]` cross-references if they point somewhere
    clearly relevant.
 
-3. **Synthesize an answer grounded in what you read:**
-   - Cite every claim with the wiki's cross-reference for the page it came
-     from: `[[slug](pages/slug.md)]`.
+3. **Synthesize an answer grounded in what you read, citing in chat-safe
+   form:**
+   - Cite every claim by naming the page **in prose**, e.g. "по странице
+     вики «Job Success Score» ..." or "(вики: Fiverr)" — plain text, no
+     brackets. **Never emit the wiki's internal `[[slug](pages/slug.md)]`
+     link syntax in the reply** — `pages/slug.md` is a relative path with
+     no meaning outside this file tree, and the double-bracket form isn't
+     a link a chat client can render at all. Worse, it can make the whole
+     message fail to parse as Markdown and fall back to showing raw
+     `**`/`[...]` syntax literally — see Pitfalls.
    - Where a footnote in the cited page has a timestamp (`[HH:MM:SS]` or
      `[MM:SS]`) and the underlying Source page's `**Source:**` line has a
      YouTube URL, prefer rendering that as a clickable timestamp link
      instead of a bare citation: convert the timestamp to seconds and link as
-     `[HH:MM:SS](https://youtu.be/VIDEO_ID?t=SECONDS)`. Telegram (and other
-     surfaces Hermes renders markdown for) turns this into a clickable link
-     that jumps straight to that moment. Only do this after actually
-     opening the Source page and confirming the video ID — never guess it.
+     `[HH:MM:SS](https://youtu.be/VIDEO_ID?t=SECONDS)`. This *is* a real,
+     absolute, valid link (unlike the internal wiki syntax above), so it's
+     safe to emit — Telegram (and other surfaces Hermes renders markdown
+     for) turns it into a clickable link that jumps straight to that
+     moment. Only do this after actually opening the Source page and
+     confirming the video ID — never guess it.
    - Explicitly surface disagreements between sources rather than picking
      one silently — the wiki deliberately preserves unresolved tensions
      (e.g. VPN-ban-risk vs. long-term antidetect-browser safety, Upwork's
@@ -124,10 +135,17 @@ are relevant, then `read_file` those specific pages.
   that change. This skill only ever reads it.
 - The wiki is ~200k tokens total — never `read_file` the whole `wiki/`
   directory at once; read only what the index says is relevant.
+- **Don't put `[[slug](pages/slug.md)]` in the chat reply.** That's the
+  wiki's internal cross-reference syntax, meaningless (and potentially
+  Markdown-parse-breaking) outside the file tree. Cite pages by name in
+  prose instead. Real YouTube-timestamp links are the one exception — those
+  are genuine absolute URLs, safe to emit as-is.
 
 ## Verification
 
-After answering, every factual claim in the response should carry a
-`[[slug](pages/slug.md)]` citation. If it doesn't, something was answered
-from general knowledge instead of the wiki — go back and ground it, or say
-the wiki doesn't cover it.
+After answering, every factual claim in the response should be traceable to
+a named wiki page (in prose, not a `[[slug](pages/slug.md)]` link). If it
+isn't, something was answered from general knowledge instead of the wiki —
+go back and ground it, or say the wiki doesn't cover it. Also check the
+reply doesn't contain any literal `[[...]]` or `pages/....md` text — that
+means the internal link syntax leaked into the chat-facing answer.
