@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov]
 updated: 2026-07-24
 ---
 
@@ -258,6 +258,16 @@ soft tension с уже зафиксированным предупреждени
 ошибки новичка (сильно недооценённые цена и срок для крупного заказа) и успешного запроса
 продления дедлайна у клиента.
 
+Десятый источник по Fiverr (тот же автор) — первый источник вики, целиком посвящённый теме
+мошенничества, а не бытовым рискам площадки. Вводит новый концепт
+[[moshennichestvo-na-fiverr](pages/moshennichestvo-na-fiverr.md)]: две схемы (фишинг за
+личные данные, QR-коды/поддельные сайты для кражи с карты), конкретные признаки мошенника
+и защитный скрипт отказа. Даёт четвёртый, наиболее практический датапоинт в tension о
+скорости первого заказа — "минимум 2 недели" как правило отличения спама от органики.
+Пересекается с [[bezopasnost-sdelki](pages/bezopasnost-sdelki.md)]: раскрытие личных
+данных вне платформы создаёт риск не только со стороны мошенника, но и для собственного
+аккаунта.
+
 ## Open Questions
 
 - Насколько применима эта воронка (proposal → portfolio → review → JSS) к Fiverr, у которого
@@ -337,3 +347,4 @@ soft tension с уже зафиксированным предупреждени
 - [[gig-fiverr](pages/gig-fiverr.md)]
 - [[urovni-fiverr](pages/urovni-fiverr.md)]
 - [[vyplaty-i-nalogi-na-fiverr](pages/vyplaty-i-nalogi-na-fiverr.md)]
+- [[moshennichestvo-na-fiverr](pages/moshennichestvo-na-fiverr.md)]

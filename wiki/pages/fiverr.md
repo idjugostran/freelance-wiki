@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -65,7 +65,12 @@ $1-2k, на Fiverr — $4-5k, при масштабировании в аген�
 Questions в overview.md. **Третий, промежуточный датапоинт (независимый источник):**
 2 месяца пассивного ожидания первого реального клиента при активном, но не продвигаемом
 gig — только спам-сообщения до этого момента; ближе к среднему между двумя крайностями
-выше, но не разрешает саму tension.[^16]
+выше, но не разрешает саму tension.[^16] **Четвёртый датапоинт, с явной практической
+целью (независимый источник):** резкий поток сообщений сразу после первого gig — не
+органический спрос, а признак мошенничества (см.
+[[moshennichestvo-na-fiverr](pages/moshennichestvo-na-fiverr.md)]); реальный первый заказ
+приходит не раньше, чем через 2 недели после регистрации — конкретная нижняя граница,
+данная не как наблюдение, а как практическое правило для отличения спама от органики.[^17]
 
 **Многослойные потери при выводе для российских резидентов** (сверх стандартной комиссии
 20%): комиссия на вывод, курсовая разница PayPal→карта, курсовая разница карта→крипта,
@@ -119,6 +124,7 @@ GPT-приложения, продажа AI-генерируемого иску�
 - [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — живой обзор маркетплейса, широта категорий, трата баланса внутри платформы, наблюдение о модерации
 - [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] — коррекция доступа для Беларуси
 - [[moy-pervyy-zakaz-na-frilanse-650-fiverr](pages/moy-pervyy-zakaz-na-frilanse-650-fiverr.md)] — третий датапоинт по срокам получения первого заказа (2 месяца)
+- [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] — четвёртый датапоинт (2 недели), схемы мошенничества
 
 ## Related Concepts
 
@@ -130,6 +136,7 @@ GPT-приложения, продажа AI-генерируемого иску�
 - [[upwork](pages/upwork.md)] — платформа-аналог, с которой идёт постоянное сравнение в источнике
 - [[mestnye-birzhi-frilansa](pages/mestnye-birzhi-frilansa.md)] — Kwork как структурный прообраз Fiverr
 - [[nakrutka-otzyvov](pages/nakrutka-otzyvov.md)] — рискованный обходной путь преодоления холодного старта, описан и для Fiverr
+- [[moshennichestvo-na-fiverr](pages/moshennichestvo-na-fiverr.md)] — риск со стороны третьих лиц, отличный от рисков нарушения правил самим фрилансером
 
 ## Footnotes
 
@@ -149,3 +156,4 @@ GPT-приложения, продажа AI-генерируемого иску�
 [^14]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [18:15-19:01] [synthesis] — открытая продажа контента с использованием чужих защищённых персонажей, наблюдаемая лояльность модерации
 [^15]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [00:00] — "на данный момент аккаунт на F из Беларуси уже не получится поэтому единственный рабочий вариант - это наш польский сервер"
 [^16]: [[moy-pervyy-zakaz-na-frilanse-650-fiverr](pages/moy-pervyy-zakaz-na-frilanse-650-fiverr.md)] [02:00-03:02] [synthesis] — 2 месяца ожидания первого реального клиента, только спам-сообщения
+[^17]: [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] [02:00-03:00] — "первый заказ может прийти только через две недели от начало вашей регистрации"
