@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -95,12 +95,34 @@ Premium, описанной выше в общем виде.[^14]
 размещать это предупреждение ближе к началу текста, а не в самом низу — не все клиенты
 дочитывают описание полностью.[^19]
 
+**Рекомендация занимать все доступные слоты gig, а не один (независимый источник):**
+максимизирует трафик на объявления — противоположная позиция стратегии "начать с одного
+качественного gig", ранее в вики не встречавшаяся.[^20]
+
+**Источники ключевых слов (независимый источник, два конкретных метода):** анализ
+marketplace — какие keywords используют конкуренты в нише; запрос к ChatGPT — какие
+ключевые слова сейчас актуальны и по каким чаще ищут исполнителей в конкретной нише.[^21]
+
+**Ценовая философия "трипваер" (независимый источник):** Basic — самая низкая цена, первое
+касание с клиентом ("трипваер"); Standard — рабочий тариф с основным объёмом заказов;
+Premium — максимум опций и цены. Явная рекомендация не занижать цену даже опытному
+специалисту — слишком низкая цена при явно качественных работах подрывает доверие
+клиента (подозрение в происхождении контента или демпинге); ориентироваться на рыночный
+уровень цен ниши.[^22]
+
+**Обложка — прямая аналогия с карточкой товара на маркетплейсе:** без привлекательной
+обложки нет кликов, без кликов нет конверсии в заказы; рекомендуется показывать
+минимальную цену, лучший кейс портфолио или упоминание известных клиентов прямо на
+обложке.[^23] Загруженное видео проходит модерацию поддержки Fiverr перед появлением в
+живом gig.[^24]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — полная структура gig, правила написания описания, оформление обложки
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — система ревизий, платное продвижение gig
 - [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — метрика "in queue", реальный пример трёхуровневого ценообразования
 - [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] — SEO-эффект сужения ключевых слов, роль поля Type, лимит тегов, эффект видео, requirements
+- [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] — заполнение всех слотов gig, источники ключевых слов, ценовая философия "трипваер", важность обложки
 
 ## Related Concepts
 
@@ -130,3 +152,8 @@ Premium, описанной выше в общем виде.[^14]
 [^17]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [06:02-07:02] [synthesis] — лимит 5 тегов
 [^18]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [15:02-16:03] — "сам fiver пишет что видео увеличивает ваш шанс что выберут именно вас на 40 процентов"
 [^19]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [12:01-14:00] [synthesis] — requirements, расшифровка терминов, предупреждение написать перед заказом
+[^20]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [01:01-02:01] — "я рекомендую вам занимать все свободные слоты для того чтобы как можно больше привлечь трафик на свои объявления"
+[^21]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [03:00-04:00] [synthesis] — два метода подбора ключевых слов: анализ marketplace и запрос к ChatGPT
+[^22]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [05:02-07:00] [synthesis] — философия трёхуровневого ценообразования "трипваер", предупреждение не демпинговать
+[^23]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [09:01-10:01] [synthesis] — важность обложки gig для CTR, аналогия с карточкой товара маркетплейса
+[^24]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [10:01] [synthesis] — модерация видео службой поддержки перед публикацией в gig

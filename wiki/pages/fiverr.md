@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -68,10 +68,13 @@ Questions в overview.md.
 20%): комиссия на вывод, курсовая разница PayPal→карта, курсовая разница карта→крипта,
 потеря при обмене крипты на рубли.[^7]
 
-**Доступ для РФ/РБ — отличие от Upwork:** платформа заблокирована именно для регистрации
-с территории РФ; для Беларуси, по независимому источнику, регистрация и работа доступны
-без обхода блокировок. Это отличается от Upwork, где ограничение затрагивает оба региона
-одинаково.[^9]
+**Доступ для РФ/РБ — уточнено со временем:** более ранний источник сообщал, что платформа
+заблокирована только для регистрации с территории РФ, а для Беларуси регистрация и работа
+доступны без обхода блокировок.[^9] **Тот же источник впоследствии прямо скорректировал
+эту информацию** в следующем видео серии — на момент более позднего видео Беларусь тоже
+заблокирована, единственный рабочий вариант — обход через сторонний сервер. Это не
+противоречие между независимыми источниками, а изменение доступа во времени, явно
+признанное самим источником.[^15]
 
 **Причины бана:** (1) VPN/подмена локации — при отключении VPN площадка детектирует смену
 локации и банит за "обман", независимое подтверждение того же предупреждения, что уже
@@ -111,6 +114,7 @@ GPT-приложения, продажа AI-генерируемого иску�
 - [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] — история платформы, доступ для РФ/РБ, причины бана, советы по фото и описанию профиля
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — детальный разбор плюсов/минусов, интерфейс, видеокурс, итоговая рекомендация начинать с Kwork
 - [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — живой обзор маркетплейса, широта категорий, трата баланса внутри платформы, наблюдение о модерации
+- [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] — коррекция доступа для Беларуси
 
 ## Related Concepts
 
@@ -139,3 +143,4 @@ GPT-приложения, продажа AI-генерируемого иску�
 [^12]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [23:02-25:00] [synthesis] — итоговая рекомендация начинать с русскоязычных бирж, переход на Fiverr не обязателен через физический переезд
 [^13]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [08:00-14:02,21:02-22:00] [synthesis] — широта категорий (AI-сегмент), баланс, тратящийся на покупку услуг других фрилансеров
 [^14]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [18:15-19:01] [synthesis] — открытая продажа контента с использованием чужих защищённых персонажей, наблюдаемая лояльность модерации
+[^15]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [00:00] — "на данный момент аккаунт на F из Беларуси уже не получится поэтому единственный рабочий вариант - это наш польский сервер"

@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2]
 updated: 2026-07-24
 ---
 
@@ -241,6 +241,15 @@ soft tension с уже зафиксированным предупреждени
 лимитом 7 gig для новичков. Даёт важное уточнение к
 [[vyplaty-i-nalogi-na-fiverr](pages/vyplaty-i-nalogi-na-fiverr.md)]: задержка вывода
 сокращается с 14 до 7 дней для фрилансеров Top Rated.
+
+Восьмой источник по Fiverr — прямое продолжение (Часть 2) четвёртого источника, тот же
+дуэт URelocate + Александра Горнаго, фокус на заполнении первого
+[[gig-fiverr](pages/gig-fiverr.md)]. Даёт два конкретных метода подбора ключевых слов,
+ценовую философию "трипваер" для трёх пакетов с явным предупреждением не демпинговать, и
+объясняет важность обложки gig прямой аналогией с карточкой товара маркетплейса. Также
+прямо корректирует собственное более раннее заявление про доступ для Беларуси — на момент
+этого видео площадка заблокирована и для неё, не только для РФ (изменение во времени,
+явно признанное источником, а не противоречие).
 
 ## Open Questions
 
