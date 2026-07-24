@@ -3,7 +3,7 @@ title: Локальные (русскоязычные) биржи фриланс
 category: Concepts
 summary: Workzilla, Kwork, FL.ru/Free-lance.ru, FreelanceHunt — стартовая точка для новичка, но с низким потолком оплаты и редким потоком заказов
 tags: [ru-platforms, workzilla, kwork]
-sources: [frilans-bez-opyta, kak-vzyat-pervyy-zakaz-na-frilanse, kak-zarabatyvat-na-frilanse-v-2026, kak-zarabotat-na-fiverr-10-minut]
+sources: [frilans-bez-opyta, kak-vzyat-pervyy-zakaz-na-frilanse, kak-zarabatyvat-na-frilanse-v-2026, kak-zarabotat-na-fiverr-10-minut, frilans-glazami-novichka-2025]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -49,12 +49,21 @@ FreelanceHunt.[^1]
 Kwork/локальных биржах и только потом заходить на Fiverr — органический первый заказ на
 Fiverr для неподготовленного новичка описан как практически недостижимый.[^7]
 
+**Актуальность на 2025 год — зарубежные биржи труднодоступны (независимый источник):**
+разработчик мобильных приложений описывает год работы исключительно на отечественном
+рынке (Kwork, Avito, прямые заказы через YouTube), явно объясняя это недоступностью
+зарубежных бирж (верификация по паспорту, заблокированные карты для приёма денег) —
+подтверждает уже зафиксированную в вики RF-access tension с актуальной (2025) датой.
+Также отмечает, что отечественный рынок субъективно переполнен фрилансерами относительно
+числа заказчиков.[^8]
+
 ## Appearances in Sources
 
 - [[frilans-bez-opyta](pages/frilans-bez-opyta.md)] — обзор Workzilla и Kwork, сравнение цен с международным рынком, тезис про редкий поток заказов
 - [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] — Kwork как площадка с низкой конкуренцией для первого заказа, механика откликов и эскроу
 - [[kak-zarabatyvat-na-frilanse-v-2026](pages/kak-zarabatyvat-na-frilanse-v-2026.md)] — разница между ценой в объявлении и итоговой суммой после переговоров
 - [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] — Kwork как структурный прообраз Fiverr, рекомендация начинать здесь перед выходом на Fiverr
+- [[frilans-glazami-novichka-2025](pages/frilans-glazami-novichka-2025.md)] — актуальность недоступности зарубежных бирж на 2025 год, переполненность отечественного рынка
 
 ## Related Concepts
 
@@ -74,3 +83,4 @@ Fiverr для неподготовленного новичка описан к�
 [^5]: [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] [01:00-02:01] — "выбери биржу, которая соответствует твоему региону. Я рекомендую биржу Кворк ... на ней можно легко стартануть, и там все говорят на русском"
 [^6]: [[kak-zarabatyvat-na-frilanse-v-2026](pages/kak-zarabatyvat-na-frilanse-v-2026.md)] [10:00] — "там как бы практически все заказы, на которые я откликаюсь, изначально там 5, 10-15 тыс. руб. Но после созвона я их закрываю на 75, там 118 и ещё суммы"
 [^7]: [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] [00:00-01:02,08:01-09:01] [synthesis] — Fiverr как структурный аналог Kwork с более платежеспособной аудиторией, рекомендация начинать с Kwork
+[^8]: [[frilans-glazami-novichka-2025](pages/frilans-glazami-novichka-2025.md)] [05:00] [synthesis] — недоступность зарубежных бирж в 2025 году, переполненность отечественного рынка

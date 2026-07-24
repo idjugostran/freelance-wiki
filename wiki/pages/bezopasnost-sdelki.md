@@ -3,7 +3,7 @@ title: Безопасность сделки (эскроу)
 category: Concepts
 summary: Деньги заказчика замораживаются биржей до приёмки работы и не возвращаются ему напрямую — уход в личные мессенджеры лишает этой защиты
 tags: [escrow, safety, kwork, upwork, fiverr]
-sources: [kak-vzyat-pervyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, opyt-na-upwork-plyusy-minusy, kak-nachat-na-fiverr-polnyy-gayd, moshenniki-na-fiverr-dlya-novichkov]
+sources: [kak-vzyat-pervyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, opyt-na-upwork-plyusy-minusy, kak-nachat-na-fiverr-polnyy-gayd, moshenniki-na-fiverr-dlya-novichkov, frilans-glazami-novichka-2025]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -50,6 +50,13 @@ Activate Watermark — автоматически ставит водяной з
 стороны мошенника, но и риск мониторинга/блокировки самого аккаунта площадкой за попытку
 увести клиента за её пределы. Подробнее — [[moshennichestvo-na-fiverr](pages/moshennichestvo-na-fiverr.md)].[^6]
 
+**Кейс прямой сделки без эскроу (вне площадки) — конкретное предостережение:** независимый
+источник описывает прямую (не через биржу) сделку по разработке мобильного приложения —
+отдал клиенту весь код и готовое приложение до получения финальной трети оплаты и не
+получил её (ждёт уже около года). Прямая практическая поправка: разбивать оплату на части
+можно, но не отдавать финальный результат раньше, чем получена последняя часть оплаты —
+без эскроу-защиты биржи это единственная страховка фрилансера.[^7]
+
 ## Appearances in Sources
 
 - [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] — механика заморозки денег на Kwork и риски ухода в личные мессенджеры
@@ -57,6 +64,7 @@ Activate Watermark — автоматически ставит водяной з
 - [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] — конкретный кейс обвала JSS из-за смешанного (частично вне площадки) формата работы
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — предоплата клиента на Fiverr, запрет ухода с площадки, функция водяного знака
 - [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] — мошенничество как мотив попытки увести клиента с площадки, скрипт отказа
+- [[frilans-glazami-novichka-2025](pages/frilans-glazami-novichka-2025.md)] — кейс прямой сделки без эскроу: полная отдача результата до финальной оплаты, оплата не получена
 
 ## Related Concepts
 
@@ -74,3 +82,4 @@ Activate Watermark — автоматически ставит водяной з
 [^4]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [11:01-11:14] [synthesis] — смешанный формат работы (частично вне площадки), конфликт с клиентом, обвал JSS со 100% до 67%
 [^5]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [33:00-39:02] [synthesis] — предоплата клиента Fiverr, запрет ухода с площадки, функция Activate Watermark
 [^6]: [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] [08:00-10:00] — "Это запрещено правилами площадки. Я не имею права отправлять вам свои личные данные. Если вы планируете заказать у меня что-либо, пожалуйста давайте продолжим диалог в этом чате"
+[^7]: [[frilans-glazami-novichka-2025](pages/frilans-glazami-novichka-2025.md)] [02:00-03:00] [synthesis] — прямая сделка вне биржи, отдача полного результата до финальной оплаты, оплата не получена
