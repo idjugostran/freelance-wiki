@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -62,7 +62,10 @@ $1-2k, на Fiverr — $4-5k, при масштабировании в аген�
 стартовой клиентской базы — формальная система "брифов" (buyer requests) на практике
 почти нерабочая: мало заявок в день, плохое качество задач, за два года работы автор не
 взял через неё ни одного заказа.[^6] Не разрешено вики как противоречие — см. Open
-Questions в overview.md.
+Questions в overview.md. **Третий, промежуточный датапоинт (независимый источник):**
+2 месяца пассивного ожидания первого реального клиента при активном, но не продвигаемом
+gig — только спам-сообщения до этого момента; ближе к среднему между двумя крайностями
+выше, но не разрешает саму tension.[^16]
 
 **Многослойные потери при выводе для российских резидентов** (сверх стандартной комиссии
 20%): комиссия на вывод, курсовая разница PayPal→карта, курсовая разница карта→крипта,
@@ -115,6 +118,7 @@ GPT-приложения, продажа AI-генерируемого иску�
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — детальный разбор плюсов/минусов, интерфейс, видеокурс, итоговая рекомендация начинать с Kwork
 - [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — живой обзор маркетплейса, широта категорий, трата баланса внутри платформы, наблюдение о модерации
 - [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] — коррекция доступа для Беларуси
+- [[moy-pervyy-zakaz-na-frilanse-650-fiverr](pages/moy-pervyy-zakaz-na-frilanse-650-fiverr.md)] — третий датапоинт по срокам получения первого заказа (2 месяца)
 
 ## Related Concepts
 
@@ -144,3 +148,4 @@ GPT-приложения, продажа AI-генерируемого иску�
 [^13]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [08:00-14:02,21:02-22:00] [synthesis] — широта категорий (AI-сегмент), баланс, тратящийся на покупку услуг других фрилансеров
 [^14]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [18:15-19:01] [synthesis] — открытая продажа контента с использованием чужих защищённых персонажей, наблюдаемая лояльность модерации
 [^15]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [00:00] — "на данный момент аккаунт на F из Беларуси уже не получится поэтому единственный рабочий вариант - это наш польский сервер"
+[^16]: [[moy-pervyy-zakaz-na-frilanse-650-fiverr](pages/moy-pervyy-zakaz-na-frilanse-650-fiverr.md)] [02:00-03:02] [synthesis] — 2 месяца ожидания первого реального клиента, только спам-сообщения
