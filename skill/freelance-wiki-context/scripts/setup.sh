@@ -8,16 +8,16 @@
 #
 # Everything is self-contained: it does a SPARSE clone of just the data the
 # skill actually reads (wiki/, bin/, skill/ — NOT raw/, which is ~7.6MB of
-# archival video transcripts the skill never opens), regenerates the wiki
+# archival source material the skill never opens), regenerates the wiki
 # index, and registers the skill with Hermes (skills.external_dirs). No cron
-# job — unlike tokovinin-video-flow, this skill is pure read-only context
-# grounding triggered by chat mentions, nothing to run on a schedule.
+# job — this skill is pure read-only context grounding triggered by chat
+# mentions, nothing to run on a schedule.
 #
 # Idempotent — safe to re-run any time (same link again later, a cron job,
 # whatever): re-running just fast-forwards to the latest wiki content (so
-# newly ingested videos show up) and never re-registers a path that's
-# already in skills.external_dirs. A run with nothing new upstream is a
-# no-op past the git fetch.
+# newly added pages show up) and never re-registers a path that's already
+# in skills.external_dirs. A run with nothing new upstream is a no-op past
+# the git fetch.
 #
 # Override defaults via env vars (useful for the curl|bash form, where
 # there's no way to pass CLI flags before the script exists locally):
@@ -28,37 +28,14 @@
 #   --repo URL          same as FREELANCE_REPO_URL
 #   --no-register       skip the Hermes registration step (clone/update only)
 #
-# What it does, in order:
-#   0. Sparse-clones (or fast-forward pulls, if already cloned) just
-#      wiki/, bin/, and skill/ from the repo — cone-mode sparse-checkout,
-#      so raw/, config/, assets/ never hit disk. Root-level loose files
-#      (SCHEMA.md, PLAN.md, .gitignore) come along for free either way —
-#      cone mode always includes files that sit directly at the repo root,
-#      only directories need to be listed explicitly; harmless, a few KB.
-#   1. Regenerates wiki/index.md (bin/generate-index.py) so the skill has a
-#      fresh index the moment install/update finishes, not just on first
-#      chat mention.
-#   2. Checks the `hermes` CLI is on PATH (can't install Hermes itself here
-#      - see hermes.nousresearch.com).
-#   3. Registers the skill with Hermes by adding this checkout's `skill/`
-#      directory to `skills.external_dirs` in ~/.hermes/config.yaml (best-
-#      effort text patch, skipped with a manual instruction if the config's
-#      current shape isn't one of the forms this script knows how to patch
-#      safely - never guesses past that). Skipped entirely with --no-register.
-#   4. Restarts the Hermes gateway (`hermes gateway restart`) so a running
-#      instance picks up the new/updated wiki content and skill right away,
-#      instead of waiting for its own next restart. Only runs when step 0
-#      actually changed something (fresh clone or new commits pulled) - a
-#      no-op run never touches the gateway. Also skipped if no gateway is
-#      installed/running here (e.g. CLI-only use) or with --no-register;
-#      a failed restart is a warning, not a fatal error - the wiki/skill
-#      files are already updated on disk regardless.
-#   5. Same idea for the Hermes desktop app, if it's running - it's a plain
-#      Electron app with no --stop/--restart flag, so this quits it (gracefully
-#      via `osascript` on macOS, `pkill` fallback otherwise) and relaunches
-#      with `hermes desktop --skip-build`. Same CHANGED/--no-register gating
-#      as the gateway step; won't relaunch if it's still shutting down after
-#      10s (avoids a duplicate instance - tells you to do it by hand instead).
+# What it does, in order (see the comment above each numbered step below for
+# the full detail on that step):
+#   0. Sparse-clone/update just wiki/, bin/, skill/ (no raw/).
+#   1. Regenerate wiki/index.md.
+#   2. Check the `hermes` CLI is on PATH.
+#   3. Register the skill with Hermes (skills.external_dirs).
+#   4. Restart the Hermes gateway, if running and something changed.
+#   5. Restart the Hermes desktop app, if running and something changed.
 
 set -euo pipefail
 
@@ -75,6 +52,12 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
+# Cone-mode sparse-checkout of just wiki/, bin/, skill/ — raw/, config/,
+# assets/ never hit disk. Root-level loose files (SCHEMA.md, PLAN.md,
+# .gitignore) come along for free either way: cone mode always includes
+# files sitting directly at the repo root, only directories need to be
+# listed explicitly. Harmless, a few KB, and bin/generate-index.py actually
+# needs SCHEMA.md (reads link_style and category order from it).
 echo "== 0. Sparse clone/update (wiki/, bin/, skill/ only — no raw/) =="
 CHANGED=0
 if [[ -d "$INSTALL_DIR/.git" ]]; then
@@ -108,9 +91,14 @@ fi
 INSTALLED_SIZE="$(du -sh "$INSTALL_DIR" 2>/dev/null | cut -f1)"
 echo "  On-disk size: $INSTALLED_SIZE (raw/ excluded)"
 
+# wiki/index.md is gitignored (a generated artifact, never committed), so a
+# fresh clone/pull never brings a current one along - rebuild it now so the
+# skill has a fresh index the moment this script finishes, not just whenever
+# it next gets triggered in chat.
 echo "== 1. Regenerate wiki index =="
 python3 "$INSTALL_DIR/bin/generate-index.py"
 
+# Can't install Hermes itself from here - that's a separate onboarding step.
 echo "== 2. hermes CLI =="
 if command -v hermes >/dev/null 2>&1; then
   echo "  OK: $(hermes --version 2>&1 | head -1)"
@@ -126,6 +114,9 @@ if [[ "$DO_REGISTER" -eq 0 ]]; then
   exit 0
 fi
 
+# Best-effort text patch of ~/.hermes/config.yaml - handles the YAML shapes
+# below and never guesses past what it can safely recognize; anything else
+# gets a manual instruction instead of a risky edit.
 echo "== 3. Register skill with Hermes (skills.external_dirs) =="
 python3 - "$INSTALL_DIR/skill" <<'PYEOF'
 import re
@@ -268,4 +259,4 @@ fi
 
 echo "== Done =="
 echo "Installed/updated at: $INSTALL_DIR ($INSTALLED_SIZE on disk)"
-echo "Re-run this script (same command) any time to pull newly ingested videos."
+echo "Re-run this script (same command) any time to pull newly added wiki content."

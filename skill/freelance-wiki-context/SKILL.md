@@ -1,17 +1,16 @@
 ---
 name: freelance-wiki-context
-description: "Grounds answers about Upwork or Fiverr in the Freelance wiki (40 ingested videos). Trigger: 'Upwork'/'Fiverr' (or the common misspelling 'Fiver') anywhere in the conversation, any case/language — including Russian transliterations апворк/апарк and файвер/фивер, any declension."
-platforms: [macos, linux]
-metadata: {"hermes":{"tags":["upwork","fiverr","freelance","wiki","knowledge-base"],"category":"knowledge-base","requires_tools":["python3"],"related_skills":["tokovinin-kb-context"]}}
+description: "Answers Upwork/Fiverr/апворк/файвер questions from the wiki."
+metadata: {"hermes":{"tags":["upwork","fiverr","freelance","wiki","knowledge-base"],"category":"knowledge-base","requires_tools":["python3"]}}
 ---
 
 # Freelance Wiki (Upwork/Fiverr) Context
 
-## When to use
+## When to Use
 
 Trigger whenever **Upwork** or **Fiverr** is mentioned anywhere in the user's
-message, in any of these forms (not an exhaustive list — match the intent,
-not just these exact strings):
+message, in any of these forms (not exhaustive — match the intent, not just
+these exact strings):
 
 - English: `Upwork`, `upwork`, `Fiverr`, `fiverr`, `Fiver` (a very common
   misspelling of Fiverr — treat it the same as `Fiverr`)
@@ -21,43 +20,82 @@ not just these exact strings):
   файвером...), `фивер` / `Фивер`
 
 Not limited to explicit questions ("расскажи про регистрацию на Fiverr") —
-any mention at all is enough, including passing references ("я зарегался на
-апворке вчера", "думаю податься на файвер").
+any passing mention is enough ("я зарегался на апворке вчера", "думаю
+податься на файвер").
 
-This is a **grounding skill**, not a whole-file-attachment one: unlike
-`tokovinin-kb-context` (a single ~2k-token file, cheap to attach whole every
-time), the Freelance wiki is ~65 pages / ~200k tokens. Dumping all of it into
-context on every mention would be wasteful and often irrelevant. Instead,
-read *just* the pages relevant to what's being asked, the same way the
-`wiki-query` skill works.
+This is a **grounding skill**, not a whole-file-attachment one — the
+Freelance wiki is ~65 pages / ~200k tokens, so dumping all of it into context
+on every mention would be wasteful and often irrelevant. Read *just* the
+pages relevant to the question instead.
 
-## What to do
+## Prerequisites
 
-This skill lives inside the wiki's own project (`/Users/idjugostran/Projects/Freelance`),
-next to `SCHEMA.md`, `wiki/pages/*.md` and `wiki/overview.md` — a wiki built
-with the `wiki-skills` Claude Code plugin. Its `link_style` is `markdown`:
-cross-references and citations look like `[[slug](pages/slug.md)]`.
+`python3` on PATH (stdlib only, no pip installs needed).
 
-1. **Regenerate and read the index.**
-   ```
-   cd /Users/idjugostran/Projects/Freelance && python3 bin/generate-index.py
-   ```
-   Then read `wiki/index.md` in full — it's grouped by category (Sources /
-   Entities / Concepts) with a one-line summary per page. Use it to identify
-   which pages are actually relevant to the mention/question. Don't answer
-   from general knowledge about Upwork/Fiverr — the wiki is ground truth
-   here, and it frequently disagrees with generic platform knowledge on
-   specifics (commission rates, cold-start timing, ban risks, etc.) or
-   documents things (e.g. a specific fraud pattern, a specific fee) generic
+This skill is portable — it has **no hard-coded machine path or username**.
+Every install (this one, or a fresh one on someone else's machine) puts a
+full copy of the wiki data next to the skill itself, always in the exact
+same relative shape:
+
+```
+<wiki-root>/
+├── SCHEMA.md
+├── bin/generate-index.py
+├── wiki/
+│   ├── index.md          (generated — regenerate before reading)
+│   ├── overview.md
+│   └── pages/*.md
+└── skill/freelance-wiki-context/SKILL.md   <- this file
+```
+
+So **`<wiki-root>` is always exactly two directories above this file's own
+location.** Resolve it from wherever this skill was loaded from — do not
+assume any particular home directory or username; the install path varies
+per machine (default `~/Freelance`, but whoever ran the installer may have
+pointed `--dir` somewhere else entirely).
+
+## How to Run
+
+Through the `terminal` tool, from `<wiki-root>`:
+
+```
+python3 bin/generate-index.py
+```
+
+Then read `wiki/index.md`, `wiki/overview.md`, and the relevant
+`wiki/pages/*.md` files with `read_file` (never `wiki/pages/audit-*.md` —
+those are unrelated local artifacts if present).
+
+## Quick Reference
+
+- Regenerate index: `python3 bin/generate-index.py` (run from `<wiki-root>`)
+- Index: `wiki/index.md` — grouped by category (Sources / Entities /
+  Concepts), one-line summary per page
+- Entity hubs (start here for broad/no-specific-question mentions):
+  `wiki/pages/upwork.md`, `wiki/pages/fiverr.md`
+- Synthesis + known open disagreements: `wiki/overview.md`
+- Cross-reference / citation form (this wiki's `link_style: markdown`):
+  `[[slug](pages/slug.md)]`
+
+## Procedure
+
+1. **Regenerate and read the index.** Run `python3 bin/generate-index.py`
+   from `<wiki-root>`, then `read_file` on `wiki/index.md` in full. Use it
+   to identify which pages are actually relevant to the mention/question.
+   Don't answer from general knowledge about Upwork/Fiverr — the wiki is
+   ground truth here, and it frequently disagrees with generic platform
+   knowledge on specifics (commission rates, cold-start timing, ban risks)
+   or documents things (a specific fraud pattern, a specific fee) generic
    knowledge wouldn't have at all.
 
-2. **Read the relevant pages in full**, not summaries or greps. For a broad
-   mention with no specific question ("апворк топ"), start from the entity
-   page (`wiki/pages/upwork.md` or `wiki/pages/fiverr.md`) — both are dense
-   synthesis pages that link out to everything else. For a specific
-   question, go straight to the most relevant Concept/Source page(s) from
-   the index. Follow one level of `[[slug](pages/slug.md)]` cross-references
-   if they point somewhere clearly relevant.
+2. **Read the relevant pages in full** with `read_file`, not summaries or
+   greps. For a broad mention with no specific question ("апворк топ"),
+   start from the entity page (`wiki/pages/upwork.md` or
+   `wiki/pages/fiverr.md`) — both are dense synthesis pages that link out to
+   everything else. For a specific question, go straight to the most
+   relevant Concept/Source page(s) from the index. Follow one level of
+   `[[slug](pages/slug.md)]` cross-references if they point somewhere
+   clearly relevant.
 
 3. **Synthesize an answer grounded in what you read:**
    - Cite every claim with the wiki's cross-reference for the page it came
@@ -65,12 +103,11 @@ cross-references and citations look like `[[slug](pages/slug.md)]`.
    - Where a footnote in the cited page has a timestamp (`[HH:MM:SS]` or
      `[MM:SS]`) and the underlying Source page's `**Source:**` line has a
      YouTube URL, prefer rendering that as a clickable timestamp link
-     instead of a bare citation — same convention as `tokovinin-kb-context`:
-     convert the timestamp to seconds and link as
+     instead of a bare citation: convert the timestamp to seconds and link as
      `[HH:MM:SS](https://youtu.be/VIDEO_ID?t=SECONDS)`. Telegram (and other
      surfaces Hermes renders markdown for) turns this into a clickable link
-     that jumps straight to that moment. Only do this when you've actually
-     opened the Source page and confirmed the video ID — never guess it.
+     that jumps straight to that moment. Only do this after actually
+     opening the Source page and confirming the video ID — never guess it.
    - Explicitly surface disagreements between sources rather than picking
      one silently — the wiki deliberately preserves unresolved tensions
      (e.g. VPN-ban-risk vs. long-term antidetect-browser safety, Upwork's
@@ -78,27 +115,26 @@ cross-references and citations look like `[[slug](pages/slug.md)]`.
      in `wiki/overview.md`'s Open Questions section. If the topic touches
      one of these, say so instead of quietly picking a side.
    - If the wiki has no page covering what was asked, say so plainly
-     ("в базе знаний вики пока нет ничего про X") rather than falling back
-     to general knowledge silently.
+     ("в базе знаний вики пока нет ничего про X") instead of silently
+     falling back to general knowledge.
 
-4. **Do not write to the wiki from this skill.** This is read-only context
-   grounding, same as `tokovinin-kb-context`'s relationship to
-   `tokovinin-video-flow`. Adding a new video/source to the wiki is a
-   separate, manual workflow (`wiki-ingest`, not covered by this skill) —
-   if the user asks to add something new, say that's a separate step rather
-   than attempting it here.
+4. **Never write to the wiki from this skill.** This is read-only context
+   grounding — if asked to add or change wiki content, say that's outside
+   what this skill does rather than attempting it.
 
-## Notes
+## Pitfalls
 
-- **Targeted read, not whole-file attach** — see "When to use" above for
-  why. If the wiki ever shrinks to Tokovinin-KB size this could be
-  simplified, but at ~200k tokens across 65 pages that's not close.
-- **Not yet registered with Hermes.** This folder lives at
-  `/Users/idjugostran/Projects/Freelance/skill/freelance-wiki-context` —
-  Hermes only scans directories listed in `skills.external_dirs` in
-  `~/.hermes/config.yaml`, which currently only points at
-  `/Users/idjugostran/Tokovinin/skill` (the Tokovinin project's own skills).
-  A second `external_dirs` entry for this path (or an equivalent install
-  script, mirroring `tokovinin-video-flow/scripts/setup.sh`'s config-patch
-  step) is a separate, not-yet-built install flow — until that exists,
-  Hermes will not pick this skill up on its own.
+- **Don't hard-code `<wiki-root>`.** Always resolve it relative to this
+  file's own location — an absolute path baked in breaks on every other
+  install.
+- **`wiki/index.md` is generated and can be stale** — always regenerate
+  (step 1) before reading it, never read a possibly-stale copy on faith.
+- The wiki is ~200k tokens total — never `read_file` the whole `wiki/`
+  directory at once; read only what the index says is relevant.
+
+## Verification
+
+After answering, every factual claim in the response should carry a
+`[[slug](pages/slug.md)]` citation. If it doesn't, something was answered
+from general knowledge instead of the wiki — go back and ground it, or say
+the wiki doesn't cover it.
