@@ -36,6 +36,7 @@ updated: 2026-07-24
 
 - [[upwork](pages/upwork.md)] — площадка, на которой доступны оба типа контракта
 - [[connects-upwork](pages/connects-upwork.md)] — Connects тратятся на отклик независимо от типа оплаты
+- [[gig-fiverr](pages/gig-fiverr.md)] — почасовая оплата появилась и на Fiverr (функция 2026 года), явно описана источником как аналог механики Upwork
 
 ## Footnotes
 

@@ -89,6 +89,7 @@ $10 000 за проект.[^4]
 - [[proposals-cover-letters](pages/proposals-cover-letters.md)] — JSS-бейдж виден клиенту прямо рядом с откликом
 - [[vygoranie-na-frilanse](pages/vygoranie-na-frilanse.md)] — давление сохранять высокий JSS как фактор переработки
 - [[nakrutka-otzyvov](pages/nakrutka-otzyvov.md)] — рискованный способ преодоления холодного старта
+- [[urovni-fiverr](pages/urovni-fiverr.md)] — аналогичный по назначению механизм рейтинга на Fiverr, по независимой оценке заметно более прозрачный
 
 ## Footnotes
 
