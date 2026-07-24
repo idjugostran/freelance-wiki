@@ -63,6 +63,12 @@ echo "== 0. Sparse clone/update (wiki/, skill/ only — no raw/, no bin/) =="
 CHANGED=0
 if [[ -d "$INSTALL_DIR/.git" ]]; then
   echo "  Existing checkout found at $INSTALL_DIR - fetching updates..."
+  # Re-apply the sparse-checkout pattern on every run, not just at initial
+  # clone: a plain `git pull` never shrinks/grows which paths are checked
+  # out, so an install made before this pattern dropped bin/ would otherwise
+  # keep carrying a now-pointless bin/ forever. Idempotent - a no-op if the
+  # pattern already matches.
+  git -C "$INSTALL_DIR" sparse-checkout set wiki skill
   BEFORE="$(git -C "$INSTALL_DIR" rev-parse HEAD)"
   git -C "$INSTALL_DIR" pull --ff-only
   AFTER="$(git -C "$INSTALL_DIR" rev-parse HEAD)"
