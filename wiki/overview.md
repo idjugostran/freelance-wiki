@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor]
 updated: 2026-07-24
 ---
 
@@ -223,6 +223,16 @@ Fiverr, с конкретным механизмом детекции, и доб
 Итоговая рекомендация источника — начинать с [[mestnye-birzhi-frilansa](pages/mestnye-birzhi-frilansa.md)]
 и переходить на Fiverr только упёршись в потолок цен там.
 
+Шестой источник по Fiverr — от нового для вики автора ("Ментор Дементор", на Fiverr с
+2015-2017 года), живая экскурсия по маркетплейсу изнутри вместо теории. Вводит метрику
+"in queue" и технику оценки lifetime-заработка продавца через число отзывов, даёт реальный
+пример трёхуровневого ценообразования [[gig-fiverr](pages/gig-fiverr.md)], подтверждает
+[[urovni-fiverr](pages/urovni-fiverr.md)] через интерфейс дашборда продавца. Отмечает
+soft tension с уже зафиксированным предупреждением о бане за неоригинальный контент —
+показывает активно продающиеся gig на основе чужого защищённого авторским правом
+контента с наблюдаемо лояльным отношением платформы; вики фиксирует это как факт с
+открытым вопросом, а не как рекомендацию.
+
 ## Open Questions
 
 - Насколько применима эта воронка (proposal → portfolio → review → JSS) к Fiverr, у которого
@@ -263,6 +273,11 @@ Fiverr, с конкретным механизмом детекции, и доб
   — набор новых мелких контрактов; ни один источник пока не подтверждает это на личном опыте.
 - Почему Fiverr использует налоговую форму W-9, а Upwork — W-8BEN (обе из линейки форм IRS
   для расчётов с нерезидентами США)? Ни один источник пока не объясняет разницу напрямую.
+- Насколько последовательна модерация авторского контента на Fiverr? Один источник прямо
+  предупреждает о бане за неоригинальный контент, другой показывает активно продающиеся
+  gig на основе чужих защищённых персонажей с наблюдаемо лояльным отношением площадки —
+  возможно, алгоритм проверяет схожесть именно с конкурентами-фрилансерами, а не сторонний
+  копирайт как таковой, но ни один источник этого прямо не поясняет.
 - Насколько легко получить первый заказ на Fiverr — быстро (1-й источник: заказ пришёл
   менее чем за неделю) или практически невозможно без стартовой клиентской базы (2-й,
   независимый источник: система брифов почти нерабочая, ни одного заказа через неё за два

@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -63,10 +63,20 @@ Gig — конкретная, максимально узко определён
 ощущениям источника — до ~1 заказа в неделю). При этом в первый год работы источник
 обходился вовсе без рекламы — платное продвижение не обязательно с самого начала.[^12]
 
+**"In queue" — публичная метрика загрузки продавца (независимый источник):** число,
+показываемое рядом с продавцом, отражает, сколько заказов он выполняет одновременно прямо
+сейчас — позволяет косвенно оценить загрузку и минимальный текущий доход конкурента.[^13]
+
+**Реальный пример трёхуровневого ценообразования (независимый источник, ниша логотипов):**
+Basic €24 (1 концепт, PNG на прозрачном фоне, 3 ревизии, 3 дня) → Standard €92 (2 концепта +
+printable-файл) → Premium €145 (+ 3D-мокап) — конкретная иллюстрация механики Basic/Standard/
+Premium, описанной выше в общем виде.[^14]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — полная структура gig, правила написания описания, оформление обложки
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — система ревизий, платное продвижение gig
+- [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — метрика "in queue", реальный пример трёхуровневого ценообразования
 
 ## Related Concepts
 
@@ -89,3 +99,5 @@ Gig — конкретная, максимально узко определён
 [^10]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [22:02-23:00] [synthesis] — рекомендации по оформлению обложки gig
 [^11]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [11:00-13:00] [synthesis] — механика ревизий gig, конкуренция с unlimited revisions, риск полной переделки бесплатно
 [^12]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [17:02-18:00] [synthesis] — платное продвижение gig, pay-to-win динамика, работа без рекламы в первый год
+[^13]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [05:00-06:01] [synthesis] — метрика "in queue", пример расчёта текущей загрузки продавца
+[^14]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [06:01-07:01] [synthesis] — трёхуровневое ценообразование gig на примере услуги по разработке логотипа

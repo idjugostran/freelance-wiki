@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -90,12 +90,27 @@ Questions в overview.md.
 Fiverr только упёршись в потолок цен там; путь через физический переезд и антидетект-
 браузер, который использовал сам автор, не обязателен для начинающего.[^12]
 
+**Широта категорий и баланс, тратящийся внутри платформы (независимый источник):** помимо
+уже перечисленных категорий отдельно выделяется быстрорастущий AI-сегмент (кастомные
+GPT-приложения, продажа AI-генерируемого искусства по промптам). Заработанный баланс можно
+не выводить, а тратить на покупку услуг других фрилансеров прямо на платформе.[^13]
+
+**Soft tension — непоследовательность модерации авторского контента:** источник
+показывает реально существующие, активно продающиеся gig на основе чужого защищённого
+контента (клипы известных мультфильмов с наложенным логотипом заказчика) — платформа
+описывается как "довольно лояльная" к этому, хотя формально это противоречит
+предупреждению о бане за неоригинальный контент выше. Вики не разрешает это противоречие —
+возможно, алгоритм проверяет схожесть именно с работами фрилансеров-конкурентов, а не
+факт стороннего копирайта; ни один источник этого прямо не поясняет. Явно не рекомендация
+к действию, а зафиксированный наблюдаемый факт.[^14]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — структура платформы, регистрация, gig, уровни, оплата
 - [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] — сравнение с Kwork по деньгам, проблема холодного старта и система брифов, многослойные потери при выводе
 - [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] — история платформы, доступ для РФ/РБ, причины бана, советы по фото и описанию профиля
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — детальный разбор плюсов/минусов, интерфейс, видеокурс, итоговая рекомендация начинать с Kwork
+- [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — живой обзор маркетплейса, широта категорий, трата баланса внутри платформы, наблюдение о модерации
 
 ## Related Concepts
 
@@ -122,3 +137,5 @@ Fiverr только упёршись в потолок цен там; путь �
 [^10]: [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] [06:00-08:01] [synthesis] — три причины бана: VPN-детекция, алгоритмическая проверка оригинальности, спам-рассылка
 [^11]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [00:00-01:00] [synthesis] — интерфейс в топе среди площадок, бесплатный видеокурс после регистрации
 [^12]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [23:02-25:00] [synthesis] — итоговая рекомендация начинать с русскоязычных бирж, переход на Fiverr не обязателен через физический переезд
+[^13]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [08:00-14:02,21:02-22:00] [synthesis] — широта категорий (AI-сегмент), баланс, тратящийся на покупку услуг других фрилансеров
+[^14]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [18:15-19:01] [synthesis] — открытая продажа контента с использованием чужих защищённых персонажей, наблюдаемая лояльность модерации

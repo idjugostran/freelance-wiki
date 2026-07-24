@@ -3,7 +3,7 @@ title: Уровни / бейджи Fiverr
 category: Concepts
 summary: Система уровней New Seller → Level 1 → Level 2 → Top Rated, по критериям заметно прозрачнее механики JSS на Upwork
 tags: [levels, badges, fiverr, rating]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -40,10 +40,16 @@ updated: 2026-07-24
 близкий по духу к скрытой приватной оценке JSS на Upwork (см.
 [[job-success-score](pages/job-success-score.md)]).
 
+**Подтверждение в интерфейсе продавца (независимый источник):** дашборд Fiverr содержит
+раздел "My Levels", где текущий уровень отображается напрямую и периодически
+пересчитывается — независимое подтверждение существования и видимости этой механики
+изнутри реального аккаунта продавца.[^6]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — описание системы уровней, критериев и личный кейс влияния скорости ответа
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — анонимный пост-проектный опросник и его влияние на скрытый алгоритм выдачи
+- [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — подтверждение механики уровней через дашборд продавца
 
 ## Related Concepts
 
@@ -59,3 +65,4 @@ updated: 2026-07-24
 [^3]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [31:01] — "є перший рівень другий рівень і потім Top rated ... тим більше клієнтів буде вас помічати"
 [^4]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [26:00] [synthesis] — личный опыт автора: несвоевременный ответ повлиял на видимость профиля
 [^5]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [18:00-20:02] [synthesis] — анонимный пост-проектный опросник клиента, влияние на скрытый алгоритм выдачи, нестабильность потока заказов
+[^6]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [21:02-22:00] [synthesis] — раздел "My Levels" в дашборде продавца, периодический пересчёт уровня
