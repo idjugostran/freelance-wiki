@@ -3,7 +3,7 @@ title: Безопасность сделки (эскроу)
 category: Concepts
 summary: Деньги заказчика замораживаются биржей до приёмки работы и не возвращаются ему напрямую — уход в личные мессенджеры лишает этой защиты
 tags: [escrow, safety, kwork, upwork]
-sources: [kak-vzyat-pervyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut]
+sources: [kak-vzyat-pervyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, opyt-na-upwork-plyusy-minusy]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -25,10 +25,19 @@ updated: 2026-07-24
 клиента удерживаются в именованном фонде "Upwork Escrow" до сдачи и приёмки работы — та
 же логика эскроу, что описана выше для Kwork.[^3]
 
+**Конкретный кейс-предостережение о частичном уходе с площадки:** независимый источник
+описывает ситуацию, где часть работы с одним клиентом велась через Upwork, часть — вне
+площадки; сотрудничество закончилось конфликтом, и клиент оставил плохой отзыв за ту часть
+работы, что была оформлена на площадке — обвалив [[job-success-score](pages/job-success-score.md)]
+со 100% до 67%. Автор формулирует прямой вывод: смешанный формат хуже обоих чистых
+вариантов — он лишает защиты эскроу/площадки за пределами учтённой части, но негативные
+последствия (отзыв, падение рейтинга) всё равно фиксируются в профиле целиком.[^4]
+
 ## Appearances in Sources
 
 - [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] — механика заморозки денег на Kwork и риски ухода в личные мессенджеры
 - [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] — аналогичный именованный эскроу-фонд на Upwork
+- [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] — конкретный кейс обвала JSS из-за смешанного (частично вне площадки) формата работы
 
 ## Related Concepts
 
@@ -41,3 +50,4 @@ updated: 2026-07-24
 [^1]: [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] [14:00] — "когда вы создаёте заказ, это значит, что заказчик уже закинул деньги на биржу, и они заморожены внутри сделки ... размораживаются, когда вы сдаёте работу, а заказчик принимает. То есть вывести он их обратно не может"
 [^2]: [[kak-vzyat-pervyy-zakaz-na-frilanse](pages/kak-vzyat-pervyy-zakaz-na-frilanse.md)] [14:00-15:01] — "если же вы вывели заказчика в Telegram или WhatsApp, здесь уже как бы пеняйте на себя ... здесь уже никакой безопасной сделки нет"
 [^3]: [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] [03:00] — "upwork выступает надёжным посредником, который хранит у себя деньги в фонде, он называется upwork escrow, и выплачивает их вам после выполнения работы"
+[^4]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [11:01-11:14] [synthesis] — смешанный формат работы (частично вне площадки), конфликт с клиентом, обвал JSS со 100% до 67%

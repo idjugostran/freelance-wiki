@@ -3,7 +3,7 @@ title: Job Success Score (JSS)
 category: Concepts
 summary: Внутренний рейтинг фрилансера на Upwork — пересчитывается раз в 2 недели, влияет на бейджи и видимость в откликах
 tags: [jss, rating, upwork]
-sources: [kak-zarabotat-na-upwork-10-minut, pochemu-frilans-ne-aktualen, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, skolko-nuzhno-konnektov, kak-zarabatyvat-na-upwork-v-2025]
+sources: [kak-zarabotat-na-upwork-10-minut, pochemu-frilans-ne-aktualen, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, skolko-nuzhno-konnektov, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -62,6 +62,16 @@ $10 000 за проект.[^4]
 причиной то, что для заказчиков с историей он выглядит "подозрительной личностью" без
 единой сделки на площадке, независимо от опыта или внешних ссылок на портфолио/YouTube.[^8]
 
+**Обвал JSS из-за смешанного (частично вне площадки) формата работы** — кейс-предостережение
+независимого источника (SMM-ниша): 3 успешно закрытых контракта, 100% JSS; часть работы с
+одним клиентом велась вне Upwork, сотрудничество закончилось конфликтом, клиент оставил
+плохой отзыв за учтённую на площадке часть — JSS упал со 100% до 67%. Автор считает, что
+смешанный формат был ошибкой: либо полностью работать через площадку, либо полностью вне
+её — частичный уход снимает защиту сделки, но негативный отзыв всё равно фиксируется в
+профиле. Путь восстановления не проверен на практике (см.
+[[nakrutka-otzyvov](pages/nakrutka-otzyvov.md)] для контраста — там холодный старт, а не
+восстановление после падения).[^10]
+
 ## Appearances in Sources
 
 - [[kak-zarabotat-na-upwork-10-minut](pages/kak-zarabotat-na-upwork-10-minut.md)] — механика расчёта JSS и личный пример с падением до 76%
@@ -70,6 +80,7 @@ $10 000 за проект.[^4]
 - [[zarabotal-na-upwork-eksperiment-mesyats](pages/zarabotal-na-upwork-eksperiment-mesyats.md)] — проблема холодного старта с пустым профилем
 - [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] — подтверждение холодного старта вторым независимым источником
 - [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] — конкретные пороги бейджей Top Rated, Top Rated Plus, Expert-Vetted
+- [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] — кейс обвала JSS со 100% до 67% из-за смешанного (частично вне площадки) формата работы
 
 ## Related Concepts
 
@@ -90,3 +101,4 @@ $10 000 за проект.[^4]
 [^7]: [[zarabotal-na-upwork-eksperiment-mesyats](pages/zarabotal-na-upwork-eksperiment-mesyats.md)] [05:01-06:00] — "за сегодня у нас получается пять откликов и ноль просмотров ... у меня нет абсолютно никакого [отклика] на мои отклики, хотя отклики на самом деле очень очень хорошие"
 [^8]: [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] [19:01] — "для них я подозрительная личность ... нужно иметь хоть несколько сделок в рамках [Upwork], чтобы выделяться и иметь начальный рейтинг"
 [^9]: [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] [18:01-21:00] [synthesis] — конкретные пороги бейджей Top Rated, Top Rated Plus, Expert-Vetted
+[^10]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [11:01-11:14] [synthesis] — обвал JSS со 100% до 67% из-за смешанного формата работы (частично вне площадки), урок "не смешивать"

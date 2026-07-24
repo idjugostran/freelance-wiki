@@ -3,7 +3,7 @@ title: Верификация аккаунта на Upwork
 category: Concepts
 summary: Строгая проверка личности при регистрации — видеозвонок, привязка строго к паспорту, один аккаунт на паспорт
 tags: [verification, upwork, registration]
-sources: [obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, kak-nastroit-profil-upwork-polnoe-rukovodstvo]
+sources: [obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, opyt-na-upwork-plyusy-minusy]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -44,11 +44,19 @@ Upwork — самая сложная часть выхода на площадк
 заинтересованностью. Вики не занимает чью-то сторону здесь: риски и коммерческая
 мотивированность обеих сторон изложены, решение — за читателем.
 
+**Альтернативный, не-VPN путь обхода ограничения для резидентов РФ:** независимый источник
+описывает верификацию через документы другой страны — грузинские водительские права плюс
+подтверждение через Payoneer с грузинской банковской выпиской, без использования VPN для
+маскировки геолокации.[^5] Это отдельный от VPN-спора маршрут: не про сокрытие
+местоположения, а про легитимную привязку аккаунта к другой юрисдикции — так что прямому
+предупреждению против VPN[^4] не противоречит.
+
 ## Appearances in Sources
 
 - [[obzor-upwork-luchshaya-birzha](pages/obzor-upwork-luchshaya-birzha.md)] — личный опыт месячной верификации с видеозвонком, правило "один аккаунт на паспорт"
 - [[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)] — доступ через VPN/прокси и риск бана для РФ/РБ, требования к номеру телефона
 - [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] — прямое предупреждение о бане за VPN и подмену личности
+- [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] — альтернативный путь верификации через грузинские документы, без VPN
 
 ## Related Concepts
 
@@ -61,3 +69,4 @@ Upwork — самая сложная часть выхода на площадк
 [^2]: [[obzor-upwork-luchshaya-birzha](pages/obzor-upwork-luchshaya-birzha.md)] [05:01-06:00] — "на апворке вы регистрируетесь строго по паспорту, и на ваш паспорт не может быть больше одного аккаунта ... на кворке где можно вообще, по-моему, 100 аккаунтов зарегистрировать и ничего не будет"
 [^3]: [[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)] [02:00-03:01] [synthesis] — доступ через VPN/прокси, риск бана после верификации, телефон не обязателен без 2FA
 [^4]: [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] [00:00-01:01] — "upwork не любит две вещи ... первое - это когда вы пытаетесь скрыть своё местоположение ... за использование VPN сразу бан"
+[^5]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [02:02] [synthesis] — верификация аккаунта через грузинские права и банковскую выписку в Payoneer, без VPN

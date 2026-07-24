@@ -3,7 +3,7 @@ title: Connects (Upwork)
 category: Concepts
 summary: Платная "валюта" Upwork, необходимая для отклика на заказы — 10 бесплатных в месяц или 80 при подписке Plus
 tags: [connects, upwork, billing]
-sources: [kak-zaregistrirovatsya-na-upwork, obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, skolko-nuzhno-konnektov, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-zarabatyvat-na-upwork-v-2025]
+sources: [kak-zaregistrirovatsya-na-upwork, obzor-upwork-luchshaya-birzha, vzyal-zakaz-na-upwork-za-3-dnya, skolko-nuzhno-konnektov, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -43,6 +43,14 @@ Connects на вакансии, где нет соответствующей р�
 (~$500) на Connects, так и не получив первую работу на $20 — прямое предупреждение
 инвестировать сначала в качество профиля, а не в объём откликов.[^10]
 
+**Availability Badge** — независимый источник (SMM-ниша) подтверждает ещё одну платную
+опцию: ~14 Connects/неделю за значок "available" рядом с именем в профиле, повышающий
+видимость для заказчиков.[^11] Даёт также конкретный числовой пример механики Boost
+(в отличие от общей рекомендации не пользоваться Boost выше): при базовой стоимости
+отклика в 10 Connects можно потратить 12, чтобы подняться в выдаче.[^12] В нише SMM
+конкуренция особенно высокая — по ощущениям автора, лишь каждый 5-й–7-й отклик вообще
+открывают заказчики.[^13]
+
 ## Appearances in Sources
 
 - [[kak-zaregistrirovatsya-na-upwork](pages/kak-zaregistrirovatsya-na-upwork.md)] — механика Connects, лимиты бесплатного и платного тарифа, привязка способа оплаты
@@ -51,6 +59,7 @@ Connects на вакансии, где нет соответствующей р�
 - [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] — рост стоимости отклика со временем, цена покупки, невыгодность Boost
 - [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] — подтверждение цены Plus ($15/мес за 80 Connects)
 - [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] — точная цена Connect и предупреждение о риске потратить сотни долларов впустую
+- [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] — Availability Badge, конкретный пример Boost, высокая конкуренция в SMM-нише
 
 ## Related Concepts
 
@@ -72,3 +81,6 @@ Connects на вакансии, где нет соответствующей р�
 [^8]: [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] [08:02-09:02] — "я не рекомендую [Boost] пользоваться, потому что ... 12 коннекто - это дорого для того чтобы участвовать, а бусту просто перебить"
 [^9]: [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] [04:00-05:03] — "плюс стоит 15 долларов в месяц ... за 15 долларов мы получаем 80 коннекто"
 [^10]: [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] [14:00-15:01] [synthesis] — цена Connect ~$0.15, пример расчёта, предупреждение о потенциальных сотнях долларов расходов при плохом профиле
+[^11]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [17:00] — "можно там делать например Availability Badge ... рядом с вашим именем появляется вот это вот available. Стоит он по-моему 14 коннектов в неделю"
+[^12]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [17:00] — "например там стоит откликнуться 10 коннектов, а ты тратишь 12, и тебя поднимают"
+[^13]: [[opyt-na-upwork-plyusy-minusy](pages/opyt-na-upwork-plyusy-minusy.md)] [03:00-04:02] [synthesis] — конкуренция дешёвых/ChatGPT-откликов в SMM-нише, просматриваемость ~1 из 5-7 откликов

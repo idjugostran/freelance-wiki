@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy]
 updated: 2026-07-24
 ---
 
@@ -146,6 +146,17 @@ VPN прямым риском бана, тогда как несколько д�
 Rated Plus / Expert-Vetted), даёт SEO-логику ранжирования профиля по ключевым словам и
 независимо подтверждает, что портфолио теряет значимость с ростом истории заказов.
 
+Девятнадцатый источник — личная, эмоционально откровенная история SMM-специалиста: сильный
+старт (грузинские документы как альтернативный, не-VPN путь верификации для резидентов РФ —
+дополняет [[verifikatsiya-akkaunta-upwork](pages/verifikatsiya-akkaunta-upwork.md)]),
+конкретные цифры по Availability Badge и Boost для
+[[connects-upwork](pages/connects-upwork.md)], но обрывается серьёзным кейсом-предостережением:
+смешанный (частично вне площадки) формат работы с одним клиентом привёл к конфликту и
+обвалу [[job-success-score](pages/job-success-score.md)] со 100% до 67% — усиливает правило
+"не смешивать платформу и вне её" в [[bezopasnost-sdelki](pages/bezopasnost-sdelki.md)]
+конкретным негативным исходом, а не только теорией. Также редкий источник, честно
+описывающий выгорание и решение сделать паузу после неудачи, а не только историю успеха.
+
 Про Fiverr источников пока не добавлено.
 
 ## Open Questions
@@ -176,6 +187,13 @@ Rated Plus / Expert-Vetted), даёт SEO-логику ранжирования 
 - Комиссия Upwork — 10% (17-й источник) или ~20% (третий источник)? Возможно, отражает
   переход на плоскую комиссию взамен прежней ступенчатой шкалы, но ни один источник этого
   явно не поясняет.
+- Комиссии на вывод средств расходятся между источниками (19-й источник: $50 за прямой
+  банковский перевод, ~$2 Payoneer, $1 PayPal — против ~$30/SWIFT в другом источнике) —
+  разные тарифы, разные способы перевода или изменение цен со временем? Не проверено.
+- Восстанавливается ли Job Success Score после обвала (19-й источник: со 100% до 67% из-за
+  одного конфликта) — по неподтверждённым сведениям (со слов ChatGPT, не проверено на
+  практике) просадка снижает эффективность откликов примерно на 60%, а путь восстановления
+  — набор новых мелких контрактов; ни один источник пока не подтверждает это на личном опыте.
 
 ## Key Entities / Concepts
 
