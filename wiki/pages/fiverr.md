@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -71,6 +71,12 @@ gig — только спам-сообщения до этого момента;
 [[moshennichestvo-na-fiverr](pages/moshennichestvo-na-fiverr.md)]); реальный первый заказ
 приходит не раньше, чем через 2 недели после регистрации — конкретная нижняя граница,
 данная не как наблюдение, а как практическое правило для отличения спама от органики.[^17]
+**Soft tension с более свежим источником (2026):** независимый источник описывает систему
+"брифов" как полностью переработанную — теперь алгоритм сам подбирает структурированные
+запросы под конкретный профиль фрилансера, и источник называет это полезной функцией
+именно для новичков, в явном контрасте с уже описанной выше негативной оценкой брифов.
+Вики не разрешает это как противоречие — вероятно, отражает изменение механики со временем
+(разные даты записи видео), но ни один источник не подтверждает это прямо.[^18]
 
 **Многослойные потери при выводе для российских резидентов** (сверх стандартной комиссии
 20%): комиссия на вывод, курсовая разница PayPal→карта, курсовая разница карта→крипта,
@@ -125,6 +131,7 @@ GPT-приложения, продажа AI-генерируемого иску�
 - [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] — коррекция доступа для Беларуси
 - [[moy-pervyy-zakaz-na-frilanse-650-fiverr](pages/moy-pervyy-zakaz-na-frilanse-650-fiverr.md)] — третий датапоинт по срокам получения первого заказа (2 месяца)
 - [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] — четвёртый датапоинт (2 недели), схемы мошенничества
+- [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] — обновления 2026: Success Score, брифы теперь подбираются алгоритмом
 
 ## Related Concepts
 
@@ -157,3 +164,4 @@ GPT-приложения, продажа AI-генерируемого иску�
 [^15]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [00:00] — "на данный момент аккаунт на F из Беларуси уже не получится поэтому единственный рабочий вариант - это наш польский сервер"
 [^16]: [[moy-pervyy-zakaz-na-frilanse-650-fiverr](pages/moy-pervyy-zakaz-na-frilanse-650-fiverr.md)] [02:00-03:02] [synthesis] — 2 месяца ожидания первого реального клиента, только спам-сообщения
 [^17]: [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] [02:00-03:00] — "первый заказ может прийти только через две недели от начало вашей регистрации"
+[^18]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [14:59-15:31] [synthesis] — брифы теперь подбираются алгоритмом, полезная функция для новичков

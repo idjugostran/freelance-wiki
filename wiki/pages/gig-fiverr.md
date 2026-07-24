@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -116,6 +116,19 @@ Premium — максимум опций и цены. Явная рекоменд
 обложке.[^23] Загруженное видео проходит модерацию поддержки Fiverr перед появлением в
 живом gig.[^24]
 
+**Новые функции 2026 года (независимый источник, важное обновление):** почасовая оплата —
+аналог механики Upwork, доступна не сразу, а с ростом уровня продавца; настраивается
+индивидуально через кастомный оффер (ставка/час, лимит часов, тайм-эстимейт), с
+еженедельной отчётностью и оплатой по понедельникам.[^25] Подписки (Subscriptions) —
+ежемесячная оплата за пакет услуг вместо разовых заказов; рекомендуется закладывать
+стандартную комиссию 20% в цену подписки, а не платить из своего кармана.[^26]
+Консультации — оплачиваемые сессии 1:1 через встроенный календарь (с интеграцией Google
+Calendar), удобны для предпродажного обсуждения проекта.[^27] Live-портфолио — при
+отправке финального файла клиенту можно предложить включить его в портфолио; при согласии
+клиента файл появляется в карусели на gig вместе с отзывом.[^28] Лайфхак — публиковать
+один и тот же сервис под разными формулировками для попадания под разные поисковые
+запросы; лимит числа gig зависит от уровня продавца.[^29]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — полная структура gig, правила написания описания, оформление обложки
@@ -123,6 +136,7 @@ Premium — максимум опций и цены. Явная рекоменд
 - [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — метрика "in queue", реальный пример трёхуровневого ценообразования
 - [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] — SEO-эффект сужения ключевых слов, роль поля Type, лимит тегов, эффект видео, requirements
 - [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] — заполнение всех слотов gig, источники ключевых слов, ценовая философия "трипваер", важность обложки
+- [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] — почасовая оплата, подписки, консультации, live-портфолио, лайфхак с дублированием gig
 
 ## Related Concepts
 
@@ -157,3 +171,8 @@ Premium — максимум опций и цены. Явная рекоменд
 [^22]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [05:02-07:00] [synthesis] — философия трёхуровневого ценообразования "трипваер", предупреждение не демпинговать
 [^23]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [09:01-10:01] [synthesis] — важность обложки gig для CTR, аналогия с карточкой товара маркетплейса
 [^24]: [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] [10:01] [synthesis] — модерация видео службой поддержки перед публикацией в gig
+[^25]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [12:01-14:00] [synthesis] — механика почасовой оплаты, кастомный оффер, еженедельная отчётность
+[^26]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [15:51-16:34] [synthesis] — подписки, рекомендация закладывать комиссию 20% в цену
+[^27]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [16:34-17:20] [synthesis] — оплачиваемые консультации через встроенный календарь
+[^28]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [17:20-18:00] [synthesis] — live-портфолио, добавление файлов с согласия клиента
+[^29]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [15:31] [synthesis] — лайфхак публикации одного сервиса под разными формулировками, лимит gig зависит от уровня

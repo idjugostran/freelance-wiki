@@ -53,7 +53,7 @@ slug итоговой страницы-источника. Ничего боль
 | 8 | ✅ | How to Create a Selling Gig on Fiverr in 10 Minutes? (Part 2) | URelocate | [ссылка](https://www.youtube.com/watch?v=eNIlRFesgk0) | [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](wiki/pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] |
 | 9 | ✅ | Мой первый заказ на фрилансе на $650 (Fiverr) | САША ГОРНАГО | [ссылка](https://www.youtube.com/watch?v=gA73-J8kkDo) | [[moy-pervyy-zakaz-na-frilanse-650-fiverr](wiki/pages/moy-pervyy-zakaz-na-frilanse-650-fiverr.md)] |
 | 10 | ✅ | Мошенники на фрилансе / Fiverr для новичков | САША ГОРНАГО | [ссылка](https://www.youtube.com/watch?v=GHopqwuclJ8) | [[moshenniki-na-fiverr-dlya-novichkov](wiki/pages/moshenniki-na-fiverr-dlya-novichkov.md)] |
-| 11 | ⬜ | Як почати заробляти на Fiverr у 2026 / Повний гайд | Креативна Фрілансерка | [ссылка](https://www.youtube.com/watch?v=PKUDFAZeIk0) | |
+| 11 | ✅ | Як почати заробляти на Fiverr у 2026 / Повний гайд | Креативна Фрілансерка | [ссылка](https://www.youtube.com/watch?v=PKUDFAZeIk0) | [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](wiki/pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] |
 | 12 | ⬜ | How to make money on Fiverr from scratch with no experience | Brocli — зарубежный фриланс | [ссылка](https://www.youtube.com/watch?v=xvf4WaMmZAI) | |
 | 13 | ⬜ | Как заработать на Fiverr в 2026 / Полное руководство | Быть Программистом | [ссылка](https://www.youtube.com/watch?v=gvxhInxlfvg) | |
 | 14 | ⬜ | Как зарабатывать на Fiverr - полный туториал для новичка | Людмила Холина | [ссылка](https://www.youtube.com/watch?v=l5MLhozA7AE) | |
@@ -69,5 +69,5 @@ slug итоговой страницы-источника. Ничего боль
 ## Прогресс
 
 - Upwork: 20 / 20 обработано
-- Fiverr: 10 / 20 обработано
-- **Всего: 30 / 40**
+- Fiverr: 11 / 20 обработано
+- **Всего: 31 / 40**

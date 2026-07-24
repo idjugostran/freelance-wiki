@@ -3,7 +3,7 @@ title: Уровни / бейджи Fiverr
 category: Concepts
 summary: Система уровней New Seller → Level 1 → Level 2 → Top Rated, по критериям заметно прозрачнее механики JSS на Upwork
 tags: [levels, badges, fiverr, rating]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -26,6 +26,8 @@ updated: 2026-07-24
 **Скорость ответа как ключевой фактор:** независимый источник прямо связывает медленный
 ответ клиенту с ухудшением видимости профиля на платформе — личный негативный опыт автора,
 когда несвоевременный ответ клиенту повлиял на дальнейшую выдачу её профиля.[^4]
+**Конкретная цифра (независимый источник):** ответ в течение 5-10 минут после обращения
+клиента может повышать шанс получить заказ на 70%.[^10]
 
 **Скрытый слой: анонимный пост-проектный опросник (независимый источник, ключевое
 дополнение к механике уровней):** помимо публичной системы уровней выше, у Fiverr есть
@@ -51,12 +53,24 @@ updated: 2026-07-24
 случайное совпадение (тот же лимит независимо упоминался в
 [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)]).[^7]
 
+**Success Score — многофакторная система, официально сменившая простые звёзды (важное
+обновление, независимый источник, 2026):** публичные 5 звёзд остались, но перестали быть
+единственным фактором ранжирования. Score строится из шести компонентов: удовлетворённость
+клиента (публичные и приватные отзывы — официальное подтверждение приватного компонента,
+ранее зафиксированного только как "анонимный опросник" выше), качество и скорость
+коммуникации, частота отменённых заказов, соблюдение сроков доставки, соотношение
+цены/качества, повторные заказы от тех же клиентов. Это сравнительный, а не абсолютный
+показатель — сравнение с другими фрилансерами в нише; ориентир для хорошей видимости —
+7+.[^8] Реклама Fiverr Ads недоступна до достижения Level One — платформа требует сначала
+органических результатов.[^9]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — описание системы уровней, критериев и личный кейс влияния скорости ответа
 - [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — анонимный пост-проектный опросник и его влияние на скрытый алгоритм выдачи
 - [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — подтверждение механики уровней через дашборд продавца
 - [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] — точное число уровней, официальный лимит 7 gig для новичков
+- [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] — Success Score (6 факторов), недоступность рекламы до Level One
 
 ## Related Concepts
 
@@ -74,3 +88,6 @@ updated: 2026-07-24
 [^5]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [18:00-20:02] [synthesis] — анонимный пост-проектный опросник клиента, влияние на скрытый алгоритм выдачи, нестабильность потока заказов
 [^6]: [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] [21:02-22:00] [synthesis] — раздел "My Levels" в дашборде продавца, периодический пересчёт уровня
 [^7]: [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] [00:00-01:00] — "у меня было опубликовано около 7 гигов это максимум для новичков для тех кто не имеет уровень аккаунта то есть всего существует получается четыре уровня"
+[^8]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [11:02-12:01] [synthesis] — Success Score, шесть компонентов, сравнение с другими фрилансерами в нише
+[^9]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [05:01] — "на самому початку вам взагалі недоступна внутрішня реклама Fiver Ads. Вона відкривається тільки тоді, коли ви досягаєте мінімуму рівня Level One Seller"
+[^10]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [21:10-22:01] — "якщо перша відповідь приходить протягом 5-10 хвилин після звернення клієнта, ваші шанси отримати замовлення можуть зростати на 70%"
