@@ -3,7 +3,7 @@ title: Уровни / бейджи Fiverr
 category: Concepts
 summary: Система уровней New Seller → Level 1 → Level 2 → Top Rated, по критериям заметно прозрачнее механики JSS на Upwork
 tags: [levels, badges, fiverr, rating]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, urok-1-fiverr-dlya-nachinayushchih]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -64,6 +64,21 @@ updated: 2026-07-24
 7+.[^8] Реклама Fiverr Ads недоступна до достижения Level One — платформа требует сначала
 органических результатов.[^9]
 
+**Именованные параметры рейтинга — независимое подтверждение с точными терминами:**
+третий независимый источник называет конкретные параметры, соответствующие компонентам
+Success Score выше: Response Rate, Delivered On Time (при риске просрочки — заранее
+попросить клиента о продлении, а не молчать), Order Completion (доля доведённых до конца
+заказов — не отменённых на середине).[^11] **Отдельный бейдж Fiverr Choice, не связанный
+с объёмом истории:** Fiverr вручную отбирает часть продавцов как "избранных" за качество
+сервиса — источник получил этот бейдж уже при ~10 заказах, задолго до достижения Top
+Rated.[^12]
+
+**Расхождение в числе стартовых gig-слотов — новая tension:** этот источник дважды прямо
+называет число **шесть** гигов для обычного продавца, в отличие от **семи**, независимо
+названных в [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)]
+и [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)].
+Не разрешено — возможно, лимит менялся со временем.[^13]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — описание системы уровней, критериев и личный кейс влияния скорости ответа
@@ -71,6 +86,7 @@ updated: 2026-07-24
 - [[s-chego-nachat-na-fiverr-mentor-dementor](pages/s-chego-nachat-na-fiverr-mentor-dementor.md)] — подтверждение механики уровней через дашборд продавца
 - [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] — точное число уровней, официальный лимит 7 gig для новичков
 - [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] — Success Score (6 факторов), недоступность рекламы до Level One
+- [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] — именованные параметры рейтинга, бейдж Fiverr Choice, расхождение в числе gig-слотов
 
 ## Related Concepts
 
@@ -91,3 +107,6 @@ updated: 2026-07-24
 [^8]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [11:02-12:01] [synthesis] — Success Score, шесть компонентов, сравнение с другими фрилансерами в нише
 [^9]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [05:01] — "на самому початку вам взагалі недоступна внутрішня реклама Fiver Ads. Вона відкривається тільки тоді, коли ви досягаєте мінімуму рівня Level One Seller"
 [^10]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [21:10-22:01] — "якщо перша відповідь приходить протягом 5-10 хвилин після звернення клієнта, ваші шанси отримати замовлення можуть зростати на 70%"
+[^11]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [01:21:02-01:26:01] [synthesis] — три именованных параметра рейтинга продавца: Response Rate, Delivered On Time, Order Completion
+[^12]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [00:37:01] — "fiv Choice ... это значит что fiv посмотрел ваш профиль и они вручную выбрали вас ... мне тоже давали F Choice когда у меня было только где-то 10 заказов"
+[^13]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [01:08:02,01:42:01] — "у обычного аккаунта у всех кто откроет аккаунт первый раз у вас есть шесть гигов"

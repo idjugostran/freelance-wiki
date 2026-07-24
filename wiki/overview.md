@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, urok-1-fiverr-dlya-nachinayushchih]
 updated: 2026-07-24
 ---
 
@@ -314,6 +314,15 @@ live-портфолио. Создаёт soft tension с более ранним 
 долгого разгона (2-6 месяцев) в существующей tension о холодном старте. Этим завершается
 серия URelocate + Александра Горнаго по Fiverr (источники 4, 8, 15).
 
+Шестнадцатый источник по Fiverr — живой двухчасовой Zoom-урок Анны Былиной, новый для
+вики автор, формат с вопросами аудитории даёт конкретику. Уточняет
+[[urovni-fiverr](pages/urovni-fiverr.md)] именованными параметрами рейтинга (Response
+Rate, Delivered On Time, Order Completion) и отдельным бейджем Fiverr Choice, не
+связанным с объёмом истории. Даёт конкретные целевые пропорции конверсии
+[[gig-fiverr](pages/gig-fiverr.md)] (10%/10%) и ChatGPT-метод создания gig с экономией
+~85% времени. Вводит новую, не разрешённую tension: 6 стартовых gig-слотов (этот источник)
+против 7 (два других источника).
+
 ## Open Questions
 
 - Насколько применима эта воронка (proposal → portfolio → review → JSS) к Fiverr, у которого
@@ -370,6 +379,9 @@ live-портфолио. Создаёт soft tension с более ранним 
   объяснение расхождения: успех на Fiverr требует готового бэкграунда (клиентской базы или
   аудитории), а не просто времени ожидания — возможно, именно наличие или отсутствие такого
   бэкграунда и объясняет разброс между источниками 1-9, а не сама площадка.
+- Сколько gig-слотов доступно продавцу без уровня на Fiverr — 6 (16-й источник, дважды
+  прямо назван) или 7 (7-й и 11-й источники)? Возможно, лимит менялся со временем; ни один
+  источник не поясняет расхождение.
 
 ## Key Entities / Concepts
 

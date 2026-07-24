@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, urok-1-fiverr-dlya-nachinayushchih]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -65,6 +65,14 @@ updated: 2026-07-24
 заработанных денег — в отличие от Upwork, где Connects тратятся на отклики ещё до
 получения заказа. Fiverr Ads работают по модели оплаты за клик/конверсию, а не
 фиксированный дневной бюджет.[^23]
+
+**Fiverr Learn — образовательный раздел с сертификатами:** доступ через переключение в
+режим продавца → Grow & Marketing. Базовый курс бесплатный (~45 минут — час), платные
+курсы по нишам ($20-90+). Любой пройденный курс даёт сертификат, отображаемый в профиле
+как сигнал доверия клиенту.[^27] **Партнёрская программа:** Fiverr выплачивает
+вознаграждение за приведённых пользователей, совершивших покупку.[^28] **Workspace —
+относительно новая функция** для управления клиентами, сделками и инвойсами прямо внутри
+платформы.[^29]
 
 **Правило "не уходить с площадки"** действует и здесь, аналогично Upwork/Kwork — см.
 [[bezopasnost-sdelki](pages/bezopasnost-sdelki.md)].
@@ -173,6 +181,7 @@ GPT-приложения, продажа AI-генерируемого иску�
 - [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] — Fiverr сильнее для дизайна чем для кода, пятый датапоинт холодного старта, комиссия сторонних сервисов
 - [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] — бесплатное размещение услуг, модель оплаты Fiverr Ads
 - [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] — честный негативный итог эксперимента, реселлерская модель источника
+- [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] — сертификаты Fiverr Learn, партнёрская программа, функция Workspace
 
 ## Related Concepts
 
@@ -212,3 +221,6 @@ GPT-приложения, продажа AI-генерируемого иску�
 [^22]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [00:00-02:00] [synthesis] — комиссия сторонних сервисов вывода 10-15%, иногда до 20%, для заблокированных стран
 [^23]: [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] [01:00-03:00] [synthesis] — бесплатное размещение услуг в отличие от Upwork, Fiverr Ads с оплатой за клик
 [^24]: [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] [08:01-09:02] — "я работал на fiv порядка 2 месяцев ... получил я за всё время семь заказов итоговая сумма заработанных средств 580 долларов ... в целом я не понял Fiverr"
+[^27]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [00:47:00-00:50:02] [synthesis] — бесплатный и платные курсы Fiverr Learn, сертификаты в профиль
+[^28]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [00:51:02-00:53:01] [synthesis] — реферальная/партнёрская программа Fiverr
+[^29]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [01:31:02] [synthesis] — функция Workspace для ведения бизнеса внутри платформы

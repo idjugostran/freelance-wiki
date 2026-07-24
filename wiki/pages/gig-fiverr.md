@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, urok-1-fiverr-dlya-nachinayushchih]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -152,6 +152,16 @@ e-commerce/SEO/security/backup плагинов отдельными платн�
 формулировки по статистике показов/кликов. Алгоритму требуется около 3 дней, чтобы
 отреагировать на изменения — эффект не мгновенный.[^34]
 
+**Конкретные целевые пропорции конверсии (независимый источник):** четыре метрики gig —
+Impressions, Clicks, Orders, Cancellations; ориентир — около 10% показов конвертируются в
+клики, и около 10% кликов — в заказы; заметное отклонение от этой пропорции сигнализирует
+проблему в описании, нише или конкуренции.[^35] **ChatGPT-метод создания gig:** найти
+трёх лучших конкурентов в целевой нише, скормить их описания ChatGPT с запросом написать
+в похожем стиле — по оценке источника, экономит около 85% времени создания gig; тот же
+метод применим к подбору ключевых слов.[^36] **Ordering-сигнал для поиска ниши:** если у
+продавца с малым числом gig одновременно несколько активных заказов — признак высокого
+спроса при низком предложении в нише.[^37]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — полная структура gig, правила написания описания, оформление обложки
@@ -163,6 +173,7 @@ e-commerce/SEO/security/backup плагинов отдельными платн�
 - [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] — механика чекбокс-допродаж, рекомендация не удалять gig с историей, бейдж Pro
 - [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] — механика Custom Offer, реальный пример пакетов Basic/Standard
 - [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] — постоянное тестирование gig, задержка реакции алгоритма
+- [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] — целевые пропорции конверсии, ChatGPT-метод создания gig, ordering-сигнал поиска ниши
 
 ## Related Concepts
 
@@ -207,3 +218,6 @@ e-commerce/SEO/security/backup плагинов отдельными платн�
 [^32]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [07:01] [synthesis] — бейдж "Pro" как отдельный сигнал верификации площадкой
 [^33]: [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] [12:01-14:01] [synthesis] — механика Custom Offer, три сценария применения
 [^34]: [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] [02:00-04:00] [synthesis] — рекомендация постоянного тестирования гипотез, задержка реакции алгоритма ~3 дня
+[^35]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [01:26:01-01:28:01] [synthesis] — четыре метрики gig, ориентир конверсии 10%/10%
+[^36]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [01:35:01-01:41:01] [synthesis] — метод анализа топ-3 конкурентов через ChatGPT для создания gig
+[^37]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [01:00:01-01:01:01] [synthesis] — сигнал высокого спроса через число одновременных заказов у продавца с малым числом gig
