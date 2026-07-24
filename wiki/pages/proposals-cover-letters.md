@@ -3,7 +3,7 @@ title: Proposals / Cover Letters
 category: Concepts
 summary: Отклик фрилансера на проект — ключевой элемент воронки; персонализация и фокус на клиенте решают конверсию
 tags: [proposal, cover-letter, upwork]
-sources: [kak-zarabotat-na-upwork-10-minut, kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, vse-pro-frilans-na-upwork-za-12-minut, 5-oshibok-upwork-frilans-s-nulya, kak-vzyat-pervyy-zakaz-freelance-upwork]
+sources: [kak-zarabotat-na-upwork-10-minut, kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, vse-pro-frilans-na-upwork-za-12-minut, 5-oshibok-upwork-frilans-s-nulya, kak-vzyat-pervyy-zakaz-freelance-upwork, formula-idealnoy-zayavki-upwork]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -70,6 +70,19 @@ Upwork называет более широкий диапазон "50-100"[^9] 
 дешёвый заказ ($12) привёл к немедленному приглашению — языковое/культурное совпадение
 может решить исход не хуже проработанного текста.[^11]
 
+**Пятиступенчатая формула отклика (независимый источник, $100k за первый год на Upwork,
+35% конверсия заявок в ответы):** объём и стиль, хук, работы, отзывы, призыв к действию.
+Новое по сравнению с уже описанным выше: заявка с явными признаками AI-генерации
+(ChatGPT-стиль) читается как неуважение к клиенту — практический тест: показать текст
+десяти людям, ни один не должен опознать AI.[^12] **Хук** переопределён точнее — это
+конкретно первые 100-200 символов заявки, решающие, откроют ли её вообще, пока клиент
+листает десятки откликов; называется "абзац персонализации", в отличие от более шаблонной
+остальной части текста.[^13] **Отзывы прямо в тексте заявки** (не полагаясь на то, что
+клиент откроет профиль) — короткие цитаты с конкретными "якорями" (имена, метрики,
+известные компании) повышают доверие ещё до открытия профиля.[^14] **Призыв к действию**
+уточнён до конкретной фразы — "let's have a call" в конце каждой заявки, компенсирующей
+несовершенство остального текста.[^15]
+
 ## Appearances in Sources
 
 - [[kak-zarabotat-na-upwork-10-minut](pages/kak-zarabotat-na-upwork-10-minut.md)] — основные правила написания cover letter и статистика по количеству откликов
@@ -78,6 +91,7 @@ Upwork называет более широкий диапазон "50-100"[^9] 
 - [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] — подтверждение правил cover letter, уточнённый диапазон числа откликов
 - [[5-oshibok-upwork-frilans-s-nulya](pages/5-oshibok-upwork-frilans-s-nulya.md)] — сильный призыв к действию против шаблонных фраз
 - [[kak-vzyat-pervyy-zakaz-freelance-upwork](pages/kak-vzyat-pervyy-zakaz-freelance-upwork.md)] — приём "P.S." и языковое совпадение с заказчиком
+- [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] — пятиступенчатая формула: объём/AI-детектируемость, хук, работы, отзывы в тексте, призыв к действию
 
 ## Related Concepts
 
@@ -101,3 +115,7 @@ Upwork называет более широкий диапазон "50-100"[^9] 
 [^9]: [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] [08:01] — "цифра 50-100 отправленных колеров — это усреднённый показатель для специалистов новичков"
 [^10]: [[5-oshibok-upwork-frilans-s-nulya](pages/5-oshibok-upwork-frilans-s-nulya.md)] [03:02-04:00] — "я взяла свой крупный заказ с восьмого отклика потому, что не писала стандартные фразы и обязательно оставляла сильный призыв к действию"
 [^11]: [[kak-vzyat-pervyy-zakaz-freelance-upwork](pages/kak-vzyat-pervyy-zakaz-freelance-upwork.md)] [04:00,06:02] [synthesis] — приём "P.S." с ценным предложением по проекту и пример отклика на языке заказчика
+[^12]: [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] [02:02-03:00] [synthesis] — заявка должна быть короткой, без признаков AI-генерации; тест "покажи десяти людям"
+[^13]: [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] [03:00] — "всё, что у тебя есть, чтобы зацепить внимание клиента — это первые 100-200 символов заявки, которые зацепят взгляд и заставят остановить скроллинг"
+[^14]: [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] [07:01-08:01] — "я готов целовать руки тому, кто придумал вставлять отзывы прямо в заявку на Upwork"
+[^15]: [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] [09:00-10:01] [synthesis] — призыв к действию "let's have a call" как обязательное завершение заявки

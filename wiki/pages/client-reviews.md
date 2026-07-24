@@ -3,7 +3,7 @@ title: Отзывы клиентов
 category: Concepts
 summary: Отзывы клиентов формируют JSS и историю проектов; важно активно просить отзыв в конце работы
 tags: [reviews, upwork]
-sources: [kak-zarabotat-na-upwork-10-minut, vse-pro-frilans-na-upwork-za-12-minut, kak-nastroit-profil-upwork-polnoe-rukovodstvo]
+sources: [kak-zarabotat-na-upwork-10-minut, vse-pro-frilans-na-upwork-za-12-minut, kak-nastroit-profil-upwork-polnoe-rukovodstvo, formula-idealnoy-zayavki-upwork]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -36,11 +36,19 @@ LinkedIn), с которым работали до или помимо площ�
 появляется в профиле. Полезно для фрилансеров, переносящих историю с других площадок или
 из прямых заказов.[^5]
 
+**Отзывы прямо в тексте заявки (иная техника, не про профиль):** независимый источник
+рекомендует не полагаться на то, что клиент откроет профиль и найдёт там отзывы (если они
+вообще есть) — вставлять короткие цитаты отзывов прямо в текст proposal, с конкретными
+"визуальными якорями" (имена, метрики, известные компании). Это отдельная техника от
+импорта отзывов в профиль выше — работает на уровне самой заявки, ещё до того, как клиент
+решит открыть профиль.[^6]
+
 ## Appearances in Sources
 
 - [[kak-zarabotat-na-upwork-10-minut](pages/kak-zarabotat-na-upwork-10-minut.md)] — важность отзывов и практика активного запроса отзыва в конце проекта
 - [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] — отбор клиентов по поведению в диалоге до принятия заказа
 - [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] — механика импорта отзывов от клиентов вне Upwork
+- [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] — техника вставки коротких отзывов прямо в текст заявки
 
 ## Related Concepts
 
@@ -55,3 +63,4 @@ LinkedIn), с которым работали до или помимо площ�
 [^3]: [[kak-zarabotat-na-upwork-10-minut](pages/kak-zarabotat-na-upwork-10-minut.md)] [09:54-10:23] — "убедитесь что вы всегда просите отзыв в конце несмотря на то что апарк это как бы запрещает не слушайте нытиков ... даже хорошие клиенты ... не оставляют отзывы"
 [^4]: [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] [10:01] — "если клиент торгуется за каждую копейку, показывает своё неуважительное отношение к вам ... я бы не советовал связываться с таким человеком"
 [^5]: [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] [28:02-29:00] [synthesis] — механика запроса отзыва у клиентов, с которыми работали вне Upwork
+[^6]: [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] [07:01-08:01] — "я готов целовать руки тому, кто придумал вставлять отзывы прямо в заявку на Upwork"

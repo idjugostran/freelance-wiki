@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork]
 updated: 2026-07-24
 ---
 
@@ -157,7 +157,15 @@ Rated Plus / Expert-Vetted), даёт SEO-логику ранжирования 
 конкретным негативным исходом, а не только теорией. Также редкий источник, честно
 описывающий выгорание и решение сделать паузу после неудачи, а не только историю успеха.
 
-Про Fiverr источников пока не добавлено.
+Двадцатый и последний источник по Upwork — самый насыщенный по теме proposal во всём корпусе:
+пятиступенчатая формула заявки от фрилансера с $100k за первый год ($3 млн+ суммарно, 35%
+конверсия). Значительно расширяет [[proposals-cover-letters](pages/proposals-cover-letters.md)]
+(AI-детектируемость текста, точное определение хука как первых 100-200 символов), даёт новую
+альтернативу демо-проекту в [[portfolio](pages/portfolio.md)] — реальную бесплатную работу для
+целевого рынка напрямую, минуя площадку (кейс: 3 из 3 бесплатных клиентов из Y Combinator
+конвертировались в платных), и новую технику для [[client-reviews](pages/client-reviews.md)] —
+вставку коротких отзывов прямо в текст заявки. Этим закрывается блок Upwork (20/20); Fiverr
+пока не начат.
 
 ## Open Questions
 

@@ -37,7 +37,7 @@ slug итоговой страницы-источника. Ничего боль
 | 17 | ✅ | Как взять первый заказ на Freelance (Upwork) | Voronin Motion | [ссылка](https://www.youtube.com/watch?v=aDbM2g3hKr4) | [[kak-vzyat-pervyy-zakaz-freelance-upwork](wiki/pages/kak-vzyat-pervyy-zakaz-freelance-upwork.md)] |
 | 18 | ✅ | How to make money on Upwork in 2025 | avers arthur | [ссылка](https://www.youtube.com/watch?v=3DykOiZEoHI) | [[kak-zarabatyvat-na-upwork-v-2025](wiki/pages/kak-zarabatyvat-na-upwork-v-2025.md)] |
 | 19 | ✅ | Upwork - мой опыт на фриланс платформе | Татьяна в кругосветке | [ссылка](https://www.youtube.com/watch?v=YgXHII6-Bg8) | [[opyt-na-upwork-plyusy-minusy](wiki/pages/opyt-na-upwork-plyusy-minusy.md)] |
-| 20 | ⬜ | Upwork: How to take your first order and start from scratch? | Андрей Гаврилов | [ссылка](https://www.youtube.com/watch?v=FjwG3frobME) | |
+| 20 | ✅ | Upwork: How to take your first order and start from scratch? | Андрей Гаврилов | [ссылка](https://www.youtube.com/watch?v=FjwG3frobME) | [[formula-idealnoy-zayavki-upwork](wiki/pages/formula-idealnoy-zayavki-upwork.md)] |
 
 ## Fiverr (20 видео)
 
@@ -68,6 +68,6 @@ slug итоговой страницы-источника. Ничего боль
 
 ## Прогресс
 
-- Upwork: 19 / 20 обработано
+- Upwork: 20 / 20 обработано
 - Fiverr: 0 / 20 обработано
-- **Всего: 19 / 40**
+- **Всего: 20 / 40**

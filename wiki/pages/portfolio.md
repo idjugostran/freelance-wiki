@@ -3,7 +3,7 @@ title: Портфолио
 category: Concepts
 summary: Раздел профиля, который сильнее всего влияет на решение клиента; можно стартовать без реальных клиентов через демо-проект
 tags: [portfolio, upwork]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, pochemu-ne-doveryayut-proekty, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-zarabatyvat-na-upwork-v-2025]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, pochemu-ne-doveryayut-proekty, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-zarabatyvat-na-upwork-v-2025, formula-idealnoy-zayavki-upwork]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -65,6 +65,14 @@ updated: 2026-07-24
 контрактами (почти все на 5 звёзд) прямо говорит, что портфолио у него "отходит на
 второй план" — живая история заказов продаёт лучше, чем примеры работ.[^11]
 
+**Альтернативный способ закрыть отсутствие релевантного портфолио — реальная бесплатная
+работа вне площадки:** независимый источник (агентство, $100k за первый год на Upwork)
+предлагает не демо-проект (см. лайфхак выше), а реальную бесплатную работу напрямую для
+компаний целевого рынка, минуя площадку — например, письма стартапам. Конкретный кейс:
+агентство написало трём стартапам из Y Combinator (Gumloop, Upsolve, Canvas/Techstars),
+предложило бесплатные услуги; все трое впоследствии заказали платные, принеся $10 000, а
+главное — дав реальные имена и трекшн для упоминания в будущих заявках.[^12]
+
 ## Appearances in Sources
 
 - [[kak-zarabotat-na-upwork-10-minut](pages/kak-zarabotat-na-upwork-10-minut.md)] — важность портфолио и лайфхак с демо-проектом для новичков
@@ -75,6 +83,7 @@ updated: 2026-07-24
 - [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] — независимое подтверждение от фрилансера топ-3% с 340+ контрактами
 - [[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)] — техника компиляции описания, требование английского языка и аккуратного оформления работ
 - [[pochemu-ne-doveryayut-proekty](pages/pochemu-ne-doveryayut-proekty.md)] — мета-аргумент о согласованности профиля и специализации для дизайн-ниш
+- [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] — альтернатива демо-проекту: реальная бесплатная работа для целевого рынка вне площадки
 
 ## Related Concepts
 
@@ -95,3 +104,4 @@ updated: 2026-07-24
 [^9]: [[pochemu-ne-doveryayut-proekty](pages/pochemu-ne-doveryayut-proekty.md)] [03:01] — "когда вы работаете в сфере дизайна ... вы не можете и не имеете права иметь профиль, который с точки зрения дизайна выглядит плохо ... для заказчика это уже знак того, что вы не сможете хорошо выполнить свою работу"
 [^10]: [[kak-nastroit-profil-upwork-polnoe-rukovodstvo](pages/kak-nastroit-profil-upwork-polnoe-rukovodstvo.md)] [25:00-26:00] [synthesis] — портфолио важнее для автоматического одобрения, чем для выбора заказчиком; заказчики смотрят в первую очередь на work history и отзывы
 [^11]: [[kak-zarabatyvat-na-upwork-v-2025](pages/kak-zarabatyvat-na-upwork-v-2025.md)] [10:00-11:01] — "у меня уже там выполнено работ на опорке там плюс-минус 340 работ ... в таком случае портфолио уже отходит на второй план"
+[^12]: [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] [06:01-07:01] [synthesis] — бесплатная работа напрямую для стартапов из Y Combinator (Gumloop, Upsolve, Canvas/Techstars), 3 из 3 клиентов конвертировались в платных, заработано $10 000
