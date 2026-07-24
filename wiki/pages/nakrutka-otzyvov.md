@@ -3,7 +3,7 @@ title: Накрутка отзывов и фиктивных контракто�
 category: Concepts
 summary: Практика создания фейковых контрактов/отзывов для преодоления холодного старта — нарушает правила площадок (Upwork, Fiverr) и несёт риск бана
 tags: [reviews, tos-violation, risk, upwork, fiverr]
-sources: [zarabotal-na-upwork-eksperiment-mesyats, skolko-nuzhno-konnektov, kak-zarabotat-na-fiverr-10-minut, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya]
+sources: [zarabotal-na-upwork-eksperiment-mesyats, skolko-nuzhno-konnektov, kak-zarabotat-na-fiverr-10-minut, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, kak-nachat-razvivatsya-na-fiverr-s-nulya]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -51,12 +51,23 @@ Fiverr — попросить друзей/знакомых за рубежом 
 выдаче. Ещё одно независимое подтверждение того, что эта практика на Fiverr не единичный
 случай.[^5]
 
+**Пятый пример — наиболее процедурно детальный, с явным предупреждением о риске от самого
+источника:** независимый источник прямо утверждает, что обходной путь — единственный
+реалистичный способ для новичка начать на Fiverr, и детально описывает механизм: друг за
+рубежом, существующая зарубежная клиентура или антидетект-браузер с прокси — во всех
+случаях "клиент" оформляет заказ, предоставляет заранее подготовленные материалы, а
+фрилансер сдаёт заранее готовую работу, чтобы не вызвать подозрений при проверке. Источник
+сам явно предупреждает: пустой фиктивный заказ без материалов и без реальной сдачи —
+значительно опаснее и особенно рискован для новых аккаунтов, которые тщательнее
+проверяются на Kwork, Fiverr и Upwork.[^6]
+
 ## Appearances in Sources
 
 - [[zarabotal-na-upwork-eksperiment-mesyats](pages/zarabotal-na-upwork-eksperiment-mesyats.md)] — открытое описание накрутки 2-3 отзывов на 7-й день эксперимента, объяснение мотивации
 - [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] — явное признание риска бана от самого источника, альтернатива через внешних клиентов
 - [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] — та же практика (фиктивный заказ+отзыв через знакомых за рубежом), независимо описанная теперь на Fiverr
 - [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] — прямое признание в накрутке фиктивных заказов ради алгоритмического буста на Fiverr
+- [[kak-nachat-razvivatsya-na-fiverr-s-nulya](pages/kak-nachat-razvivatsya-na-fiverr-s-nulya.md)] — самое процедурно детальное описание механизма, явное предупреждение источника о риске для новых аккаунтов
 
 ## Related Concepts
 
@@ -72,3 +83,4 @@ Fiverr — попросить друзей/знакомых за рубежом 
 [^3]: [[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] [17:02,19:01-20:00] — "большие площадки типа [Upwork] они очень это дело отслеживают и быстро за это банят, нужно подходить к этому моменту очень креативно ... мне проще своих клиентов западных попросить провести с ними какую-то фиктивную сделку через биржу"
 [^4]: [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] [05:03-06:00] [synthesis] — просьба к знакомым за рубежом оставить отзыв за фиктивный, но реалистично оформленный заказ на Fiverr
 [^5]: [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] [00:00,08:01] — "мы накрутили себе отзывы чтобы F посчитал наш профиль релевантным ... создал себе пару фейковых заказов они помогли забустить мой профиль выше"
+[^6]: [[kak-nachat-razvivatsya-na-fiverr-s-nulya](pages/kak-nachat-razvivatsya-na-fiverr-s-nulya.md)] [00:00-03:01] [synthesis] — три обходных метода с единым механизмом (подготовленные материалы + реальная сдача работы), предупреждение о риске для новых аккаунтов
