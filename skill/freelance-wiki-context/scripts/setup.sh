@@ -7,11 +7,12 @@
 #   curl -fsSL https://raw.githubusercontent.com/idjugostran/freelance-wiki/main/skill/freelance-wiki-context/scripts/setup.sh | bash
 #
 # Everything is self-contained: it does a SPARSE clone of just the data the
-# skill actually reads (wiki/, bin/, skill/ — NOT raw/, which is ~7.6MB of
-# archival source material the skill never opens), regenerates the wiki
-# index, and registers the skill with Hermes (skills.external_dirs). No cron
-# job — this skill is pure read-only context grounding triggered by chat
-# mentions, nothing to run on a schedule.
+# skill actually reads (wiki/, skill/ — NOT raw/, which is ~7.6MB of
+# archival source material the skill never opens, and not bin/ either, since
+# wiki/index.md is committed pre-generated and this installer never runs
+# Python), and registers the skill with Hermes (skills.external_dirs). No
+# cron job — this skill is pure read-only context grounding triggered by
+# chat mentions, nothing to run on a schedule.
 #
 # Idempotent — safe to re-run any time (same link again later, a cron job,
 # whatever): re-running just fast-forwards to the latest wiki content (so
@@ -30,12 +31,11 @@
 #
 # What it does, in order (see the comment above each numbered step below for
 # the full detail on that step):
-#   0. Sparse-clone/update just wiki/, bin/, skill/ (no raw/).
-#   1. Regenerate wiki/index.md.
-#   2. Check the `hermes` CLI is on PATH.
-#   3. Register the skill with Hermes (skills.external_dirs).
-#   4. Restart the Hermes gateway, if running and something changed.
-#   5. Restart the Hermes desktop app, if running and something changed.
+#   0. Sparse-clone/update just wiki/, skill/ (no raw/, no bin/).
+#   1. Check the `hermes` CLI is on PATH.
+#   2. Register the skill with Hermes (skills.external_dirs).
+#   3. Restart the Hermes gateway, if running and something changed.
+#   4. Restart the Hermes desktop app, if running and something changed.
 
 set -euo pipefail
 
@@ -52,13 +52,14 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-# Cone-mode sparse-checkout of just wiki/, bin/, skill/ — raw/, config/,
-# assets/ never hit disk. Root-level loose files (SCHEMA.md, PLAN.md,
-# .gitignore) come along for free either way: cone mode always includes
-# files sitting directly at the repo root, only directories need to be
-# listed explicitly. Harmless, a few KB, and bin/generate-index.py actually
-# needs SCHEMA.md (reads link_style and category order from it).
-echo "== 0. Sparse clone/update (wiki/, bin/, skill/ only — no raw/) =="
+# Cone-mode sparse-checkout of just wiki/ and skill/ — raw/, bin/, config/,
+# assets/ never hit disk. wiki/index.md is committed (not gitignored), so
+# there's nothing to generate client-side. Root-level loose files (SCHEMA.md,
+# PLAN.md, .gitignore) come along for free either way: cone mode always
+# includes files sitting directly at the repo root, only directories need to
+# be listed explicitly - harmless, a few KB, unused by this installer or the
+# skill but kept for anyone poking around the checkout by hand.
+echo "== 0. Sparse clone/update (wiki/, skill/ only — no raw/, no bin/) =="
 CHANGED=0
 if [[ -d "$INSTALL_DIR/.git" ]]; then
   echo "  Existing checkout found at $INSTALL_DIR - fetching updates..."
@@ -82,7 +83,7 @@ else
   echo "  Cloning (sparse) $REPO_URL -> $INSTALL_DIR"
   git clone --filter=blob:none --no-checkout --depth 1 "$REPO_URL" "$INSTALL_DIR"
   git -C "$INSTALL_DIR" sparse-checkout init --cone
-  git -C "$INSTALL_DIR" sparse-checkout set wiki bin skill
+  git -C "$INSTALL_DIR" sparse-checkout set wiki skill
   DEFAULT_BRANCH="$(git -C "$INSTALL_DIR" remote show origin | sed -n '/HEAD branch/s/.*: //p')"
   git -C "$INSTALL_DIR" checkout "$DEFAULT_BRANCH"
   CHANGED=1
@@ -91,15 +92,8 @@ fi
 INSTALLED_SIZE="$(du -sh "$INSTALL_DIR" 2>/dev/null | cut -f1)"
 echo "  On-disk size: $INSTALLED_SIZE (raw/ excluded)"
 
-# wiki/index.md is gitignored (a generated artifact, never committed), so a
-# fresh clone/pull never brings a current one along - rebuild it now so the
-# skill has a fresh index the moment this script finishes, not just whenever
-# it next gets triggered in chat.
-echo "== 1. Regenerate wiki index =="
-python3 "$INSTALL_DIR/bin/generate-index.py"
-
 # Can't install Hermes itself from here - that's a separate onboarding step.
-echo "== 2. hermes CLI =="
+echo "== 1. hermes CLI =="
 if command -v hermes >/dev/null 2>&1; then
   echo "  OK: $(hermes --version 2>&1 | head -1)"
 else
@@ -117,7 +111,7 @@ fi
 # Best-effort text patch of ~/.hermes/config.yaml - handles the YAML shapes
 # below and never guesses past what it can safely recognize; anything else
 # gets a manual instruction instead of a risky edit.
-echo "== 3. Register skill with Hermes (skills.external_dirs) =="
+echo "== 2. Register skill with Hermes (skills.external_dirs) =="
 python3 - "$INSTALL_DIR/skill" <<'PYEOF'
 import re
 import sys
@@ -201,7 +195,7 @@ print(f"           {config_path} - add it manually under skills.external_dirs:")
 print(f'             - "{skill_parent_dir}"')
 PYEOF
 
-echo "== 4. Restart Hermes gateway (pick up new/updated skill content) =="
+echo "== 3. Restart Hermes gateway (pick up new/updated skill content) =="
 if [[ "$CHANGED" -eq 0 ]]; then
   echo "  Skipped: nothing changed this run, no need to restart"
 elif ! hermes gateway status >/dev/null 2>&1; then
@@ -215,7 +209,7 @@ else
   fi
 fi
 
-echo "== 5. Restart Hermes desktop app (pick up new/updated skill content) =="
+echo "== 4. Restart Hermes desktop app (pick up new/updated skill content) =="
 # Desktop is a plain Electron app (apps/desktop/release/...), not a service -
 # `hermes desktop` has no --stop/--restart flag, so detect it by process and
 # quit/relaunch by hand. Detection matches the whole desktop tree (main +

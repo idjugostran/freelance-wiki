@@ -1,7 +1,7 @@
 ---
 name: freelance-wiki-context
 description: "Answers Upwork/Fiverr/апворк/файвер questions from the wiki."
-metadata: {"hermes":{"tags":["upwork","fiverr","freelance","wiki","knowledge-base"],"category":"knowledge-base","requires_tools":["python3"]}}
+metadata: {"hermes":{"tags":["upwork","fiverr","freelance","wiki","knowledge-base"],"category":"knowledge-base"}}
 ---
 
 # Freelance Wiki (Upwork/Fiverr) Context
@@ -30,7 +30,8 @@ pages relevant to the question instead.
 
 ## Prerequisites
 
-`python3` on PATH (stdlib only, no pip installs needed).
+None — pure file reads, no tools or installs beyond what an install of this
+skill already provides.
 
 This skill is portable — it has **no hard-coded machine path or username**.
 Every install (this one, or a fresh one on someone else's machine) puts a
@@ -39,10 +40,8 @@ same relative shape:
 
 ```
 <wiki-root>/
-├── SCHEMA.md
-├── bin/generate-index.py
 ├── wiki/
-│   ├── index.md          (generated — regenerate before reading)
+│   ├── index.md     (committed — catalog of every page, one line each)
 │   ├── overview.md
 │   └── pages/*.md
 └── skill/freelance-wiki-context/SKILL.md   <- this file
@@ -56,19 +55,13 @@ pointed `--dir` somewhere else entirely).
 
 ## How to Run
 
-Through the `terminal` tool, from `<wiki-root>`:
-
-```
-python3 bin/generate-index.py
-```
-
-Then read `wiki/index.md`, `wiki/overview.md`, and the relevant
-`wiki/pages/*.md` files with `read_file` (never `wiki/pages/audit-*.md` —
-those are unrelated local artifacts if present).
+No command to invoke — just `read_file` the relevant files under
+`<wiki-root>/wiki/`. Start with `wiki/index.md` (always present and current;
+it's committed to the repo, not generated on demand) to decide which pages
+are relevant, then `read_file` those specific pages.
 
 ## Quick Reference
 
-- Regenerate index: `python3 bin/generate-index.py` (run from `<wiki-root>`)
 - Index: `wiki/index.md` — grouped by category (Sources / Entities /
   Concepts), one-line summary per page
 - Entity hubs (start here for broad/no-specific-question mentions):
@@ -79,9 +72,8 @@ those are unrelated local artifacts if present).
 
 ## Procedure
 
-1. **Regenerate and read the index.** Run `python3 bin/generate-index.py`
-   from `<wiki-root>`, then `read_file` on `wiki/index.md` in full. Use it
-   to identify which pages are actually relevant to the mention/question.
+1. **Read the index.** `read_file` on `wiki/index.md` in full. Use it to
+   identify which pages are actually relevant to the mention/question.
    Don't answer from general knowledge about Upwork/Fiverr — the wiki is
    ground truth here, and it frequently disagrees with generic platform
    knowledge on specifics (commission rates, cold-start timing, ban risks)
@@ -127,8 +119,9 @@ those are unrelated local artifacts if present).
 - **Don't hard-code `<wiki-root>`.** Always resolve it relative to this
   file's own location — an absolute path baked in breaks on every other
   install.
-- **`wiki/index.md` is generated and can be stale** — always regenerate
-  (step 1) before reading it, never read a possibly-stale copy on faith.
+- **Don't regenerate `wiki/index.md`.** It's committed, not a runtime
+  artifact — whoever edits the wiki regenerates and commits it as part of
+  that change. This skill only ever reads it.
 - The wiki is ~200k tokens total — never `read_file` the whole `wiki/`
   directory at once; read only what the index says is relevant.
 
