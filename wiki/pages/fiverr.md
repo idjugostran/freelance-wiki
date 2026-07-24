@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -79,11 +79,23 @@ Questions в overview.md.
 работ на плагиат, градация от предупреждения (до трёх) до мгновенного бана в зависимости от
 степени совпадения; (3) спам-рассылка сообщений ради накрутки статистики.[^10]
 
+**Сильные стороны платформы (независимый источник, самый детальный разбор корпуса):**
+интерфейс и дизайн — один из лучших среди всех площадок фриланса, наравне с Upwork,
+заметно выше русскоязычных бирж; бесплатный полноценный видеокурс сразу после
+регистрации, разительный контраст с "жалким PDF" на Kwork.[^11]
+
+**Итоговая рекомендация того же источника — не начинать сразу с Fiverr:** несмотря на в
+целом положительный баланс плюсов и минусов лично для автора, итоговый совет — начинать
+фриланс с [[mestnye-birzhi-frilansa](pages/mestnye-birzhi-frilansa.md)] и переходить на
+Fiverr только упёршись в потолок цен там; путь через физический переезд и антидетект-
+браузер, который использовал сам автор, не обязателен для начинающего.[^12]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — структура платформы, регистрация, gig, уровни, оплата
 - [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] — сравнение с Kwork по деньгам, проблема холодного старта и система брифов, многослойные потери при выводе
 - [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] — история платформы, доступ для РФ/РБ, причины бана, советы по фото и описанию профиля
+- [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — детальный разбор плюсов/минусов, интерфейс, видеокурс, итоговая рекомендация начинать с Kwork
 
 ## Related Concepts
 
@@ -108,3 +120,5 @@ Questions в overview.md.
 [^8]: [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] [01:01-02:00] [synthesis] — Fiverr основан в 2010 году в Тель-Авиве, изначально был похож на Upwork, в 2022 году убрал систему откликов
 [^9]: [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] [02:00] — "биржа только на территории Российской Федерации. В Республике Беларусь он как работал, так и спокойно работает"
 [^10]: [[kak-zaregistrirovatsya-na-fiverr](pages/kak-zaregistrirovatsya-na-fiverr.md)] [06:00-08:01] [synthesis] — три причины бана: VPN-детекция, алгоритмическая проверка оригинальности, спам-рассылка
+[^11]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [00:00-01:00] [synthesis] — интерфейс в топе среди площадок, бесплатный видеокурс после регистрации
+[^12]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [23:02-25:00] [synthesis] — итоговая рекомендация начинать с русскоязычных бирж, переход на Fiverr не обязателен через физический переезд

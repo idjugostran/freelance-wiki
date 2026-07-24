@@ -2,8 +2,8 @@
 title: Конкуренция и демпинг ставок
 category: Concepts
 summary: Фрилансеры из регионов с низкой стоимостью жизни постоянно давят рынок почасовых ставок вниз, независимо от роста опыта конкретного фрилансера
-tags: [rates, competition, upwork]
-sources: [pochemu-frilans-ne-aktualen, vse-pro-frilans-na-upwork-za-12-minut]
+tags: [rates, competition, upwork, fiverr]
+sources: [pochemu-frilans-ne-aktualen, vse-pro-frilans-na-upwork-za-12-minut, chestnoe-mnenie-o-fiverr-2-goda]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -27,14 +27,24 @@ updated: 2026-07-24
 не занижать свою почасовую ставку даже будучи новичком на площадке — конкурировать ценой
 с фрилансерами из регионов с изначально низкой стоимостью жизни не стоит.[^3]
 
+**Та же динамика подтверждена на Fiverr (независимый источник):** фрилансеры, готовые
+выполнить работу ценой $50 за $5, создают такое же демпинговое давление, что и на Upwork.
+Практический совет для этой площадки чуть отличается от совета "не занижать ставку" выше —
+источник рекомендует именно на старте (ради первых отзывов) сознательно работать по
+заниженным ценам, а не конкурировать ценой на постоянной основе; дальнейший рост ставок
+происходит уже за счёт наработанной клиентской базы и выделения навыком/стилем, а не
+постоянного соответствия демпингу.[^4]
+
 ## Appearances in Sources
 
 - [[pochemu-frilans-ne-aktualen](pages/pochemu-frilans-ne-aktualen.md)] — демпинг ставок фрилансерами из регионов с низкой стоимостью жизни, роль агентств и видеозвонков
 - [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] — прямой совет не занижать ставку даже новичку
+- [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — та же демпинговая динамика на Fiverr, тактика заниженных цен на старте
 
 ## Related Concepts
 
 - [[upwork](pages/upwork.md)] — площадка, на которой описана эта динамика
+- [[fiverr](pages/fiverr.md)] — вторая площадка с той же динамикой демпинга
 - [[vygoranie-na-frilanse](pages/vygoranie-na-frilanse.md)] — конкурентное давление как источник переработки/выгорания
 
 ## Footnotes
@@ -42,3 +52,4 @@ updated: 2026-07-24
 [^1]: [[pochemu-frilans-ne-aktualen](pages/pochemu-frilans-ne-aktualen.md)] [02:00] — "люди с Азии, там с Индии, они всегда демпингуют рынок, так же самое Украина, страны СНГ — всё это демпингует и скатилось всё просто до минимальных почасовых ставок"
 [^2]: [[pochemu-frilans-ne-aktualen](pages/pochemu-frilans-ne-aktualen.md)] [03:01] [synthesis] — агентства продают джунов по цене мидлов/сеньоров, что подтолкнуло клиентов к видеозвонкам напрямую с фрилансером
 [^3]: [[vse-pro-frilans-na-upwork-za-12-minut](pages/vse-pro-frilans-na-upwork-za-12-minut.md)] [03:00] — "не пытайтесь демпинговать и занижать почасовую ставку, даже если вы новичок, на западе это не ценится"
+[^4]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [20:02-21:01] [synthesis] — демпинг цен на Fiverr, тактика заниженных цен на старте ради первых отзывов

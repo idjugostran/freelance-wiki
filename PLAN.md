@@ -47,7 +47,7 @@ slug итоговой страницы-источника. Ничего боль
 | 2 | ✅ | Как заработать на FIVERR (За 10 минут!) | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=cHhSvz2dScc) | [[kak-zarabotat-na-fiverr-10-minut](wiki/pages/kak-zarabotat-na-fiverr-10-minut.md)] |
 | 3 | ✅ | Как работать на Fiverr и UpWork из России и Беларуси | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=0b1NOZi-EOw) | [[rabota-na-fiverr-i-upwork-iz-rf-rb](wiki/pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] |
 | 4 | ✅ | КАК ЗАРАБОТАТЬ НА FIVERR: ЧАСТЬ 1 | URelocate | [ссылка](https://www.youtube.com/watch?v=Hknq3wZCAGM) | [[kak-zaregistrirovatsya-na-fiverr](wiki/pages/kak-zaregistrirovatsya-na-fiverr.md)] |
-| 5 | ⬜ | Честное мнение о Fiverr спустя 2 года работы | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=9G731MRrIPc) | |
+| 5 | ✅ | Честное мнение о Fiverr спустя 2 года работы | Влад Кейнгнейд | [ссылка](https://www.youtube.com/watch?v=9G731MRrIPc) | [[chestnoe-mnenie-o-fiverr-2-goda](wiki/pages/chestnoe-mnenie-o-fiverr-2-goda.md)] |
 | 6 | ⬜ | Как Заработать на Fiverr? С чего нужно начать? | МЕНТОР ДЕМЕНТОР | [ссылка](https://www.youtube.com/watch?v=ZQDRTJ_yu7o) | |
 | 7 | ⬜ | ПОЛНЫЙ ГАЙД ПО НАСТРОЙКЕ ГИГА НА FIVERR | moek | [ссылка](https://www.youtube.com/watch?v=Z3tG15_rNPk) | |
 | 8 | ⬜ | How to Create a Selling Gig on Fiverr in 10 Minutes? (Part 2) | URelocate | [ссылка](https://www.youtube.com/watch?v=eNIlRFesgk0) | |
@@ -69,5 +69,5 @@ slug итоговой страницы-источника. Ничего боль
 ## Прогресс
 
 - Upwork: 20 / 20 обработано
-- Fiverr: 4 / 20 обработано
-- **Всего: 24 / 40**
+- Fiverr: 5 / 20 обработано
+- **Всего: 25 / 40**

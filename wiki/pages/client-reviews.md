@@ -3,7 +3,7 @@ title: Отзывы клиентов
 category: Concepts
 summary: Отзывы клиентов формируют JSS и историю проектов; важно активно просить отзыв в конце работы
 tags: [reviews, upwork, fiverr]
-sources: [kak-zarabotat-na-upwork-10-minut, vse-pro-frilans-na-upwork-za-12-minut, kak-nastroit-profil-upwork-polnoe-rukovodstvo, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut]
+sources: [kak-zarabotat-na-upwork-10-minut, vse-pro-frilans-na-upwork-za-12-minut, kak-nastroit-profil-upwork-polnoe-rukovodstvo, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, chestnoe-mnenie-o-fiverr-2-goda]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -55,6 +55,16 @@ Upwork выше ("просить отзыв нужно всегда"), прос�
 структурно тяжело (см. проблему холодного старта в [[fiverr](pages/fiverr.md)] и
 [[job-success-score](pages/job-success-score.md)]).[^8]
 
+**Мутуальная (двусторонняя) система отзывов на Fiverr — структурное отличие от
+Upwork/Kwork:** третий независимый источник по Fiverr описывает механику, которая не
+встречалась в вики ранее ни для одной другой площадки — на Fiverr отзывы оставляют друг
+другу и клиент, и фрилансер. Фрилансер может поставить клиенту низкую оценку и
+предостеречь будущих исполнителей, а перед тем как соглашаться на заказ — посмотреть
+рейтинг самого клиента от предыдущих фрилансеров. Также источник отмечает случай, когда
+клиент оставил 4 звезды при восторженном текстовом отзыве без видимой причины — рейтинг
+может портиться случайно, а исправление требует обращения в поддержку от обеих сторон,
+что усложняет практическую пользу этой в остальном более справедливой системы.[^9]
+
 ## Appearances in Sources
 
 - [[kak-zarabotat-na-upwork-10-minut](pages/kak-zarabotat-na-upwork-10-minut.md)] — важность отзывов и практика активного запроса отзыва в конце проекта
@@ -63,6 +73,7 @@ Upwork выше ("просить отзыв нужно всегда"), прос�
 - [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] — техника вставки коротких отзывов прямо в текст заявки
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — параллельное наблюдение: отзыв на Fiverr тоже не гарантирован автоматически
 - [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] — отзывы как ключевой фактор продвижения на любом маркетплейсе, аналогия с Авито
+- [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — мутуальная система отзывов клиент↔фрилансер на Fiverr
 
 ## Related Concepts
 
@@ -81,3 +92,4 @@ Upwork выше ("просить отзыв нужно всегда"), прос�
 [^6]: [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] [07:01-08:01] — "я готов целовать руки тому, кто придумал вставлять отзывы прямо в заявку на Upwork"
 [^7]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [35:00-36:00] [synthesis] — отзыв на Fiverr не гарантирован, нужно прямо просить клиента его оставить
 [^8]: [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] [07:01-08:01] [synthesis] — отзывы как ключевой фактор продвижения на любом маркетплейсе, аналогия с Авито
+[^9]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [03:00-04:01,13:00-15:00] [synthesis] — мутуальная система отзывов клиент↔фрилансер, случайное занижение рейтинга клиентом, сложность исправления

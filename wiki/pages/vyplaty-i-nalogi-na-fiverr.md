@@ -3,7 +3,7 @@ title: Выплаты и налоги на Fiverr
 category: Concepts
 summary: Флэт-комиссия 20%, 14 дней "зависания" средств, вывод через Payoneer, налоговая форма W-9 (в отличие от W-8BEN на Upwork)
 tags: [payments, taxes, fiverr, payoneer, commission]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, rabota-na-fiverr-i-upwork-iz-rf-rb]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, rabota-na-fiverr-i-upwork-iz-rf-rb, chestnoe-mnenie-o-fiverr-2-goda]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -20,7 +20,9 @@ updated: 2026-07-24
 **Комиссия:** флэт-ставка 20% с каждого заработка (для сравнения — на Upwork в вики
 зафиксирована открытая tension между 10% и ~20%, см. Open Questions в overview.md; на
 Fiverr источник не упоминает никаких иных ставок или порогов, ставка выглядит единой для
-всех).[^1]
+всех).[^1] **Уточнение от независимого источника:** помимо 20% с фрилансера, Fiverr берёт
+ещё около 5.5% с покупателя — суммарно площадка зарабатывает на комиссиях с обеих сторон
+сделки.[^7]
 
 **Задержка вывода:** заработанная сумма "зависает" (pending) 14 дней после приёмки работы
 клиентом, прежде чем её можно вывести.[^2]
@@ -48,10 +50,17 @@ PayPal → банковская карта другой юрисдикции (в
 многослойность этой цепочки с необходимостью каждый раз терять на курсовых разницах при
 каждом переводе.[^6]
 
+**Оценка суммарных потерь при многослойном выводе (третий независимый источник):**
+для российских резидентов, использующих цепочку Fiverr → PayPal → зарубежная карта →
+криптовалюта → рубли, в лучшем случае теряется около **30% дохода суммарно**, включая
+базовую комиссию 20% — источник явно отмечает, что это именно оценка "в лучшем случае", а
+не точный расчёт.[^8]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — комиссия, задержка вывода, механика Payoneer, форма W-9, статус ФОП
 - [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] — альтернативная цепочка вывода через казахскую карту и криптовалюту
+- [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — уточнение комиссии с покупателя (~5.5%) и оценка суммарных потерь (~30%)
 
 ## Related Concepts
 
@@ -68,3 +77,5 @@ PayPal → банковская карта другой юрисдикции (в
 [^4]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [37:03] — "вам потрібно буде заповнити податкову форму w9 це податкова форма саме для американської податкової системи"
 [^5]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [37:03-38:00] [synthesis] — украинская налоговая без прямого доступа к площадке, легальная работа через ФОП, ФОП не обязателен для Payoneer
 [^6]: [[rabota-na-fiverr-i-upwork-iz-rf-rb](pages/rabota-na-fiverr-i-upwork-iz-rf-rb.md)] [03:01-04:01] [synthesis] — цепочка вывода Fiverr → PayPal → казахская карта → крипта → российская карта, ~10 минут на процесс
+[^7]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [15:00-17:02] [synthesis] — комиссия ~5.5% с покупателя дополнительно к 20% с фрилансера
+[^8]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [15:00-17:02] [synthesis] — оценка суммарных потерь ~30% при многослойном выводе для российских резидентов

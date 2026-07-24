@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda]
 updated: 2026-07-24
 ---
 
@@ -209,6 +209,19 @@ Upwork/Fiverr-источниками этой вики, что усиливае�
 система "брифов" выглядит урезанной. Независимо подтверждает VPN-запрет теперь и для
 Fiverr, с конкретным механизмом детекции, и добавляет деталь: Fiverr блокирует именно РФ,
 но не Беларусь (в отличие от Upwork).
+
+Пятый источник по Fiverr (тот же автор, что и второй и третий) — самый детальный и
+сбалансированный разбор во всём Fiverr-корпусе: 200+ заказов, 160+ отзывов за 2 года.
+Вводит мутуальную (двустороннюю) систему отзывов клиент↔фрилансер —
+[[client-reviews](pages/client-reviews.md)] — структурное отличие, нигде ранее в вики не
+встречавшееся. Даёт ключевой механизм для [[urovni-fiverr](pages/urovni-fiverr.md)]:
+анонимный пост-проектный опросник клиента, незаметно влияющий на алгоритмическую видимость
+фрилансера — объясняет непредсказуемые "заморозки" потока заказов. Расширяет
+[[gig-fiverr](pages/gig-fiverr.md)] системой ревизий и платным продвижением, а
+[[konkurentsiya-i-demping](pages/konkurentsiya-i-demping.md)] — тем же демпинговым
+давлением, что и на Upwork. Третье независимое подтверждение проблемы системы "брифов".
+Итоговая рекомендация источника — начинать с [[mestnye-birzhi-frilansa](pages/mestnye-birzhi-frilansa.md)]
+и переходить на Fiverr только упёршись в потолок цен там.
 
 ## Open Questions
 

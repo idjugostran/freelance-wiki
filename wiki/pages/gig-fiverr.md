@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -49,15 +49,31 @@ Gig — конкретная, максимально узко определён
 логотипы используемых инструментов (например Adobe, WordPress), а не случайная стоковая
 картинка.[^10]
 
+**Система ревизий (независимый источник, важная деталь механики):** одна "ревизия" в gig —
+это не одна правка, а целый раунд правок, который может включать полную переделку работы;
+фрилансер обязан указать число доступных ревизий, и правило площадки на стороне клиента.
+Конкуренты (по наблюдению источника — часто из Индии) выставляют неограниченное число
+ревизий, что вынуждает держать минимум 2-3 бесплатных раунда ради конкурентоспособности —
+заметно тяжелее аналогичной механики на Kwork, где можно явно продать N правок бесплатно, а
+остальные — платно.[^11]
+
+**Платное продвижение (Boost gig, отдельная механика от Upwork Boost):** Fiverr позволяет
+платно продвигать gig — независимый источник описывает это как pay-to-win динамику:
+реклама сработала ($60 → $400 заработка), но без неё поток заказов резко падает (по
+ощущениям источника — до ~1 заказа в неделю). При этом в первый год работы источник
+обходился вовсе без рекламы — платное продвижение не обязательно с самого начала.[^12]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — полная структура gig, правила написания описания, оформление обложки
+- [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — система ревизий, платное продвижение gig
 
 ## Related Concepts
 
 - [[fiverr](pages/fiverr.md)] — платформа, на которой публикуется gig
 - [[proposals-cover-letters](pages/proposals-cover-letters.md)] — функциональный аналог на Upwork (отклик), хотя механика противоположная: там фрилансер ищет клиента, здесь — наоборот
 - [[client-reviews](pages/client-reviews.md)] — отзывы формируются по итогам заказов, сделанных через gig
+- [[connects-upwork](pages/connects-upwork.md)] — аналогичная по назначению, но иначе устроенная механика платного продвижения (Boost) на Upwork
 
 ## Footnotes
 
@@ -71,3 +87,5 @@ Gig — конкретная, максимально узко определён
 [^8]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [17:04-18:02] [synthesis] — анализ конкурентов, структурирование текста, осторожное использование ChatGPT
 [^9]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [18:02-21:02] [synthesis] — структура описания gig, хороший и плохой примеры
 [^10]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [22:02-23:00] [synthesis] — рекомендации по оформлению обложки gig
+[^11]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [11:00-13:00] [synthesis] — механика ревизий gig, конкуренция с unlimited revisions, риск полной переделки бесплатно
+[^12]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [17:02-18:00] [synthesis] — платное продвижение gig, pay-to-win динамика, работа без рекламы в первый год

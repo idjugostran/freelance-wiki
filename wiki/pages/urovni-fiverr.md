@@ -3,7 +3,7 @@ title: Уровни / бейджи Fiverr
 category: Concepts
 summary: Система уровней New Seller → Level 1 → Level 2 → Top Rated, по критериям заметно прозрачнее механики JSS на Upwork
 tags: [levels, badges, fiverr, rating]
-sources: [kak-nachat-na-fiverr-polnyy-gayd]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -27,15 +27,30 @@ updated: 2026-07-24
 ответ клиенту с ухудшением видимости профиля на платформе — личный негативный опыт автора,
 когда несвоевременный ответ клиенту повлиял на дальнейшую выдачу её профиля.[^4]
 
+**Скрытый слой: анонимный пост-проектный опросник (независимый источник, ключевое
+дополнение к механике уровней):** помимо публичной системы уровней выше, у Fiverr есть
+отдельный, невидимый фрилансеру механизм — после каждого заказа клиенту приходит
+анонимный опросник об опыте работы. Низкие анонимные оценки мгновенно и незаметно
+понижают фрилансера в алгоритме выдачи — без изменения публичного рейтинга или уровня.
+Источник напрямую связывает этот механизм с непредсказуемыми "заморозками" потока
+заказов на месяцы с последующим внезапным восстановлением — и явно противопоставляет это
+стабильности Kwork, где отсутствие активности не влияет на возврат клиентов после
+паузы.[^5] Это существенно расширяет картину "прозрачности" уровней Fiverr из первого
+источника выше — публичная система понятна, но параллельно действует непубличный слой,
+близкий по духу к скрытой приватной оценке JSS на Upwork (см.
+[[job-success-score](pages/job-success-score.md)]).
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — описание системы уровней, критериев и личный кейс влияния скорости ответа
+- [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] — анонимный пост-проектный опросник и его влияние на скрытый алгоритм выдачи
 
 ## Related Concepts
 
 - [[fiverr](pages/fiverr.md)] — платформа, на которой действует система уровней
 - [[job-success-score](pages/job-success-score.md)] — аналогичный по назначению, но менее прозрачный механизм рейтинга на Upwork
 - [[gig-fiverr](pages/gig-fiverr.md)] — видимость которого зависит от уровня продавца
+- [[mestnye-birzhi-frilansa](pages/mestnye-birzhi-frilansa.md)] — Kwork как контрастный пример стабильности после паузы в работе
 
 ## Footnotes
 
@@ -43,3 +58,4 @@ updated: 2026-07-24
 [^2]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [30:01-31:01] [synthesis] — критерии присвоения уровней: скорость ответа, время на платформе, заработок
 [^3]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [31:01] — "є перший рівень другий рівень і потім Top rated ... тим більше клієнтів буде вас помічати"
 [^4]: [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] [26:00] [synthesis] — личный опыт автора: несвоевременный ответ повлиял на видимость профиля
+[^5]: [[chestnoe-mnenie-o-fiverr-2-goda](pages/chestnoe-mnenie-o-fiverr-2-goda.md)] [18:00-20:02] [synthesis] — анонимный пост-проектный опросник клиента, влияние на скрытый алгоритм выдачи, нестабильность потока заказов
