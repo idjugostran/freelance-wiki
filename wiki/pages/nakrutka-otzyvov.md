@@ -3,7 +3,7 @@ title: Накрутка отзывов и фиктивных контракто�
 category: Concepts
 summary: Практика создания фейковых контрактов/отзывов для преодоления холодного старта — нарушает правила площадок (Upwork, Fiverr) и несёт риск бана
 tags: [reviews, tos-violation, risk, upwork, fiverr]
-sources: [zarabotal-na-upwork-eksperiment-mesyats, skolko-nuzhno-konnektov, kak-zarabotat-na-fiverr-10-minut, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, kak-nachat-razvivatsya-na-fiverr-s-nulya]
+sources: [zarabotal-na-upwork-eksperiment-mesyats, skolko-nuzhno-konnektov, kak-zarabotat-na-fiverr-10-minut, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, kak-nachat-razvivatsya-na-fiverr-s-nulya, kak-vzyat-pervyy-zakaz-na-frilanse-kreas]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -61,6 +61,14 @@ Fiverr — попросить друзей/знакомых за рубежом 
 значительно опаснее и особенно рискован для новых аккаунтов, которые тщательнее
 проверяются на Kwork, Fiverr и Upwork.[^6]
 
+**Шестой — первый прямой контрпример: предупреждение против практики от лица самого источника,
+а не только от вики.** Независимый источник (Upwork/Fiverr, короткий гайд по заполнению
+профиля) прямо советует набирать реальные отзывы и явно предостерегает: делать фейковые
+аккаунты и писать себе отзывы не стоит, за это можно получить перманентный бан. В отличие от
+пяти примеров выше, где источники либо признаются в применении практики, либо рекламируют
+услуги по её организации, здесь впервые сам источник (не только оговорка вики) занимает
+позицию против накрутки — полезный балансирующий голос на фоне уже собранных случаев.[^7]
+
 ## Appearances in Sources
 
 - [[zarabotal-na-upwork-eksperiment-mesyats](pages/zarabotal-na-upwork-eksperiment-mesyats.md)] — открытое описание накрутки 2-3 отзывов на 7-й день эксперимента, объяснение мотивации
@@ -68,6 +76,7 @@ Fiverr — попросить друзей/знакомых за рубежом 
 - [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] — та же практика (фиктивный заказ+отзыв через знакомых за рубежом), независимо описанная теперь на Fiverr
 - [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] — прямое признание в накрутке фиктивных заказов ради алгоритмического буста на Fiverr
 - [[kak-nachat-razvivatsya-na-fiverr-s-nulya](pages/kak-nachat-razvivatsya-na-fiverr-s-nulya.md)] — самое процедурно детальное описание механизма, явное предупреждение источника о риске для новых аккаунтов
+- [[kak-vzyat-pervyy-zakaz-na-frilanse-kreas](pages/kak-vzyat-pervyy-zakaz-na-frilanse-kreas.md)] — первый прямой контрпример: источник сам предостерегает против практики, а не описывает её как рабочий приём
 
 ## Related Concepts
 
@@ -84,3 +93,4 @@ Fiverr — попросить друзей/знакомых за рубежом 
 [^4]: [[kak-zarabotat-na-fiverr-10-minut](pages/kak-zarabotat-na-fiverr-10-minut.md)] [05:03-06:00] [synthesis] — просьба к знакомым за рубежом оставить отзыв за фиктивный, но реалистично оформленный заказ на Fiverr
 [^5]: [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] [00:00,08:01] — "мы накрутили себе отзывы чтобы F посчитал наш профиль релевантным ... создал себе пару фейковых заказов они помогли забустить мой профиль выше"
 [^6]: [[kak-nachat-razvivatsya-na-fiverr-s-nulya](pages/kak-nachat-razvivatsya-na-fiverr-s-nulya.md)] [00:00-03:01] [synthesis] — три обходных метода с единым механизмом (подготовленные материалы + реальная сдача работы), предупреждение о риске для новых аккаунтов
+[^7]: [[kak-vzyat-pervyy-zakaz-na-frilanse-kreas](pages/kak-vzyat-pervyy-zakaz-na-frilanse-kreas.md)] [01:00] — "делать фейковые аккаунты и писать себе отзывы не стоит, ведь за это можно получить перманентный бан"

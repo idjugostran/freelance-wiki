@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, urok-1-fiverr-dlya-nachinayushchih, kak-nachat-razvivatsya-na-fiverr-s-nulya, frilans-glazami-novichka-2025, kak-oformit-zakaz-na-fiverr-kak-pokupatel]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, urok-1-fiverr-dlya-nachinayushchih, kak-nachat-razvivatsya-na-fiverr-s-nulya, frilans-glazami-novichka-2025, kak-oformit-zakaz-na-fiverr-kak-pokupatel, kak-vzyat-pervyy-zakaz-na-frilanse-kreas]
 updated: 2026-07-24
 ---
 
@@ -340,14 +340,24 @@ Rate, Delivered On Time, Order Completion) и отдельным бейджем 
 механизм — российскую самозанятость. Даёт сильный контролируемый эксперимент в пользу
 контент-маркетинга как канала клиентов против платной рекламы.
 
-Двадцатый и последний источник плана — короткий генерический гайд с позиции покупателя
-(канал "AI Mastery"). В основном подтверждает уже задокументированные механики
+Двадцатый источник плана — короткий генерический гайд с позиции покупателя (канал
+"AI Mastery"). В основном подтверждает уже задокументированные механики
 [[gig-fiverr](pages/gig-fiverr.md)] (пакеты, requirements) с точки зрения клиента, и
 усиливает [[moshennichestvo-na-fiverr](pages/moshennichestvo-na-fiverr.md)] явным
-предупреждением клиенту проверять подлинность сайта перед оплатой. Видео 19 плана
-("Как взять первый заказ на фрилансе?") пропущено — субтитры не распознались (ASR вернул
-только одну нецензурную строку без содержательной речи). Этим завершается обработка плана
-(39 из 40 видео, 1 пропущено с указанной причиной).
+предупреждением клиенту проверять подлинность сайта перед оплатой.
+
+Двадцать первый и последний источник плана (видео 19, изначально пропущенное) — короткий
+(2 минуты, 2022 год) гайд Kreas по заполнению профиля на Upwork/Fiverr и созданию первого
+гига. Изначально пропущен из-за ошибки транскрипции: запрашивался неверный субтитровый
+трек (`ru` — почти пустая ручная загрузка) вместо `ru-orig` (настоящий авто-транскрипт
+YouTube), который при повторной попытке дал полноценный текст. В основном подтверждающий
+источник по регистрации/[[portfolio](pages/portfolio.md)], с двумя примечательными
+деталями: soft tension по дате в [[gig-fiverr](pages/gig-fiverr.md)] — источник 2022 года
+утверждает, что почасовой оплаты на Fiverr не было, что согласуется с более поздним (2026)
+появлением этой функции; и первый в корпусе прямой контрпример в
+[[nakrutka-otzyvov](pages/nakrutka-otzyvov.md)] — источник сам явно предостерегает против
+накрутки фейковых отзывов (риск перманентного бана), а не описывает практику как рабочий
+приём. Этим завершается обработка плана — все 40 из 40 видео обработаны.
 
 ## Open Questions
 

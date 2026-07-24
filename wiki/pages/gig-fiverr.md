@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, urok-1-fiverr-dlya-nachinayushchih, kak-oformit-zakaz-na-fiverr-kak-pokupatel]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya, urok-1-fiverr-dlya-nachinayushchih, kak-oformit-zakaz-na-fiverr-kak-pokupatel, kak-vzyat-pervyy-zakaz-na-frilanse-kreas]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -119,7 +119,10 @@ Premium — максимум опций и цены. Явная рекоменд
 **Новые функции 2026 года (независимый источник, важное обновление):** почасовая оплата —
 аналог механики Upwork, доступна не сразу, а с ростом уровня продавца; настраивается
 индивидуально через кастомный оффер (ставка/час, лимит часов, тайм-эстимейт), с
-еженедельной отчётностью и оплатой по понедельникам.[^25] Подписки (Subscriptions) —
+еженедельной отчётностью и оплатой по понедельникам.[^25] **Soft tension по дате:** более
+ранний источник (видео от апреля 2022) прямо утверждал, что почасовой оплаты на Fiverr нет —
+в отличие от Upwork, где она уже была доступна тогда. Не противоречие, а изменение платформы
+со временем: похоже, Fiverr добавил почасовую оплату уже после 2022 года.[^38] Подписки (Subscriptions) —
 ежемесячная оплата за пакет услуг вместо разовых заказов; рекомендуется закладывать
 стандартную комиссию 20% в цену подписки, а не платить из своего кармана.[^26]
 Консультации — оплачиваемые сессии 1:1 через встроенный календарь (с интеграцией Google
@@ -175,6 +178,7 @@ Impressions, Clicks, Orders, Cancellations; ориентир — около 10% 
 - [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] — постоянное тестирование gig, задержка реакции алгоритма
 - [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] — целевые пропорции конверсии, ChatGPT-метод создания gig, ordering-сигнал поиска ниши
 - [[kak-oformit-zakaz-na-fiverr-kak-pokupatel](pages/kak-oformit-zakaz-na-fiverr-kak-pokupatel.md)] — подтверждающий обзор структуры пакетов и requirements с позиции покупателя
+- [[kak-vzyat-pervyy-zakaz-na-frilanse-kreas](pages/kak-vzyat-pervyy-zakaz-na-frilanse-kreas.md)] — источник 2022 года, отсутствие почасовой оплаты на тот момент — soft tension по дате с более поздним появлением этой функции
 
 ## Related Concepts
 
@@ -222,3 +226,4 @@ Impressions, Clicks, Orders, Cancellations; ориентир — около 10% 
 [^35]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [01:26:01-01:28:01] [synthesis] — четыре метрики gig, ориентир конверсии 10%/10%
 [^36]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [01:35:01-01:41:01] [synthesis] — метод анализа топ-3 конкурентов через ChatGPT для создания gig
 [^37]: [[urok-1-fiverr-dlya-nachinayushchih](pages/urok-1-fiverr-dlya-nachinayushchih.md)] [01:00:01-01:01:01] [synthesis] — сигнал высокого спроса через число одновременных заказов у продавца с малым числом gig
+[^38]: [[kak-vzyat-pervyy-zakaz-na-frilanse-kreas](pages/kak-vzyat-pervyy-zakaz-na-frilanse-kreas.md)] [00:00] — "на парк мы также можем добавлять почасовую оплату, на файвере же такой функции нет"

@@ -3,7 +3,7 @@ title: Портфолио
 category: Concepts
 summary: Раздел профиля, который сильнее всего влияет на решение клиента; можно стартовать без реальных клиентов через демо-проект
 tags: [portfolio, upwork]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, pochemu-ne-doveryayut-proekty, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-zarabatyvat-na-upwork-v-2025, formula-idealnoy-zayavki-upwork]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, vzyal-zakaz-na-upwork-za-3-dnya, pochemu-ne-doveryayut-proekty, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-zarabatyvat-na-upwork-v-2025, formula-idealnoy-zayavki-upwork, kak-vzyat-pervyy-zakaz-na-frilanse-kreas]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -84,6 +84,7 @@ updated: 2026-07-24
 - [[vzyal-zakaz-na-upwork-za-3-dnya](pages/vzyal-zakaz-na-upwork-za-3-dnya.md)] — техника компиляции описания, требование английского языка и аккуратного оформления работ
 - [[pochemu-ne-doveryayut-proekty](pages/pochemu-ne-doveryayut-proekty.md)] — мета-аргумент о согласованности профиля и специализации для дизайн-ниш
 - [[formula-idealnoy-zayavki-upwork](pages/formula-idealnoy-zayavki-upwork.md)] — альтернатива демо-проекту: реальная бесплатная работа для целевого рынка вне площадки
+- [[kak-vzyat-pervyy-zakaz-na-frilanse-kreas](pages/kak-vzyat-pervyy-zakaz-na-frilanse-kreas.md)] — подтверждающий источник: демо-проект для новичка, явный запрет воровать чужие работы
 
 ## Related Concepts
 
