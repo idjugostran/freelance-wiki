@@ -120,6 +120,10 @@ are relevant, then `read_file` those specific pages.
    - If the wiki has no page covering what was asked, say so plainly
      ("в базе знаний вики пока нет ничего про X") instead of silently
      falling back to general knowledge.
+   - **Disclose that this skill answered.** End the reply with a short,
+     plain-text marker on its own line, e.g. `📚 Источник: Freelance Wiki
+     (freelance-wiki-context)` — no brackets/links, just text, so it can't
+     trip the same Markdown-parsing issue as citations above.
 
 4. **Never write to the wiki from this skill.** This is read-only context
    grounding — if asked to add or change wiki content, say that's outside
@@ -148,4 +152,7 @@ a named wiki page (in prose, not a `[[slug](pages/slug.md)]` link). If it
 isn't, something was answered from general knowledge instead of the wiki —
 go back and ground it, or say the wiki doesn't cover it. Also check the
 reply doesn't contain any literal `[[...]]` or `pages/....md` text — that
-means the internal link syntax leaked into the chat-facing answer.
+means the internal link syntax leaked into the chat-facing answer. Finally,
+confirm the reply ends with the `📚 Источник: Freelance Wiki
+(freelance-wiki-context)` disclosure line — if it's missing, add it before
+sending.
