@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya]
 updated: 2026-07-24
 ---
 
@@ -302,6 +302,17 @@ live-портфолио. Создаёт soft tension с более ранним 
 ранее не описанная защита фрилансера. Второе независимое подтверждение обеих
 мошеннических схем из [[moshennichestvo-na-fiverr](pages/moshennichestvo-na-fiverr.md)], с
 уточнением: переход в Telegram/WhatsApp ведёт к перманентному, безвозвратному бану.
+
+Пятнадцатый и последний Fiverr-источник — финал серии URelocate + Александра Горнаго,
+редкий по честности источник вики: прямое признание в накрутке фиктивных заказов ради
+алгоритмического буста (четвёртый пример
+[[nakrutka-otzyvov](pages/nakrutka-otzyvov.md)], второй раз на Fiverr) и честный
+негативный итог всего эксперимента — $580 за 2.5 месяца, вывод "я не понял Fiverr", Upwork
+остаётся приоритетом для автора. Также раскрывает важный контекст доверия к серии:
+источник передаёт заказы субподрядчикам, а не выполняет их лично. Даёт совет от Александры
+о постоянном тестировании gig и ~3-дневной задержке реакции алгоритма, усиливая норму
+долгого разгона (2-6 месяцев) в существующей tension о холодном старте. Этим завершается
+серия URelocate + Александра Горнаго по Fiverr (источники 4, 8, 15).
 
 ## Open Questions
 

@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -137,6 +137,13 @@ gig — только спам-сообщения до этого момента;
 Fiverr только упёршись в потолок цен там; путь через физический переезд и антидетект-
 браузер, который использовал сам автор, не обязателен для начинающего.[^12]
 
+**Редкий честный негативный итог эксперимента (независимый источник, серия URelocate):**
+~2.5 месяца работы, 30+ потенциальных клиентов в переписке, 7 фактических заказов,
+итоговый заработок $580 — источник прямо признаёт "я не понял Fiverr" и предпочитает
+Upwork. Важный контекст для оценки достоверности всей серии видео этого источника:
+источник признаёт, что фактически не выполняет заказы сам, а передаёт их субподрядчикам
+("помощникам"), выступая только посредником в переписке с клиентом.[^24]
+
 **Широта категорий и баланс, тратящийся внутри платформы (независимый источник):** помимо
 уже перечисленных категорий отдельно выделяется быстрорастущий AI-сегмент (кастомные
 GPT-приложения, продажа AI-генерируемого искусства по промптам). Заработанный баланс можно
@@ -165,6 +172,7 @@ GPT-приложения, продажа AI-генерируемого иску�
 - [[zarabotok-na-fiverr-bez-navykov](pages/zarabotok-na-fiverr-bez-navykov.md)] — класс ниш без профессиональных навыков
 - [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] — Fiverr сильнее для дизайна чем для кода, пятый датапоинт холодного старта, комиссия сторонних сервисов
 - [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] — бесплатное размещение услуг, модель оплаты Fiverr Ads
+- [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] — честный негативный итог эксперимента, реселлерская модель источника
 
 ## Related Concepts
 
@@ -203,3 +211,4 @@ GPT-приложения, продажа AI-генерируемого иску�
 [^21]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [10:02-12:00] [synthesis] — необходимость готового бэкграунда (клиентской базы или аудитории) для старта на Fiverr
 [^22]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [00:00-02:00] [synthesis] — комиссия сторонних сервисов вывода 10-15%, иногда до 20%, для заблокированных стран
 [^23]: [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] [01:00-03:00] [synthesis] — бесплатное размещение услуг в отличие от Upwork, Fiverr Ads с оплатой за клик
+[^24]: [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] [08:01-09:02] — "я работал на fiv порядка 2 месяцев ... получил я за всё время семь заказов итоговая сумма заработанных средств 580 долларов ... в целом я не понял Fiverr"

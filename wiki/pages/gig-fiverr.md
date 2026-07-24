@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo, kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka, kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -146,6 +146,12 @@ e-commerce/SEO/security/backup плагинов отдельными платн�
 клиент просто предпочитает прямое предложение без изучения пакетов. Оформляется прямо в
 переписке кнопкой "Create an offer" — краткое описание услуги, цена, срок поставки.[^33]
 
+**Постоянное тестирование gig и задержка реакции алгоритма (независимый источник):**
+никогда заранее не известно, какая именно услуга "выстрелит" — рекомендуется вести
+несколько объявлений одновременно, постоянно обновлять их и тестировать разные
+формулировки по статистике показов/кликов. Алгоритму требуется около 3 дней, чтобы
+отреагировать на изменения — эффект не мгновенный.[^34]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — полная структура gig, правила написания описания, оформление обложки
@@ -156,6 +162,7 @@ e-commerce/SEO/security/backup плагинов отдельными платн�
 - [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] — почасовая оплата, подписки, консультации, live-портфолио, лайфхак с дублированием gig
 - [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] — механика чекбокс-допродаж, рекомендация не удалять gig с историей, бейдж Pro
 - [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] — механика Custom Offer, реальный пример пакетов Basic/Standard
+- [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] — постоянное тестирование gig, задержка реакции алгоритма
 
 ## Related Concepts
 
@@ -199,3 +206,4 @@ e-commerce/SEO/security/backup плагинов отдельными платн�
 [^31]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [06:01-08:00] [synthesis] — поведенческий фактор как решающий механизм ранжирования, рекомендация не удалять gig с историей заказов
 [^32]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [07:01] [synthesis] — бейдж "Pro" как отдельный сигнал верификации площадкой
 [^33]: [[kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka](pages/kak-zarabatyvat-na-fiverr-tutorial-dlya-novichka.md)] [12:01-14:01] [synthesis] — механика Custom Offer, три сценария применения
+[^34]: [[kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya](pages/kak-zarabotat-na-fiverr-2024-chast-4-eksperiment-provalilsya.md)] [02:00-04:00] [synthesis] — рекомендация постоянного тестирования гипотез, задержка реакции алгоритма ~3 дня
