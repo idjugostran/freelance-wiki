@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -33,6 +33,11 @@ updated: 2026-07-24
 интерьеры, 3D, иллюстрации), разработка, маркетинг (SMM, SEO, аналитика), видео/анимация,
 копирайтинг и перевод, музыка/войсовер/подкасты, бизнес-консалтинг и виртуальные
 ассистенты, аналитика данных/Machine Learning, фото/ретушь, работа с ИИ.[^2]
+**Уточнение (независимый источник, прямое сравнение с Upwork):** Fiverr структурно
+сильнее для дизайна/креатива (иконки, графические шаблоны, баннеры, логотипы, мокапы),
+заметно слабее для кода — конкретная демонстрация: поиск по "WordPress" даёт заметно
+меньше заказов, чем аналогичная ниша через Project Catalog на Upwork; источник прямо не
+рекомендует Fiverr для работы с кодом.[^20]
 
 **Отдельный класс ниш без профессиональных навыков (независимый источник):** помимо
 профессиональных категорий выше, платформа поддерживает нишу услуг, не требующих
@@ -86,6 +91,16 @@ gig — только спам-сообщения до этого момента;
 именно для новичков, в явном контрасте с уже описанной выше негативной оценкой брифов.
 Вики не разрешает это как противоречие — вероятно, отражает изменение механики со временем
 (разные даты записи видео), но ни один источник не подтверждает это прямо.[^18]
+**Пятый, наиболее структурно аргументированный датапоинт (независимый источник):** в
+отличие от предыдущих четырёх (о сроках ожидания), этот источник объясняет механизм —
+для успеха на Fiverr нужен готовый бэкграунд: либо существующая клиентская база, либо своя
+аудитория (например YouTube-канал), направляющая клиентов к gig. Без этого даже
+качественно оформленный gig может физически не получать заказов — не вопрос времени
+ожидания, а структурного отсутствия канала привлечения.[^21]
+
+**Комиссия сторонних сервисов вывода для заблокированных стран (общее для международных
+бирж, не только Fiverr):** независимый источник называет диапазон 10-15%, иногда до 20% —
+посредник получает деньги на свой PayPal и пересылает фрилансеру за вычетом комиссии.[^22]
 
 **Многослойные потери при выводе для российских резидентов** (сверх стандартной комиссии
 20%): комиссия на вывод, курсовая разница PayPal→карта, курсовая разница карта→крипта,
@@ -142,6 +157,7 @@ GPT-приложения, продажа AI-генерируемого иску�
 - [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] — четвёртый датапоинт (2 недели), схемы мошенничества
 - [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] — обновления 2026: Success Score, брифы теперь подбираются алгоритмом
 - [[zarabotok-na-fiverr-bez-navykov](pages/zarabotok-na-fiverr-bez-navykov.md)] — класс ниш без профессиональных навыков
+- [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] — Fiverr сильнее для дизайна чем для кода, пятый датапоинт холодного старта, комиссия сторонних сервисов
 
 ## Related Concepts
 
@@ -176,3 +192,6 @@ GPT-приложения, продажа AI-генерируемого иску�
 [^17]: [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] [02:00-03:00] — "первый заказ может прийти только через две недели от начало вашей регистрации"
 [^18]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [14:59-15:31] [synthesis] — брифы теперь подбираются алгоритмом, полезная функция для новичков
 [^19]: [[zarabotok-na-fiverr-bez-navykov](pages/zarabotok-na-fiverr-bez-navykov.md)] [00:00-05:00] [synthesis] — пять категорий ниш без профессиональных навыков, включая эзотерику с этической оговоркой
+[^20]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [02:00-03:00] [synthesis] — сравнение объёма заказов по WordPress на Fiverr и Upwork, рекомендация не использовать Fiverr для кода
+[^21]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [10:02-12:00] [synthesis] — необходимость готового бэкграунда (клиентской базы или аудитории) для старта на Fiverr
+[^22]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [00:00-02:00] [synthesis] — комиссия сторонних сервисов вывода 10-15%, иногда до 20%, для заблокированных стран

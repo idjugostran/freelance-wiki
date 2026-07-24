@@ -3,7 +3,7 @@ title: Gig (Fiverr)
 category: Concepts
 summary: Базовая единица продажи услуги на Fiverr — узко определённый сервис с заголовком "I will…", тремя ценовыми пакетами и описанием
 tags: [gig, fiverr, listing]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -129,6 +129,17 @@ Calendar), удобны для предпродажного обсуждения
 один и тот же сервис под разными формулировками для попадания под разные поисковые
 запросы; лимит числа gig зависит от уровня продавца.[^29]
 
+**Механика чекбокс-допродаж — почему стартовые цены выглядят заниженными (независимый
+источник):** видимая в каталоге цена ($5-40) — минимальная стартовая, а не финальная;
+реальная сумма заказа набирается через дополнительные платные опции (extras), которые
+клиент добавляет по чекбоксам (например для сайта на WordPress — установка
+e-commerce/SEO/security/backup плагинов отдельными платными пунктами).[^30] **Никогда не
+удалять gig с накопленной историей заказов:** поведенческий фактор (число завершённых
+заказов + рейтинг) — решающий механизм ранжирования; при смене специализации лучше
+отредактировать описание существующей карточки, чем создавать новую с нуля.[^31] Отдельный
+бейдж "Pro" — площадка отдельно верифицирует часть фрилансеров как профессионалов,
+дополнительный сигнал доверия для клиента.[^32]
+
 ## Appearances in Sources
 
 - [[kak-nachat-na-fiverr-polnyy-gayd](pages/kak-nachat-na-fiverr-polnyy-gayd.md)] — полная структура gig, правила написания описания, оформление обложки
@@ -137,6 +148,7 @@ Calendar), удобны для предпродажного обсуждения
 - [[polnyy-gayd-po-nastroyke-giga-fiverr](pages/polnyy-gayd-po-nastroyke-giga-fiverr.md)] — SEO-эффект сужения ключевых слов, роль поля Type, лимит тегов, эффект видео, requirements
 - [[kak-sozdat-prodayushiy-gig-fiverr-chast-2](pages/kak-sozdat-prodayushiy-gig-fiverr-chast-2.md)] — заполнение всех слотов gig, источники ключевых слов, ценовая философия "трипваер", важность обложки
 - [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] — почасовая оплата, подписки, консультации, live-портфолио, лайфхак с дублированием gig
+- [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] — механика чекбокс-допродаж, рекомендация не удалять gig с историей, бейдж Pro
 
 ## Related Concepts
 
@@ -176,3 +188,6 @@ Calendar), удобны для предпродажного обсуждения
 [^27]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [16:34-17:20] [synthesis] — оплачиваемые консультации через встроенный календарь
 [^28]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [17:20-18:00] [synthesis] — live-портфолио, добавление файлов с согласия клиента
 [^29]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [15:31] [synthesis] — лайфхак публикации одного сервиса под разными формулировками, лимит gig зависит от уровня
+[^30]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [04:00-06:01] [synthesis] — механика чекбокс-допродаж extras, реальная стоимость заказа выше стартовой
+[^31]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [06:01-08:00] [synthesis] — поведенческий фактор как решающий механизм ранжирования, рекомендация не удалять gig с историей заказов
+[^32]: [[kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo](pages/kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo.md)] [07:01] [synthesis] — бейдж "Pro" как отдельный сигнал верификации площадкой

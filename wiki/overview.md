@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov, kak-zarabatyvat-na-fiverr-2026-polnoe-rukovodstvo]
 updated: 2026-07-24
 ---
 
@@ -284,6 +284,16 @@ live-портфолио. Создаёт soft tension с более ранним 
 категория консультаций. Новый угол зрения на категории [[fiverr](pages/fiverr.md)] —
 ранее вики фиксировала только профессиональные ниши.
 
+Тринадцатый источник по Fiverr — урок из того же курса, что и
+[[skolko-nuzhno-konnektov](pages/skolko-nuzhno-konnektov.md)] (канал "Быть Программистом").
+Даёт пятый, наиболее структурно аргументированный датапоинт в tension о холодном старте —
+не просто "сколько ждать", а объяснение механизма: для успеха на Fiverr нужен готовый
+бэкграунд (клиентская база или аудитория), иначе заказов физически может не быть.
+Показывает прямым сравнением, что Fiverr сильнее для дизайна/креатива, слабее для кода —
+контраст с Upwork. Объясняет механику чекбокс-допродаж (заниженные видимые цены) в
+[[gig-fiverr](pages/gig-fiverr.md)] и добавляет общую для международных бирж деталь —
+комиссию сторонних сервисов вывода 10-15%, иногда до 20%, для заблокированных стран.
+
 ## Open Questions
 
 - Насколько применима эта воронка (proposal → portfolio → review → JSS) к Fiverr, у которого
@@ -336,7 +346,10 @@ live-портфолио. Создаёт soft tension с более ранним 
   обходной путь через знакомых; ни один источник не объясняет расхождение напрямую.
   9-й источник добавляет промежуточный датапоинт — 2 месяца пассивного ожидания без какого-
   либо продвижения gig, что не разрешает tension, но говорит в пользу того, что реальный
-  разброс широк и зависит от множества факторов.
+  разброс широк и зависит от множества факторов. 13-й источник даёт наиболее структурное
+  объяснение расхождения: успех на Fiverr требует готового бэкграунда (клиентской базы или
+  аудитории), а не просто времени ожидания — возможно, именно наличие или отсутствие такого
+  бэкграунда и объясняет разброс между источниками 1-9, а не сама площадка.
 
 ## Key Entities / Concepts
 
