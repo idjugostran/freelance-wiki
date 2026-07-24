@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd]
+sources: [kak-zarabotat-na-upwork-10-minut, frilans-bez-opyta, kak-zaregistrirovatsya-na-upwork, kak-vzyat-pervyy-zakaz-na-frilanse, pochemu-frilans-ne-aktualen, obzor-upwork-luchshaya-birzha, kak-zarabatyvat-na-frilanse-v-2026, vzyal-zakaz-na-upwork-za-3-dnya, montiruyu-realnyy-zakaz-na-frilanse, vse-pro-frilans-na-upwork-za-12-minut, zarabotal-na-upwork-eksperiment-mesyats, luchshiy-sposob-poluchat-zakazy, pochemu-ne-doveryayut-proekty, skolko-nuzhno-konnektov, 5-oshibok-upwork-frilans-s-nulya, kak-nastroit-profil-upwork-polnoe-rukovodstvo, kak-vzyat-pervyy-zakaz-freelance-upwork, kak-zarabatyvat-na-upwork-v-2025, opyt-na-upwork-plyusy-minusy, formula-idealnoy-zayavki-upwork, kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, rabota-na-fiverr-i-upwork-iz-rf-rb, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, polnyy-gayd-po-nastroyke-giga-fiverr, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov]
 updated: 2026-07-24
 ---
 
@@ -277,6 +277,12 @@ live-портфолио. Создаёт soft tension с более ранним 
 она подбирается алгоритмом и описывается как полезная для новичков, в контрасте с ранее
 зафиксированной негативной оценкой; вероятно, отражает изменение механики со временем, не
 разрешено явно.
+
+Двенадцатый источник по Fiverr — короткое, лёгкое видео о нишах без профессиональных
+навыков: поздравительные видео, слова поддержки, сбор информации, локальная помощь
+иностранцам, эзотерика (с явной этической оговоркой самого источника), плюс отдельная
+категория консультаций. Новый угол зрения на категории [[fiverr](pages/fiverr.md)] —
+ранее вики фиксировала только профессиональные ниши.
 
 ## Open Questions
 

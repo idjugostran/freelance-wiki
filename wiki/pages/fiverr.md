@@ -3,7 +3,7 @@ title: Fiverr
 category: Entities
 summary: Платформа микросервисов для фрилансеров — клиент находит фрилансера через опубликованный gig, а не наоборот, как на Upwork
 tags: [fiverr, platform]
-sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd]
+sources: [kak-nachat-na-fiverr-polnyy-gayd, kak-zarabotat-na-fiverr-10-minut, kak-zaregistrirovatsya-na-fiverr, chestnoe-mnenie-o-fiverr-2-goda, s-chego-nachat-na-fiverr-mentor-dementor, kak-sozdat-prodayushiy-gig-fiverr-chast-2, moy-pervyy-zakaz-na-frilanse-650-fiverr, moshenniki-na-fiverr-dlya-novichkov, kak-zarabatyvat-na-fiverr-2026-polnyy-gayd, zarabotok-na-fiverr-bez-navykov]
 created: 2026-07-24
 updated: 2026-07-24
 ---
@@ -33,6 +33,15 @@ updated: 2026-07-24
 интерьеры, 3D, иллюстрации), разработка, маркетинг (SMM, SEO, аналитика), видео/анимация,
 копирайтинг и перевод, музыка/войсовер/подкасты, бизнес-консалтинг и виртуальные
 ассистенты, аналитика данных/Machine Learning, фото/ретушь, работа с ИИ.[^2]
+
+**Отдельный класс ниш без профессиональных навыков (независимый источник):** помимо
+профессиональных категорий выше, платформа поддерживает нишу услуг, не требующих
+специального навыка — поздравительные видео ($10-75), слова поддержки, сбор/структурирование
+информации, локальная помощь иностранцам (перевод денег, поручения, разбор документов на
+знакомом языке), эзотерика (астрология, таро, "заклинания"), и отдельная категория
+консультаций на любую личную экспертизу. Категория эзотерики зафиксирована с явной
+этической оговоркой самого источника — не рекомендация, а репортаж существующего на
+платформе спроса.[^19]
 
 **Комиссия и вывод средств:** флэт-комиссия 20% с каждого заработка, средства "зависают"
 14 дней перед выводом; подробнее в
@@ -132,6 +141,7 @@ GPT-приложения, продажа AI-генерируемого иску�
 - [[moy-pervyy-zakaz-na-frilanse-650-fiverr](pages/moy-pervyy-zakaz-na-frilanse-650-fiverr.md)] — третий датапоинт по срокам получения первого заказа (2 месяца)
 - [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] — четвёртый датапоинт (2 недели), схемы мошенничества
 - [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] — обновления 2026: Success Score, брифы теперь подбираются алгоритмом
+- [[zarabotok-na-fiverr-bez-navykov](pages/zarabotok-na-fiverr-bez-navykov.md)] — класс ниш без профессиональных навыков
 
 ## Related Concepts
 
@@ -165,3 +175,4 @@ GPT-приложения, продажа AI-генерируемого иску�
 [^16]: [[moy-pervyy-zakaz-na-frilanse-650-fiverr](pages/moy-pervyy-zakaz-na-frilanse-650-fiverr.md)] [02:00-03:02] [synthesis] — 2 месяца ожидания первого реального клиента, только спам-сообщения
 [^17]: [[moshenniki-na-fiverr-dlya-novichkov](pages/moshenniki-na-fiverr-dlya-novichkov.md)] [02:00-03:00] — "первый заказ может прийти только через две недели от начало вашей регистрации"
 [^18]: [[kak-zarabatyvat-na-fiverr-2026-polnyy-gayd](pages/kak-zarabatyvat-na-fiverr-2026-polnyy-gayd.md)] [14:59-15:31] [synthesis] — брифы теперь подбираются алгоритмом, полезная функция для новичков
+[^19]: [[zarabotok-na-fiverr-bez-navykov](pages/zarabotok-na-fiverr-bez-navykov.md)] [00:00-05:00] [synthesis] — пять категорий ниш без профессиональных навыков, включая эзотерику с этической оговоркой
